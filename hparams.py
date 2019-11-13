@@ -25,8 +25,8 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/arctic_ksp_train.txt',
-        validation_files='filelists/arctic_ksp_val.txt',
+        training_files='filelists/arctic_clb_train.txt',
+        validation_files='filelists/arctic_clb_val.txt',
         text_cleaners=['english_cleaners'],
 
         ################################
@@ -58,8 +58,8 @@ def create_hparams(hparams_string=None, verbose=False):
         prenet_dim=256,
         max_decoder_steps=1000,
         gate_threshold=0.5,
-        p_attention_dropout=0.1,
-        p_decoder_dropout=0.1,
+        p_attention_dropout=0.4,
+        p_decoder_dropout=0.4,
 
         # Attention parameters
         attention_rnn_dim=1024,
