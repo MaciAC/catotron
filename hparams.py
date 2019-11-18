@@ -25,8 +25,8 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/arctic_clb_train.txt',
-        validation_files='filelists/arctic_clb_val.txt',
+        training_files='filelists/arctic_ksp_train.txt',
+        validation_files='filelists/arctic_ksp_val.txt',
         text_cleaners=['english_cleaners'],
 
         ################################
