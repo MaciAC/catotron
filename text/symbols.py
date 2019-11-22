@@ -9,10 +9,9 @@ from text import cmudict
 _pad = '_' # in principle not used in tacotron2
 _punctuation = '\'!,.?… '
 _letters = 'AÀÁBCÇDEÉÈFGHIÍÏJKLMNOÓÒPQRSTUÜÚVWXYZaàábcçdeéèfghiíïjklmnoóòpqrstuüúvwxyz'
-stop = '~'
 
 # Prepend "@" to ARPAbet symbols to ensure uniqueness (some are the same as uppercase letters):
 _arpabet = ['@' + s for s in cmudict.valid_symbols]
 
 # Export all symbols:
-symbols = [_pad] + list(_punctuation) + list(_letters) + [stop] + _arpabet
+symbols = [_pad] + list(_punctuation) + list(_letters) + _arpabet

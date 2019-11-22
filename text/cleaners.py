@@ -15,7 +15,7 @@ hyperparameter. Some cleaners are English-specific. You'll typically want to use
 import re
 from unidecode import unidecode
 from .numbers import normalize_numbers
-from .symbols import symbols, stop
+from .symbols import symbols
 
 # Regular expression matching whitespace:
 _whitespace_re = re.compile(r'\s+')
@@ -135,13 +135,10 @@ def english_cleaners(text):
 
 
 def catalan_cleaners(text):
-  # remove stop symbol if any exists
-  text = text.replace(stop, '')
   text = lowercase(text)
   #text = expand_numbers(text, lang="ca")
   text = convert_characters(text, lang="ca")
   text = convert_to_ascii(text, lang="ca")
   text = expand_abbreviations(text, lang="ca")
   text = collapse_whitespace(text)
-  text = text+stop
   return text
