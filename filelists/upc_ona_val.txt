@@ -17,17 +17,13 @@
 /content/adaptation_ona_wav/upc_ca_ona_840080.wav|Desitja més informació?
 /content/adaptation_ona_wav/upc_ca_ona_830040.wav|Viu a Castella i Lleó... Has dit Castella i Lleó? Prop de Castella i Lleó.
 /content/adaptation_ona_wav/upc_ca_ona_800121.wav|Sant Jordi.
-/content/adaptation_ona_wav/upc_ca_ona_500065.wav|No hi ha cap dubte que el pas de l'aritmètica a l'àlgebra, del que és concret al que és abstracte, pot representar grans dificultats per a alguns dels alumnes, de manera que en primer lloc es dóna importància a la traducció d'una situació del llenguatge ordinari a l'algebraic, per mitjà d'exemples de situacions properes als alumnes.
-/content/adaptation_ona_wav/upc_ca_ona_200405.wav|No m'agrada pensar en botons i camises. No m'agrada pintar-me els llavis amb pintallavis de coco. No m'agrada que em toquin les ungles de les mans. No m'agrada esperar l'ascensor. No m'agrada que els coloms no s'espantin quan intento espantar-los.
 /content/adaptation_ona_wav/upc_ca_ona_200011.wav|Irracionalment, només sentim l'olor de les farigoles, i seguim caminant costa amunt.
 /content/adaptation_ona_wav/upc_ca_ona_270302.wav|Ja ho sé, home, si ho dic per dir-ho.
 /content/adaptation_ona_wav/upc_ca_ona_500036.wav|Treballar les parts del dia i mostrar que els nostres àpats estan relacionats amb aquestes parts.
-/content/adaptation_ona_wav/upc_ca_ona_300377.wav|El bus té el seu origen i final a la plaça de Catalunya i recorre, entre altres llocs, el passeig de Gràcia, la rambla de Catalunya, la Rambla i la plaça de la Catedral.
 /content/adaptation_ona_wav/upc_ca_ona_830128.wav|D'Oxford a Glasgow.
 /content/adaptation_ona_wav/upc_ca_ona_200491.wav|La Clàudia somriu deixant entreveure una cuixa entre els plecs del seu barnús de seda.
 /content/adaptation_ona_wav/upc_ca_ona_840102.wav|Si cap opció no li interessa marqui el zero i podrà tornar a realitzar la consulta.
 /content/adaptation_ona_wav/upc_ca_ona_410066.wav|Després d'aquests deu caràcters trobem un número que ens indica quants enllaços forts té l'arxiu.
-/content/adaptation_ona_wav/upc_ca_ona_410170.wav|Una base de dades #c #s #o sol contenir un llistí telefònic o un directori. Utilitzeu la funció de recerca del vostre navegador per introduir els termes a cercar.
 /content/adaptation_ona_wav/upc_ca_ona_270123.wav|Li vaig dir que anés amb compte, que les armes són perilloses, que al bosc a qualsevol se li escapa un tret, i que pensés en els nens.
 /content/adaptation_ona_wav/upc_ca_ona_270196.wav|Tots ho sabem, no fa falta tenir gaires estudis.
 /content/adaptation_ona_wav/upc_ca_ona_420065.wav|Imatge d'infants que juguen a escacs.
@@ -63,7 +59,6 @@
 /content/adaptation_ona_wav/upc_ca_ona_200301.wav|Uns quants passatgers es giren, però no li fan gaire cas.
 /content/adaptation_ona_wav/upc_ca_ona_500112.wav|És difícil trobar un llibre de text que vagi bé per a tot l'alumnat i on tots els temes i totes les activitats ens serveixin satisfactòriament.
 /content/adaptation_ona_wav/upc_ca_ona_840120.wav|Digui la data de caducitat de la seva targeta.
-/content/adaptation_ona_wav/upc_ca_ona_300278.wav|El consell coordinador del parc natural, format pels alcaldes de la zona i els representants de les diputacions de Barcelona i Girona, van acordar per unanimitat dilluns a la nit a Viladrau, Osona, que el desmantellament de la base militar sigui complet, i van desestimar la idea de mantenir els llums com un símbol.
 /content/adaptation_ona_wav/upc_ca_ona_700258.wav|A quants quilòmetres està l'estació de tren més pròxima a la població de Villalba del Rei?
 /content/adaptation_ona_wav/upc_ca_ona_750501.wav|De la caixa de Pandora en venc vuit àlbums amb fotos de viatges arreu del món.
 /content/adaptation_ona_wav/upc_ca_ona_200131.wav|Em deixo caure damunt d'un banc, amb la motxilla als peus i se m'escapa alguna llàgrima al mateix temps que es fa de nit.
@@ -73,7 +68,6 @@
 /content/adaptation_ona_wav/upc_ca_ona_270116.wav|Hem dubtat, es clar que hem dubtat, però calia prendre mesures dràstiques.
 /content/adaptation_ona_wav/upc_ca_ona_200500.wav|Era com si el fantasma de la solitària i alcohòlica dama de quaranta anys, suposant que estigués morta, amenacés d'aparèixer.
 /content/adaptation_ona_wav/upc_ca_ona_200295.wav|M'imagino la cuca dins l'estómac de l'ocell, movent les potetes.
-/content/adaptation_ona_wav/upc_ca_ona_200209.wav|Davant l'atònita mirada dels espectadors, el nen allarga el braç i, tímidament però amb fermesa, li ofereix el seu xumet al pallasso que plora.
 /content/adaptation_ona_wav/upc_ca_ona_700243.wav|Espera que la nova llei de protecció al menor sigui beneficiosa per a la societat espanyola?
 /content/adaptation_ona_wav/upc_ca_ona_270317.wav|Aquest amb tot això de l'ordenança, del vestuari val molt i és exigent.
 /content/adaptation_ona_wav/upc_ca_ona_820037.wav|Barcelona és al Barcelonès.
@@ -87,7 +81,6 @@
 /content/adaptation_ona_wav/upc_ca_ona_750409.wav|Pot estar tranquil, nosaltres li garantim la confidencialitat de la informació. Ningú no tindrà mai accés a aquestes dades.
 /content/adaptation_ona_wav/upc_ca_ona_750059.wav|El gat va esmunyir-se entre la gent per poder arribar al local on cada dia, a les tres de la tarda, una bona dona li posava un plat de macarrons acabats de fer.
 /content/adaptation_ona_wav/upc_ca_ona_420177.wav|Consell de ciutat.
-/content/adaptation_ona_wav/upc_ca_ona_420229.wav|Només s'accepten quatre passatgers amb mobilitat reduïda en cada vol. Cal que els passatgers amb mobilitat reduïda es posin en contacte amb el centre de reserves en el moment d'efectuar la reserva; en cas contrari, no se'ls permetrà viatjar. Feu clic aquí per a més informació.
 /content/adaptation_ona_wav/upc_ca_ona_410251.wav|Obté recordatoris mitjançant el correu electrònic.
 /content/adaptation_ona_wav/upc_ca_ona_700222.wav|En contra de quins problemes del tercer món creu vostè que s'hauria d'actuar amb més rapidesa?
 /content/adaptation_ona_wav/upc_ca_ona_830057.wav|La capital d'Afganistan és Kabul.
@@ -95,6 +88,13 @@
 /content/adaptation_ona_wav/upc_ca_ona_500371.wav|Són dos quarts i cinc d'onze.
 /content/adaptation_ona_wav/upc_ca_ona_700215.wav|Hi ha algun motiu pel qual no hauria vostè d'estar aquí present?
 /content/adaptation_ona_wav/upc_ca_ona_800105.wav|L'any que ve.
-/content/adaptation_ona_wav/upc_ca_ona_500305.wav|Cal veure si saben quin dia és avui, quants mesos té l'any, quants dies té l'any, quants dies falten pel seu aniversari i quanta estona falta pel pati o per sortir.
-/content/adaptation_ona_wav/upc_ca_ona_750168.wav|Aquestes últimes intervencions m'han recordat que en el grup que freqüentava de joveneta, més d'una vegada havíem fet teatre, és a dir, teníem el llibret i, asseguts en cercle, llegíem cada un el personatge que ens pertocava.
 /content/adaptation_ona_wav/upc_ca_ona_420089.wav|O bé, que la teva empresa estigui o hagi estat instal·lada en els nostres Vivers d'Empreses o al Parc Tecnològic Barcelona Nord.
+/content/adaptation_ona_wav/upc_ca_ona_200214.wav|Els defensors supervivents les tanquen i s'atrinxeren.
+/content/adaptation_ona_wav/upc_ca_ona_800229.wav|Tinc trenta-un dirhams.
+/content/adaptation_ona_wav/upc_ca_ona_800033.wav|El divuit de juliol del dos mil dos.
+/content/adaptation_ona_wav/upc_ca_ona_700034.wav|És veritat?
+/content/adaptation_ona_wav/upc_ca_ona_750154.wav|Encara que li va fer un comentari molt punyet al seu superior, aquest va fer una sol·licitud perquè fos readmès en qüestió de quinze dies.
+/content/adaptation_ona_wav/upc_ca_ona_750352.wav|No t'amoïnis, no arribes tard. Ara mateix veig com s'asseuen a taula. Els diré que no comencin sense tu, que ja estàs a punt d'arribar.
+/content/adaptation_ona_wav/upc_ca_ona_820040.wav|Amposta és al Montsià.
+/content/adaptation_ona_wav/upc_ca_ona_400008.wav|Terminal: utilitza la línia d'ordres.
+/content/adaptation_ona_wav/upc_ca_ona_270026.wav|La pel·lícula s'ha acabat.
