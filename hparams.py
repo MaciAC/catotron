@@ -25,9 +25,9 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/arctic_ksp_train.txt',
-        validation_files='filelists/arctic_ksp_val.txt',
-        text_cleaners=['english_cleaners'],
+        training_files='filelists/upc_pau_train.txt',
+        validation_files='filelists/upc_ona_val.txt',
+        text_cleaners=['catalan_cleaners'],
 
         ################################
         # Audio Parameters             #
@@ -58,8 +58,8 @@ def create_hparams(hparams_string=None, verbose=False):
         prenet_dim=256,
         max_decoder_steps=1000,
         gate_threshold=0.5,
-        p_attention_dropout=0.4,
-        p_decoder_dropout=0.4,
+        p_attention_dropout=0.3,
+        p_decoder_dropout=0.3,
 
         # Attention parameters
         attention_rnn_dim=1024,
@@ -81,7 +81,7 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate=4e-4,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=64,
+        batch_size=32,
         mask_padding=True  # set model's padded outputs to padded values
     )
 
