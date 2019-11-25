@@ -26,7 +26,7 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         load_mel_from_disk=False,
         training_files='filelists/upc_pau_train.txt',
-        validation_files='filelists/upc_ona_val.txt',
+        validation_files='filelists/upc_pau_val.txt',
         text_cleaners=['catalan_cleaners'],
 
         ################################
