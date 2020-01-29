@@ -71,6 +71,15 @@ Tacotron PyTorch implementation.
 We are thankful to the Tacotron 2 paper authors, specially Jonathan Shen, Yuxuan
 Wang and Zongheng Yang.
 
+Additionally the catalan fork of this repository has been developed thanks to the project «síntesi de la parla contra la bretxa digital» (Speech synthesis against the digital gap) that was subsidised by the Department of Culture. A part of the funding comes from the financing administered by the inheritance board of the Generalitat de Catalunya.
+
+Aquests recursos van ser desenvolupats gràcies al projecte «síntesi de la
+parla contra la bretxa digital» subvencionat pel Departament de Cultura. Una
+part dels fons provenen dels cabals que atorga la Junta d'Herències de la
+Generalitat de Catalunya.
+
+<img src="https://github.com/collectivat/cmusphinx-models/raw/master/img/logo_generalitat.png" width="400"/>
+
 
 [WaveGlow]: https://drive.google.com/file/d/1WsibBTsuRg_SF2Z6L6NFRTT-NjEy1oTx/view?usp=sharing
 [Tacotron 2]: https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view?usp=sharing
