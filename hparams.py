@@ -25,8 +25,8 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/upc_pau_train.txt',
-        validation_files='filelists/upc_pau_val.txt',
+        training_files='filelists/valencia_train.txt',
+        validation_files='filelists/valencia_val.txt',
         text_cleaners=['catalan_cleaners'],
 
         ################################
