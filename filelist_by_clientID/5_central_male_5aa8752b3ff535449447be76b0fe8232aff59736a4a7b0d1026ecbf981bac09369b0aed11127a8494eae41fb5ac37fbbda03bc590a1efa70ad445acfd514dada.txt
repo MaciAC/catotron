@@ -1,0 +1,5 @@
+common_voice_ca_17483934.mp3|La següent versió funcionarà tant en Linux com en Microsoft Windows.
+common_voice_ca_17483935.mp3|Projecte que disminueix la contaminació lumínica, quinze punts com a màxim.
+common_voice_ca_17483936.mp3|Els efectes de camins dinàmics proporcionen noves maneres de dibuixar.
+common_voice_ca_17483937.mp3|Ell era un ferrer fi, amb gràcia natural per a la filigrana.
+common_voice_ca_17483938.mp3|L'objectiu final és conèixer la incidència de la grip a Catalunya.

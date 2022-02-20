@@ -1,0 +1,5 @@
+common_voice_ca_19083807.mp3|Es varen haver de fer altres correccions menors a la part del motor encarregada de generar els suggeriments.
+common_voice_ca_19083808.mp3|Pollets de juliol, el cap o el cul sempre els dol.
+common_voice_ca_19083810.mp3|Les regles que havia creat l'estil són quasi destruïdes.
+common_voice_ca_19083812.mp3|No digues blat si no el tens lligat dins del sac.
+common_voice_ca_19083814.mp3|Era un bon company, de qui podia traure un cert partit.

@@ -1,0 +1,4 @@
+common_voice_ca_19054170.mp3|Tanco els ulls.
+common_voice_ca_19054171.mp3|A tots arriba l'hora.
+common_voice_ca_19054172.mp3|La resta del programa s'ha de tramitar si es mantenen les condicions i requisits que així ho permetin.
+common_voice_ca_19054173.mp3|A qui no s'ha de morir, l'aigua li és medecina.

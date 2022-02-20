@@ -1,0 +1,39 @@
+common_voice_ca_17710907.mp3|Venim d'Alcanar.
+common_voice_ca_17710908.mp3|Venim de ses Salines.
+common_voice_ca_17710909.mp3|Els missatges que m'enviava l'advocat em confonien.
+common_voice_ca_17710910.mp3|Dan, has portat els tendals a la noia de les gandules?
+common_voice_ca_17710911.mp3|Els meus avis es van conèixer anant a collir raïms.
+common_voice_ca_17710927.mp3|Venim de Gaianes.
+common_voice_ca_17710928.mp3|Quina mandra, haver de sortir amb el fred que fa.
+common_voice_ca_17710929.mp3|S'ha adormit al tren i s'ha passat de parada.
+common_voice_ca_17710930.mp3|L'entrada de la família l'enlluernava, i l'infeliç sentia una impressió de vanitat.
+common_voice_ca_17710931.mp3|Podreu sortir de Reus?
+common_voice_ca_17734212.mp3|Venim de l'Espunyola.
+common_voice_ca_17734213.mp3|Venim de Callús.
+common_voice_ca_17734214.mp3|No em facis ganyotes.
+common_voice_ca_17734215.mp3|Tot depèn de la decisió del jutge.
+common_voice_ca_17734216.mp3|Venim de Tiurana.
+common_voice_ca_17734232.mp3|Els següents capítols faran pensar en Nissaga de poder.
+common_voice_ca_17734233.mp3|Per la Candelera, ous a la carrera.
+common_voice_ca_17734234.mp3|Venim de Sitges.
+common_voice_ca_17734235.mp3|Venim de Paiporta.
+common_voice_ca_17734237.mp3|Venim de Riudecols.
+common_voice_ca_17739002.mp3|Els valencians fan girar la campana sencera.
+common_voice_ca_17739003.mp3|Venim de Llardecans.
+common_voice_ca_17739004.mp3|Ells diuen que sí i jo dic que no.
+common_voice_ca_17739005.mp3|Venim de Sot de Xera.
+common_voice_ca_17739007.mp3|Venim de Banyalbufar.
+common_voice_ca_17739008.mp3|Venim de Vic.
+common_voice_ca_17739009.mp3|Venim de l'Estany.
+common_voice_ca_17739010.mp3|Venim de València.
+common_voice_ca_17739011.mp3|La presó del castell era insalubre.
+common_voice_ca_17739012.mp3|Un dels grans problemes en la indústria del programari és la dependència que es crea entre el fabricant i el client.
+common_voice_ca_17739013.mp3|Cada mes, la mateixa història.
+common_voice_ca_17739014.mp3|Venim de Setcases.
+common_voice_ca_17739015.mp3|Venim de Sant Feliu Sasserra.
+common_voice_ca_17739016.mp3|Home sense diners fa mal anar pels carrers.
+common_voice_ca_17739017.mp3|Fa massa temps que no anem al teatre.
+common_voice_ca_17739018.mp3|Venim d'Alcanó.
+common_voice_ca_17739019.mp3|Venim de Massamagrell.
+common_voice_ca_17739020.mp3|Venim del Masnou.
+common_voice_ca_17739021.mp3|No havia passat mai tanta calor.

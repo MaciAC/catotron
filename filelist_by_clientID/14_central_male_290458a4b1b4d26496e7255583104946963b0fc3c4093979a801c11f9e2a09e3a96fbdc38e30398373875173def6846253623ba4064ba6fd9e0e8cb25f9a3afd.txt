@@ -1,0 +1,14 @@
+common_voice_ca_17855860.mp3|Les aigües pluvials es recolliran i conduiran directament cap a la llera de la riera.
+common_voice_ca_17855861.mp3|Venim de Sant Antoni de Vilamajor.
+common_voice_ca_17855862.mp3|Venim de Cabrils.
+common_voice_ca_17855863.mp3|A qui et vulga mal, menja-li el pa, i al que et vulga bé, també.
+common_voice_ca_17855864.mp3|Venim de Bellpuig.
+common_voice_ca_17855865.mp3|Venim de Vallmoll.
+common_voice_ca_17855866.mp3|Venim de Benicàssim.
+common_voice_ca_17855867.mp3|I saps què?
+common_voice_ca_17855868.mp3|Venim de Monòver.
+common_voice_ca_17855869.mp3|Venim de Sant Joan d'Alacant.
+common_voice_ca_17855870.mp3|Venim de Murla.
+common_voice_ca_17855871.mp3|Venim d'Esporles.
+common_voice_ca_17855872.mp3|Venim de Benidorm.
+common_voice_ca_17855873.mp3|Venim de Rugat.

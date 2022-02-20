@@ -1,0 +1,5 @@
+common_voice_ca_19905073.mp3|Pertany a la Comarca de Santiago.
+common_voice_ca_19905074.mp3|Com a especialista de guitarra segueix la línia dels grans intèrprets espanyols.
+common_voice_ca_19905075.mp3|L'edifici acaba amb una senzilla cornisa que marca l'amplada dels dos cóssos de la finca.
+common_voice_ca_19905076.mp3|Després de l'estrèpit del falconet, farien sonar les trompetes.
+common_voice_ca_19905077.mp3|La grandària de l'església sembla excepcional respecte dels estàndards islandesos.

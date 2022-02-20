@@ -1,0 +1,240 @@
+common_voice_ca_18374668.mp3|Venim de l'Albiol.
+common_voice_ca_18374669.mp3|Venim de Campdevànol.
+common_voice_ca_18374670.mp3|Venim de Fornalutx.
+common_voice_ca_18374671.mp3|Venim d'Alforja.
+common_voice_ca_18374672.mp3|Venim de Crespià.
+common_voice_ca_18374693.mp3|Venim de la Cellera de Ter.
+common_voice_ca_18374694.mp3|Venim de la Pobla de Montornès.
+common_voice_ca_18374695.mp3|Venim de Blanes.
+common_voice_ca_18374696.mp3|Venim de Duesaigües.
+common_voice_ca_18374697.mp3|Venim de Conca de Dalt.
+common_voice_ca_18374703.mp3|Venim de la Jonquera.
+common_voice_ca_18374704.mp3|Venim de Capafonts.
+common_voice_ca_18374705.mp3|Venim de Manlleu.
+common_voice_ca_18374706.mp3|Venim de Menàrguens.
+common_voice_ca_18374728.mp3|Venim del Pont de Vilomara i Rocafort.
+common_voice_ca_18374729.mp3|Venim de Cambrils.
+common_voice_ca_18374730.mp3|Venim d'Alaior.
+common_voice_ca_18374731.mp3|Venim de Castellfollit de Riubregós.
+common_voice_ca_18374732.mp3|Venim de les Valls d'Aguilar.
+common_voice_ca_18374758.mp3|Venim de Girona.
+common_voice_ca_18374759.mp3|Venim de la Torre de Fontaubella.
+common_voice_ca_18374760.mp3|Venim de Maspujols.
+common_voice_ca_18374761.mp3|Venim de Folgueroles.
+common_voice_ca_18374762.mp3|Venim de Guils de Cerdanya.
+common_voice_ca_18374808.mp3|Venim d'Òdena.
+common_voice_ca_18374809.mp3|Venim de Barcelona.
+common_voice_ca_18374810.mp3|Venim de Fondarella.
+common_voice_ca_18374811.mp3|Venim de Masquefa.
+common_voice_ca_18374812.mp3|Venim de Godall.
+common_voice_ca_18374828.mp3|Venim de Fontanilles.
+common_voice_ca_18374829.mp3|Venim de la Portella.
+common_voice_ca_18374830.mp3|Venim de la Galera.
+common_voice_ca_18374831.mp3|Venim de Cabrera d'Anoia.
+common_voice_ca_18374832.mp3|Venim de Gisclareny.
+common_voice_ca_18374853.mp3|Venim d'Alcarràs.
+common_voice_ca_18374854.mp3|Venim de Gironella.
+common_voice_ca_18374855.mp3|Venim de Campllong.
+common_voice_ca_18374856.mp3|Venim de Sencelles.
+common_voice_ca_18374857.mp3|Venim de Barberà de la Conca.
+common_voice_ca_18374863.mp3|Venim de la Palma d'Ebre.
+common_voice_ca_18374864.mp3|Venim dels Omellons.
+common_voice_ca_18374865.mp3|Venim de Cervelló.
+common_voice_ca_18374866.mp3|Venim de Castellterçol.
+common_voice_ca_18374867.mp3|Venim de Campins.
+common_voice_ca_18374883.mp3|Venim de Cornellà del Terri.
+common_voice_ca_18374887.mp3|Venim de Batea.
+common_voice_ca_18374889.mp3|Venim de Lloret de Vistalegre.
+common_voice_ca_18374891.mp3|Venim d'Olivella.
+common_voice_ca_18374892.mp3|Venim de Sant Joan de Labritja.
+common_voice_ca_18374898.mp3|Venim d'Anglès.
+common_voice_ca_18374899.mp3|Venim del Pla del Penedès.
+common_voice_ca_18374900.mp3|Venim d'Avinyonet del Penedès.
+common_voice_ca_18374901.mp3|Venim de Maldà.
+common_voice_ca_18374902.mp3|Venim de Molins de Rei.
+common_voice_ca_18374913.mp3|Venim de Palamós.
+common_voice_ca_18374914.mp3|Venim de Jorba.
+common_voice_ca_18374916.mp3|Venim de Pacs del Penedès.
+common_voice_ca_18374917.mp3|Venim de Monistrol de Montserrat.
+common_voice_ca_18374938.mp3|Venim del Pla de Santa Maria.
+common_voice_ca_18374939.mp3|Venim de Petra.
+common_voice_ca_18374940.mp3|Venim de Dosrius.
+common_voice_ca_18374941.mp3|Venim de Bellvís.
+common_voice_ca_18374942.mp3|Venim de Manacor.
+common_voice_ca_18374948.mp3|Venim de Golmés.
+common_voice_ca_18374950.mp3|Venim de Bellmunt d'Urgell.
+common_voice_ca_18374951.mp3|Venim de Montesquiu.
+common_voice_ca_18374952.mp3|Venim de Santanyí.
+common_voice_ca_18374953.mp3|Venim d'Isona i Conca Dellà.
+common_voice_ca_18374954.mp3|Venim de Marçà.
+common_voice_ca_18374955.mp3|Venim de Maó.
+common_voice_ca_18374956.mp3|Venim de l'Aldea.
+common_voice_ca_18374957.mp3|Venim de Navès.
+common_voice_ca_18374973.mp3|Venim de Guissona.
+common_voice_ca_18374974.mp3|Venim de Castellnou de Bages.
+common_voice_ca_18374976.mp3|Venim de la Granadella.
+common_voice_ca_18374977.mp3|Venim de Vilafranca de Bonany.
+common_voice_ca_18374987.mp3|Venim de Deltebre.
+common_voice_ca_18374989.mp3|Venim de Cardona.
+common_voice_ca_18374990.mp3|Venim de la Pobla de Segur.
+common_voice_ca_18374991.mp3|Venim de Benavent de Segrià.
+common_voice_ca_18374992.mp3|Venim de la Torre de Cabdella.
+common_voice_ca_18375004.mp3|Venim de la Nou de Berguedà.
+common_voice_ca_18375005.mp3|Venim d'Almoster.
+common_voice_ca_18375006.mp3|Venim de Deià.
+common_voice_ca_18375008.mp3|Venim de Gratallops.
+common_voice_ca_18375024.mp3|Venim de la Palma de Cervelló.
+common_voice_ca_18375026.mp3|Venim d'Olot.
+common_voice_ca_18375038.mp3|Venim de Castellar de la Ribera.
+common_voice_ca_18375040.mp3|Venim del Cogul.
+common_voice_ca_18375042.mp3|Venim de les Avellanes i Santa Linya.
+common_voice_ca_18375053.mp3|Venim de Celrà.
+common_voice_ca_18375056.mp3|Venim de Cubelles.
+common_voice_ca_18375057.mp3|Venim de Canovelles.
+common_voice_ca_18418589.mp3|De qui era aquell peu que sota de la taula xafava el seu?
+common_voice_ca_18418590.mp3|Tots els seus pecats consistien a fugir de la faena, perquè creia que era contrària als mandats del Senyor.
+common_voice_ca_18418591.mp3|No té el discurs molt viu la persona que molt riu.
+common_voice_ca_18418592.mp3|Evidentment que sí.
+common_voice_ca_18418593.mp3|El temps és un gran mestre.
+common_voice_ca_18418599.mp3|Amic pel seu profit, que se'n torne al llit.
+common_voice_ca_18418600.mp3|Això em basta per a tenir la clau de tota la resta.
+common_voice_ca_18418601.mp3|A casa del músic, qui no canta, taral·leja.
+common_voice_ca_18418602.mp3|Després podràs anar a reunir-te amb ells.
+common_voice_ca_18418603.mp3|Aquest coneixement és demostrable mitjançant una declaració responsable per cada institució.
+common_voice_ca_18418614.mp3|Presentació per part de l'alumnat de logos per a la nova imatge del grup de Generació Espontània «DIVERSA».
+common_voice_ca_18418615.mp3|Amb les mateixes firmes poden expedir-se certificats dels acords del Consell.
+common_voice_ca_18418616.mp3|No és bon mariner el que no s'ha marejat mai.
+common_voice_ca_18418617.mp3|Només n'admeten una, cosa que resulta totalment insuficient i no evita que el programari puga ser patentable.
+common_voice_ca_18418618.mp3|Aquell sí que era un home.
+common_voice_ca_18418634.mp3|Trons al Pi Gros, aigua al tros.
+common_voice_ca_18418635.mp3|Pot pronunciar un repertori molt limitat d'expressions i de paraules apreses.
+common_voice_ca_18418636.mp3|Li fem els maigs a la Mare de Déu.
+common_voice_ca_18418637.mp3|A casa vella, portalada nova.
+common_voice_ca_18418638.mp3|La dissonància equivalia al pecat en la cultura medieval cristiana.
+common_voice_ca_18418669.mp3|La qüestió clau és no posar la tecnologia sense saber per què.
+common_voice_ca_18418670.mp3|Pluja menuda, la terra ajuda; i bon ruixat, la terra bat.
+common_voice_ca_18418671.mp3|Planteja dubtes, també, sobre la constitucionalitat de les excepcions esmentades en l'article a favor de l'Estat.
+common_voice_ca_18418672.mp3|Els mèrits que no siguen acreditats suficientment no seran tinguts en compte als efectes de la seua valoració.
+common_voice_ca_18418673.mp3|De la indignació i el malestar ixen, sovint, propostes.
+common_voice_ca_19041726.mp3|L'interessat podrà reclamar davant de la direcció del centre la dita resolució.
+common_voice_ca_19041727.mp3|Podeu obtenir més informació i apuntar-vos a la pàgina Wiki que hem creat per a l'ocasió.
+common_voice_ca_19041728.mp3|Que accepti els codis internacionals de llengua i variants, on el valencià té perfecta cabuda.
+common_voice_ca_19041729.mp3|Reconstrucció volumètrica de la ceràmica a partir de fragments que permeten d'obtenir el seu perfil.
+common_voice_ca_19041782.mp3|No hi ha dissabte sense sol, ni viuda sense dol.
+common_voice_ca_19041783.mp3|Aquesta tasca es realitzarà amb independència que existeixi el servei d'auxiliar de la llar en el mateix domicili.
+common_voice_ca_19041784.mp3|Per viure no ens hem de matar.
+common_voice_ca_19041785.mp3|Amenaçats pel foc dels amics si resten a la ciutat, i saquejats per la soldadesca si l'abandonen.
+common_voice_ca_19041786.mp3|Ponent posa i llevant lleva.
+common_voice_ca_19041793.mp3|Per què no Windows?
+common_voice_ca_19041794.mp3|La firma d'aquest full de ruta per part de la persona participant suposa el tancament de la seva primera fase.
+common_voice_ca_19041795.mp3|Coeu-ho a poc a poc, a fi que la farina quedi rosseta.
+common_voice_ca_19041796.mp3|A tot senyor, tot honor.
+common_voice_ca_19041797.mp3|Cada gelada en març, una ploguda en maig.
+common_voice_ca_19041818.mp3|Adquirir una tècnica apropiada pel que fa al procés respiratori i l'acció de la columna d'aire.
+common_voice_ca_19041819.mp3|Tingui.
+common_voice_ca_19041820.mp3|Per l'agost, l'aigua del cel fa bona mel.
+common_voice_ca_19041821.mp3|I pluralitat indeterminada de persones a què pogueren afectar les ordres impugnades.
+common_voice_ca_19041822.mp3|Les creences dogmàtiques són més o menys nombroses segons els temps.
+common_voice_ca_19041828.mp3|Venim de Quesa.
+common_voice_ca_19041829.mp3|Abril gelat, coques de blat.
+common_voice_ca_19041830.mp3|Hi ha, doncs, membres, però no cos.
+common_voice_ca_19041831.mp3|Quin món de mones.
+common_voice_ca_19041832.mp3|Eren els coets voladors que anunciaven la disparada de focs d'artifici.
+common_voice_ca_19041838.mp3|De la mar i del caparrot, ningú en treu el que vol, sinó el que pot.
+common_voice_ca_19041839.mp3|Amb diners, carxofes, i amb paper, milotxes.
+common_voice_ca_19041840.mp3|Anyada d'ocells, anyada de fam.
+common_voice_ca_19041841.mp3|Nadal al foc, Pasqua al joc.
+common_voice_ca_19041842.mp3|Molta pluja per Nadal, alegria per tot l'any.
+common_voice_ca_19041848.mp3|La seua extensió pot ser de centenars o milers de quilòmetres quadrats.
+common_voice_ca_19041849.mp3|Intentada la seva notificació, aquesta no s'ha pogut dur a terme a la persona interessada que figura a l'annex.
+common_voice_ca_19041850.mp3|També es pot seleccionar l'entorn d'escriptori desitjat des dels menús d'arrencada dels CD o DVD.
+common_voice_ca_19041851.mp3|Pits.
+common_voice_ca_19041852.mp3|Arranjada la configuració de múltiples targetes de la mateixa categoria.
+common_voice_ca_19041868.mp3|Oposar resistència a la funció inspectora o posar entrebancs a la inspecció d'instal·lacions que allotgin animals.
+common_voice_ca_19041869.mp3|La indignació del vell animava el públic.
+common_voice_ca_19041870.mp3|Tots els criteris indicats en aquest apartat són criteris bàsics d'obligat compliment.
+common_voice_ca_19041872.mp3|Afegiu a la cassola el conill, els caragols i la picada feta amb les ametlles.
+common_voice_ca_19041873.mp3|Se situa a la divisòria d'aigües que segueix a partir de la Creueta cap al sud.
+common_voice_ca_19041874.mp3|El tribunal determinarà el temps màxim per realitzar-la.
+common_voice_ca_19041875.mp3|Entre Tots Sants i la Nativitat, entra l'hivern de veritat.
+common_voice_ca_19041876.mp3|Amistats conserven la paret mitgera.
+common_voice_ca_19041877.mp3|De l'Amèrica i del Japó arriben a sa casa per a consultar-li sobre nous programes d'ordinadors.
+common_voice_ca_19041878.mp3|Nadal al foc, Pasqua al sol.
+common_voice_ca_19041879.mp3|Xiula-li, que té agonia.
+common_voice_ca_19041880.mp3|Va continuar llegint.
+common_voice_ca_19041881.mp3|És una pintura que es diu que fou manada fer pel capítol de la parròquia de Santa Caterina, allà a València.
+common_voice_ca_19041882.mp3|Al teu fill dóna un ofici, que la ganduleria és mare del vici.
+common_voice_ca_20123367.mp3|Aquesta edició per causa de la guerra civil va ser de molt mal trobar posteriorment.
+common_voice_ca_20123369.mp3|Serà un opuscle més polititzat que el seu antecessor, amb un contingut ideològic més important.
+common_voice_ca_20123372.mp3|Existeixen gravacions en directe d'ella.
+common_voice_ca_20123375.mp3|Podria tractar-se d'una piscina.
+common_voice_ca_20123377.mp3|Pintor italià del Renaixement.
+common_voice_ca_20123717.mp3|És la base adoptada pel model Europeu de la jerarquia digital plesiòcrona.
+common_voice_ca_20123719.mp3|Aquest darrer no va tenir successor fins que la seva escola fou reoberta per Ptolemeu.
+common_voice_ca_20123722.mp3|Així Fuster debutà finalment a la Primera Divisió.
+common_voice_ca_20123723.mp3|El comportament dels acompanyants va afectar fortament els resultats.
+common_voice_ca_20123724.mp3|Aquí es mostra una de les obligacions dels musulmans que és la caritat.
+common_voice_ca_20123810.mp3|Això va obligar a una reestructuració de la flota pesquera.
+common_voice_ca_20123811.mp3|No m'agraden massa els francesos, d'altra banda, sobretot com ell.
+common_voice_ca_20123813.mp3|L'aparença exterior podria ser hexagonal, tot i que actualment és difícil de veure.
+common_voice_ca_20123816.mp3|La seva carrera professional comença a Broadway.
+common_voice_ca_20123900.mp3|Se l'hi deuen notables composicions.
+common_voice_ca_20123901.mp3|Com a escriptor destaquen els seus assajos sobre crítica literària.
+common_voice_ca_20123902.mp3|És usat també en piscines municipals com a neutralitzador dels efectes àcids del clor.
+common_voice_ca_20123904.mp3|La construcció, rehabilitada, està bastida en pedra desbastada de diverses mides, disposada irregularment.
+common_voice_ca_20124186.mp3|El cos d'aquesta espècie manca d'escates i els seus costats són extremadament aplanats.
+common_voice_ca_20124187.mp3|Com a la pintura, fou una reacció directa als excessos estilístics de l'arquitectura expressionista.
+common_voice_ca_20124188.mp3|El tractament de l'interior emfatitza l'estructura d'arcs parabòlics de les capelles.
+common_voice_ca_20231568.mp3|Altres ciutats, com Pec, van ser cremades enterament.
+common_voice_ca_20231569.mp3|Les ales i les cues són sempre curtes i arrodonides.
+common_voice_ca_20231571.mp3|Un camió accidentat sobre la carretera més pròxima vessa els seus productes químics al bosc.
+common_voice_ca_20231572.mp3|Parla amb fluïdesa cinc idiomes: luxemburguès, alemany, francès, italià i anglès.
+common_voice_ca_20231573.mp3|Posteriorment, Castellnou s'incorporà als dominis dels vescomtes d'Àger i Cabrera.
+common_voice_ca_20231597.mp3|Creu de terme realitzada i composta per dues parts.
+common_voice_ca_20231599.mp3|Va morir en un accident automobilístic.
+common_voice_ca_20231601.mp3|És parasitat, a l'estómac, per endoparàsits nematodes.
+common_voice_ca_20231602.mp3|Estarà dirigida per Jordi Rubió i Balaguer.
+common_voice_ca_20231603.mp3|La carena del ventre la té més marcada que la de la sardina.
+common_voice_ca_20231617.mp3|Tanmateix, es tractava d'un edifici d'una sola nau, amb absis semicircular.
+common_voice_ca_20231619.mp3|Tot i que el curs està disponible, per al programa s'ha aturat.
+common_voice_ca_20231620.mp3|Es troba a Ruanda i Burundi.
+common_voice_ca_20231621.mp3|Era membre d'una família obrera i treballava en un taller.
+common_voice_ca_20231622.mp3|L'Alt Egipte és la zona en què el Nil es troba envoltat pel desert.
+common_voice_ca_20231648.mp3|Imprescindibles la catedral i la torre de Sant Martí.
+common_voice_ca_20231650.mp3|Quan era jove, la família es traslladà a Barcelona, on estudià alguns cursos de batxillerat.
+common_voice_ca_20231651.mp3|Aquest satèl·lit sembla no pertànyer a cap grup.
+common_voice_ca_20231652.mp3|El terme pot ésser utilitzat per parlar d'un nom oficial o per metonímia.
+common_voice_ca_20231653.mp3|Està situada a l'extrem sud del terme de Mentet i al nord del de Setcases.
+common_voice_ca_20231670.mp3|Aquesta platja va ser encarregada al Segon exèrcit britànic.
+common_voice_ca_20231671.mp3|És més retòric i castellanitzat que Garcia.
+common_voice_ca_20231672.mp3|Aquestes festes inclouen actes religiosos i populars.
+common_voice_ca_20231673.mp3|No es va creure mai convenient actualitzar allò que quedava del tot desfasat.
+common_voice_ca_20231675.mp3|Intentant mantenir-se entre la realitat i la ficció, amb una gran quantitat d'il·lustració de fantasies.
+common_voice_ca_20231734.mp3|Damunt seu hi ha una finestra rectangular bastida en maons i pedra desbastada, reformada.
+common_voice_ca_20231735.mp3|A més a més del somali, parlava italià, anglès i àrab.
+common_voice_ca_20231736.mp3|Eloi passava pel llogarret, on havia construït l'església feia un temps.
+common_voice_ca_20231737.mp3|Heus aquí una llista cronològicament inversa de la filmografia de l'actriu.
+common_voice_ca_20231738.mp3|Segons Plató hi ha tantes categories de coneixements com classes d'ens.
+common_voice_ca_20231759.mp3|La muller de Manuel havia mort de part.
+common_voice_ca_20231760.mp3|Les discòrdies van esclatar entre els seus fills.
+common_voice_ca_20231761.mp3|S'oposen a les alteracions monetàries.
+common_voice_ca_20231794.mp3|El Cap de Govern d'Andorra, Albert Pintat, n'és el President d'honor.
+common_voice_ca_20231795.mp3|L’obra, però, va quedar incompleta.
+common_voice_ca_20231796.mp3|Chiapas.
+common_voice_ca_20231797.mp3|La tradició cristiana havia establert que l'evangeli més antic era el de Mateu.
+common_voice_ca_20231798.mp3|La mel d'aquesta espècie és àmpliament sol·licitada pel seu color clar i delicat gust.
+common_voice_ca_20231809.mp3|La coberta de l'església és a dues aigües.
+common_voice_ca_20231811.mp3|El musell mai és puntegut.
+common_voice_ca_20231812.mp3|La seva radicalització es manifesta sovint en el problema d'Irlanda, un exemple pel catalanisme actiu.
+common_voice_ca_20231814.mp3|Margarida es va oposar frontalment a qualsevol solució que allunyés el seu fill del tron.
+common_voice_ca_20231817.mp3|No cal dir que li sorgiren força imitadors.
+common_voice_ca_20231853.mp3|Va ser una de les poques veus femenines en la poesia palestina.
+common_voice_ca_20231854.mp3|És un edifici protegit com a Bé Cultural d'Interès Local.
+common_voice_ca_20231855.mp3|Aquestes drogues són bastant tòxiques i complicades d'administrar.
+common_voice_ca_20231856.mp3|A la façana hi ha unes rajoles ceràmiques que representen Sant Jordi.
+common_voice_ca_20231857.mp3|Es troba a les costes dels oceans Índic i Pacífic.
+common_voice_ca_20231865.mp3|Els aliats es van retirar a la tardor per l'hivern entrant.
+common_voice_ca_20231866.mp3|Va ser catedràtic de música de cambra al Conservatori Municipal de Música de Barcelona.
+common_voice_ca_20231868.mp3|La llegenda els fa descendir de la fada Melusina i el seu marit Ramonet.
+common_voice_ca_20231869.mp3|Volem veure els personatges tornar a Nova York.
+common_voice_ca_20231870.mp3|Amb la seva capacitat quan presidenta, Bakunin va restaurar la biblioteca de l'Acadèmia.

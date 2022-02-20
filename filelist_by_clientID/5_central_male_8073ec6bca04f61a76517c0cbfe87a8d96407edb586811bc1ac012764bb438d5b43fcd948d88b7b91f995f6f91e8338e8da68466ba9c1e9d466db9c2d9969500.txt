@@ -1,0 +1,5 @@
+common_voice_ca_17852521.mp3|Venim de Fígols i Alinyà.
+common_voice_ca_17852522.mp3|Venim de Nulles.
+common_voice_ca_17852523.mp3|Venim de Vilamalla.
+common_voice_ca_17852524.mp3|Si plou per la lluna nova d'agost, plourà nou llunes seguides.
+common_voice_ca_17852525.mp3|Venim de Coix.

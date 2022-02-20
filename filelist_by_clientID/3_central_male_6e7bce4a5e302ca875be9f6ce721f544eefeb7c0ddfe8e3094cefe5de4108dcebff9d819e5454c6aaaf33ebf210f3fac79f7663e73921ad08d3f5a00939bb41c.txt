@@ -1,0 +1,3 @@
+common_voice_ca_19033572.mp3|Sant Joan, el dia més gran.
+common_voice_ca_19033573.mp3|Tot queda a casa.
+common_voice_ca_19033575.mp3|Cada membre emetrà una qualificació sobre cada apartat, obtenint-se la mitjana d'elles en cada cas.

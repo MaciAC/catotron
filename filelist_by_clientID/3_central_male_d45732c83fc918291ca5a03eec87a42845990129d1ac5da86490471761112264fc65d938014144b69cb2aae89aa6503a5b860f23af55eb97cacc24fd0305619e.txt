@@ -1,0 +1,3 @@
+common_voice_ca_18359063.mp3|Venim d'Os de Balaguer.
+common_voice_ca_18359064.mp3|Venim de la Granada.
+common_voice_ca_18359067.mp3|Venim de Castellbisbal.

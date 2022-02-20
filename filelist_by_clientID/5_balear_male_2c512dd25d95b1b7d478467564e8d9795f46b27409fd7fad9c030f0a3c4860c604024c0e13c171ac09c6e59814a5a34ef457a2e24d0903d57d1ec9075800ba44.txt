@@ -1,0 +1,5 @@
+common_voice_ca_17852506.mp3|Venim de Torà.
+common_voice_ca_17852507.mp3|Són empreses que centren el seu negoci en la venda de maquinari i per a les quals el programari n'és un complement necessari.
+common_voice_ca_17852508.mp3|Venim de Sot de Xera.
+common_voice_ca_17852509.mp3|Venim de Vilanova de la Reina.
+common_voice_ca_17852510.mp3|Barregen Fanta i Eristoff en una cassola.

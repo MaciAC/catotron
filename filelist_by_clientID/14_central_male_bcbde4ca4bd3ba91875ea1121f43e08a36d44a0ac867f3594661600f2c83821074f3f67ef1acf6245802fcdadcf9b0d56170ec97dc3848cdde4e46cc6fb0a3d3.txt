@@ -1,0 +1,14 @@
+common_voice_ca_19032501.mp3|Aigua de primavera, si no és torrencial, ompli la panera.
+common_voice_ca_19032502.mp3|Tot era fosc.
+common_voice_ca_19032503.mp3|El bon menestral, conill per Sant Joan i pollastre per Nadal.
+common_voice_ca_19032504.mp3|El qui als trenta no té els quinzets i als quaranta les pessetes, als cinquanta pot anar a fer punyetes.
+common_voice_ca_19032505.mp3|La neu del febrer, se l'emporta amb les potes el llebrer.
+common_voice_ca_19032506.mp3|Els bolets que porten beina, al fossar donen feina.
+common_voice_ca_19032507.mp3|Cada ocell el seu reclam.
+common_voice_ca_19032508.mp3|No hi ha període de mitja veda en l'àmbit del parc.
+common_voice_ca_19032509.mp3|Qui no estrena per Nadal, res no val.
+common_voice_ca_19032511.mp3|Però això ens sembla una al·legació gratuïta.
+common_voice_ca_19032512.mp3|Les bones festes comencen per la vigília.
+common_voice_ca_19032513.mp3|No interessa l'oferiment de llicències de programari tipus antivirus, etcètera.
+common_voice_ca_19032514.mp3|Personació i intervenció en situacions de crisi sempre que els professionals de torn i reforç no puguen acudir.
+common_voice_ca_19032515.mp3|En tot cas, evitar l'obertura d'accessos incideix favorablement en la reducció de l'afectació visual.

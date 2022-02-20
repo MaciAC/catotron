@@ -1,0 +1,35 @@
+common_voice_ca_21960351.mp3|set
+common_voice_ca_21960352.mp3|vuit
+common_voice_ca_21960353.mp3|u
+common_voice_ca_21960355.mp3|Ei
+common_voice_ca_21960357.mp3|dos
+common_voice_ca_21960376.mp3|tres
+common_voice_ca_21960377.mp3|nou
+common_voice_ca_21960378.mp3|no
+common_voice_ca_21960379.mp3|zero
+common_voice_ca_21960380.mp3|quatre
+common_voice_ca_21960453.mp3|sí
+common_voice_ca_21960454.mp3|sis
+common_voice_ca_21960456.mp3|cinc
+common_voice_ca_21960459.mp3|Firefox
+common_voice_ca_21960462.mp3|En termes de creació de llocs de treball aquests esquemes van tenir un èxit relatiu.
+common_voice_ca_21960543.mp3|Fou inhumada a l'abadia de Montmajor.
+common_voice_ca_21960544.mp3|Té forma d'una gran curculla sostinguda per una mà.
+common_voice_ca_21960546.mp3|Es tracta d'un animal nocturn i solitari que s'alimenta d'insectes, aranyes i vegetació.
+common_voice_ca_21960547.mp3|Impulsà la Coordinadora del metall de Barcelona de Comissions Obreres.
+common_voice_ca_21960548.mp3|També es pot trobar puntualment altres roques en filons.
+common_voice_ca_21960613.mp3|Quan va morir l'emperador, va tornar a fer de pastor.
+common_voice_ca_21960614.mp3|Es troba al nord-est del Golf de Mèxic i a Guaiana.
+common_voice_ca_21960615.mp3|Una altra modalitat de dards són els dards amb sarbatana.
+common_voice_ca_21960616.mp3|Estudià el batxillerat a Palma.
+common_voice_ca_21960617.mp3|Les seves llavors tenen un gran poder de disseminació.
+common_voice_ca_21960806.mp3|La façana ha estat realitzada amb maó, arrebossada i pintada.
+common_voice_ca_21960809.mp3|Fou el primer club de fora de la capital Teheran en guanyar la lliga iraniana.
+common_voice_ca_21960810.mp3|Actualment la casa l'ocupa un establiment de restauració.
+common_voice_ca_21960811.mp3|L'edifici de la seu està protegit com a bé cultural d'interès local.
+common_voice_ca_21960812.mp3|La permeabilitat intrínseca és una funció de la porositat, no del fluid.
+common_voice_ca_21963393.mp3|Es conserva al Museu del Louvre de París.
+common_voice_ca_21963395.mp3|La citoarquitectura de l'escorça és l'organització de l'escorça segons els teixits que tenen cèl·lules nervioses.
+common_voice_ca_21963398.mp3|La seu del comtat és la ciutat de Hudson.
+common_voice_ca_21963400.mp3|Extremadament tòxic a peixos i abelles.
+common_voice_ca_21963402.mp3|Les zones bíbliques són plenes d'excavacions, llocs arqueològics i museus oberts al públic en general.

@@ -1,0 +1,5 @@
+common_voice_ca_17509892.mp3|Que fort!
+common_voice_ca_17509894.mp3|No va passar.
+common_voice_ca_17509895.mp3|Sí, potser sí.
+common_voice_ca_17509896.mp3|Després va tornar a parlar.
+common_voice_ca_17509898.mp3|És divertit.

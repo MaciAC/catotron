@@ -1,0 +1,9 @@
+common_voice_ca_17819640.mp3|Juliol, agost i Maó, els millors ports del Mediterrani són.
+common_voice_ca_17819642.mp3|Venim de Catarroja.
+common_voice_ca_17819643.mp3|Venim de la Quar.
+common_voice_ca_17819644.mp3|Endreça'ls per ordre alfabètic.
+common_voice_ca_17819651.mp3|Com abans.
+common_voice_ca_17819653.mp3|Venim de Godella.
+common_voice_ca_17819655.mp3|Venim de Sant Guim de Freixenet.
+common_voice_ca_17819657.mp3|Venim d'Ordino.
+common_voice_ca_17819659.mp3|Venim de la Llosa de Ranes.

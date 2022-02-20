@@ -1,0 +1,5 @@
+common_voice_ca_22185231.mp3|sis
+common_voice_ca_22185234.mp3|quatre
+common_voice_ca_22185238.mp3|set
+common_voice_ca_22185242.mp3|no
+common_voice_ca_22185244.mp3|cinc

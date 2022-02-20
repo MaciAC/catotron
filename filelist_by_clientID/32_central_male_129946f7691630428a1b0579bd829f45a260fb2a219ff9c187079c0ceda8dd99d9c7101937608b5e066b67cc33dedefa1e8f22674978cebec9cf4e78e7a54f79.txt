@@ -1,0 +1,32 @@
+common_voice_ca_19290213.mp3|Anem a Algímia d'Almonesir.
+common_voice_ca_19290214.mp3|Anem a Mutxamel.
+common_voice_ca_19290215.mp3|Anem a Castelló d'Empúries.
+common_voice_ca_19290216.mp3|Anem a Sant Esteve de la Sarga.
+common_voice_ca_19290217.mp3|Anem a Dosaigües.
+common_voice_ca_19290218.mp3|Anem a Ariany.
+common_voice_ca_19290219.mp3|Anem a la Vajol.
+common_voice_ca_19290220.mp3|Anem a Oriola.
+common_voice_ca_19290221.mp3|Anem a Quart de Poblet.
+common_voice_ca_19290223.mp3|Anem a la Pobla de Mafumet.
+common_voice_ca_19290224.mp3|Anem a Bordils.
+common_voice_ca_19290225.mp3|Anem a Preixens.
+common_voice_ca_19290226.mp3|Anem a Morella.
+common_voice_ca_19290227.mp3|Anem a Torrella.
+common_voice_ca_19290228.mp3|Anem a Torrevella.
+common_voice_ca_19290229.mp3|Anem a Castellterçol.
+common_voice_ca_19290230.mp3|Anem a Sant Guim de la Plana.
+common_voice_ca_19290231.mp3|Anem a Altafulla.
+common_voice_ca_19290232.mp3|Anem a Sant Pol de Mar.
+common_voice_ca_19290233.mp3|Anem a l'Aldea.
+common_voice_ca_19290234.mp3|Anem a Vilabella.
+common_voice_ca_19290235.mp3|Anem a Torrelameu.
+common_voice_ca_19290236.mp3|Anem a Bocairent.
+common_voice_ca_19290237.mp3|Anem a Figueroles de Domenyo.
+common_voice_ca_19290239.mp3|Anem al Campello.
+common_voice_ca_19290240.mp3|Anem a Algar de Palància.
+common_voice_ca_19290241.mp3|Anem a Castellar del Riu.
+common_voice_ca_19290243.mp3|Anem a Bellús.
+common_voice_ca_19290244.mp3|Anem a Ciutadilla.
+common_voice_ca_19290245.mp3|Anem a l'Aleixar.
+common_voice_ca_19290246.mp3|Anem a Sagra.
+common_voice_ca_19290247.mp3|Anem a Llaurí.

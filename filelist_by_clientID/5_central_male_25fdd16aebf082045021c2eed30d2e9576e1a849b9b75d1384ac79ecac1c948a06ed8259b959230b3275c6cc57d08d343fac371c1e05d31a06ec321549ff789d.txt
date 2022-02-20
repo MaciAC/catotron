@@ -1,0 +1,5 @@
+common_voice_ca_17512343.mp3|S'ha de trepitjar la línia abans o just en el moment que soni el senyal sonor.
+common_voice_ca_17512344.mp3|Hi ha algunes activitats amb places limitades.
+common_voice_ca_17512345.mp3|Per a això, la Subdirecció General de Gerència d'Informàtica facilitarà les ferramentes informàtiques necessàries.
+common_voice_ca_17512346.mp3|En el forn, en el llavador i en el riu, tot es diu, i en la taula de pinçar s'acaba de refinar.
+common_voice_ca_17512347.mp3|El bunyol té una tradició de festa molt superior a qualsevol altra llepolia familiar.

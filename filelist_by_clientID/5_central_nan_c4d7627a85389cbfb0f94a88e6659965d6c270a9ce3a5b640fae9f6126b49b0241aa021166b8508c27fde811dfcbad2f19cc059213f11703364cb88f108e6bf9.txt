@@ -1,0 +1,8 @@
+common_voice_ca_23904611.mp3|zero
+common_voice_ca_23904612.mp3|vuit
+common_voice_ca_23904618.mp3|no
+common_voice_ca_23904644.mp3|dos
+common_voice_ca_23904645.mp3|set
+common_voice_ca_23904646.mp3|sí
+common_voice_ca_23904647.mp3|cinc
+common_voice_ca_23904648.mp3|u

@@ -1,0 +1,39 @@
+common_voice_ca_19293060.mp3|Anem a Moncofa.
+common_voice_ca_19293061.mp3|Anem a la Pera.
+common_voice_ca_19293062.mp3|Anem a Castellolí.
+common_voice_ca_19293063.mp3|Anem a la Seu d'Urgell.
+common_voice_ca_19293064.mp3|Anem a Ivars de Noguera.
+common_voice_ca_19293090.mp3|Anem a Badalona.
+common_voice_ca_19293091.mp3|Anem a Albalat dels Sorells.
+common_voice_ca_19293092.mp3|Anem a Garriguella.
+common_voice_ca_19293093.mp3|Anem a Massamagrell.
+common_voice_ca_19293095.mp3|Anem a Sant Julià de Cerdanyola.
+common_voice_ca_19293110.mp3|Anem a Sant Quirze Safaja.
+common_voice_ca_19293111.mp3|Anem a la Roca del Vallès.
+common_voice_ca_19293112.mp3|Anem a Puigverd de Lleida.
+common_voice_ca_19293113.mp3|Anem al Fondó de les Neus.
+common_voice_ca_19293114.mp3|Anem a Valls.
+common_voice_ca_19293420.mp3|Anem a Anglès.
+common_voice_ca_19293421.mp3|Anem a Camprodon.
+common_voice_ca_19293422.mp3|Anem a Agullent.
+common_voice_ca_19293423.mp3|Anem a Avinyonet de Puigventós.
+common_voice_ca_19293430.mp3|Anem a Pedralba.
+common_voice_ca_19293431.mp3|Anem a Sant Fruitós de Bages.
+common_voice_ca_19293432.mp3|Anem a Bescanó.
+common_voice_ca_19293433.mp3|Anem a les Oluges.
+common_voice_ca_19293434.mp3|Anem a Flaçà.
+common_voice_ca_19293442.mp3|Anem a Vinyols i els Arcs.
+common_voice_ca_19293443.mp3|Anem a es Migjorn Gran.
+common_voice_ca_19293444.mp3|Anem a Sant Mateu de Bages.
+common_voice_ca_19293445.mp3|Anem a Novetlè.
+common_voice_ca_19293446.mp3|Anem a Sant Feliu de Buixalleu.
+common_voice_ca_19293449.mp3|Anem a Salinas.
+common_voice_ca_19293451.mp3|Anem a Vilafranca del Penedès.
+common_voice_ca_19293452.mp3|Anem a Algorfa.
+common_voice_ca_19293454.mp3|Anem a Vallirana.
+common_voice_ca_19293456.mp3|Anem a Montgai.
+common_voice_ca_19293479.mp3|Anem a Setcases.
+common_voice_ca_19293480.mp3|Anem a Alcanar.
+common_voice_ca_19293481.mp3|Anem a Llucmajor.
+common_voice_ca_19293482.mp3|Anem a Miramar.
+common_voice_ca_19293483.mp3|Anem a Bàscara.

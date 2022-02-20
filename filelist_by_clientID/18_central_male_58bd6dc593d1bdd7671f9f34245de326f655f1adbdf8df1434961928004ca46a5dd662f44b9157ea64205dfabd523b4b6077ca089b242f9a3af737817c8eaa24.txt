@@ -1,0 +1,18 @@
+common_voice_ca_17648304.mp3|Ningú no va dir res.
+common_voice_ca_17648305.mp3|I què més!
+common_voice_ca_17648306.mp3|No ho havia fet mai.
+common_voice_ca_17648314.mp3|Consisteix en una prova per valorar la idoneïtat del candidat al perfil cercat en la provisió d'aquesta plaça.
+common_voice_ca_17648317.mp3|Estar matriculat en una universitat catalana en estudis de grau per al curs que prevegi la convocatòria.
+common_voice_ca_17648318.mp3|Redacta i mecanografia documents administratius, informes, etcètera.
+common_voice_ca_17648320.mp3|Que estrany.
+common_voice_ca_17648321.mp3|El Ple del Consell pot crear comissions delegades per a qüestions que afectin les seves competències.
+common_voice_ca_17648322.mp3|La qualificació final serà la suma dels punts obtinguts en la fase d'oposició i l'obtinguda en la fase de concurs.
+common_voice_ca_17648323.mp3|La resta de punts de llum estaran apagats, ja que no seran necessaris.
+common_voice_ca_17648335.mp3|Ho saps, oi?
+common_voice_ca_17648337.mp3|Tots dos van riure.
+common_voice_ca_17648339.mp3|El pressupost anual és de cent quaranta mil cinc-cents euros més IVA.
+common_voice_ca_17648340.mp3|Què faràs?
+common_voice_ca_17648342.mp3|Té un minut.
+common_voice_ca_17648384.mp3|Elabora informes sobre qüestions puntuals.
+common_voice_ca_17648385.mp3|Després del canvi, la capacitat de bestiar serà de cent quaranta-sis mil dos-cents pollastres d'engreix.
+common_voice_ca_17648386.mp3|El camp on s'ubicarà el circuit presenta un desnivell de quinze metres d'oest a est.

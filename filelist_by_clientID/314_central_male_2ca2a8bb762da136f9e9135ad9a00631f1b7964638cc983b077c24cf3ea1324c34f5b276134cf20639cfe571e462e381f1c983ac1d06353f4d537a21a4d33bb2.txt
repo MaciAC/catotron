@@ -1,0 +1,314 @@
+common_voice_ca_19293400.mp3|Anem a Senija.
+common_voice_ca_19293401.mp3|Anem a Savallà del Comtat.
+common_voice_ca_19293402.mp3|Anem a Alfafara.
+common_voice_ca_19293403.mp3|Anem a Prats i Sansor.
+common_voice_ca_19293404.mp3|Anem a Murla.
+common_voice_ca_19293405.mp3|Anem a Quart.
+common_voice_ca_19293406.mp3|Anem a Vilamarxant.
+common_voice_ca_19293407.mp3|Anem a Meranges.
+common_voice_ca_19293408.mp3|Anem a Blancafort.
+common_voice_ca_19293409.mp3|Anem a Sant Llorenç des Cardassar.
+common_voice_ca_19293410.mp3|Anem a Dosrius.
+common_voice_ca_19293411.mp3|Anem a Maials.
+common_voice_ca_19293412.mp3|Anem a Sant Jaume de Frontanyà.
+common_voice_ca_19293413.mp3|Anem a Ascó.
+common_voice_ca_19293414.mp3|Anem a Montornès del Vallès.
+common_voice_ca_19293415.mp3|Anem a Orís.
+common_voice_ca_19293416.mp3|Anem a les Fonts d'Aiòder.
+common_voice_ca_19293417.mp3|Anem a Redovà.
+common_voice_ca_19293418.mp3|Anem a Algaida.
+common_voice_ca_19293419.mp3|Anem a Sant Martí de Tous.
+common_voice_ca_19303006.mp3|Anem a Sant Guim de Freixenet.
+common_voice_ca_19303007.mp3|Anem a Aigües.
+common_voice_ca_19303008.mp3|Anem a Roses.
+common_voice_ca_19303009.mp3|Anem a Llíria.
+common_voice_ca_19303010.mp3|Anem a l'Atzúvia.
+common_voice_ca_19303011.mp3|Anem a Ullastret.
+common_voice_ca_19303012.mp3|Anem a Sant Sadurní d'Anoia.
+common_voice_ca_19303013.mp3|Anem a Xàtiva.
+common_voice_ca_19303014.mp3|Anem a les Oluges.
+common_voice_ca_19303015.mp3|Anem a Ripollet.
+common_voice_ca_19303016.mp3|Anem a Capdepera.
+common_voice_ca_19303017.mp3|Anem a Elx.
+common_voice_ca_19303018.mp3|Anem a Almacelles.
+common_voice_ca_19303019.mp3|Anem a Botarell.
+common_voice_ca_19315495.mp3|Anem a Beneixida.
+common_voice_ca_19315497.mp3|La raó és simple.
+common_voice_ca_19315498.mp3|Anem a Torrelameu.
+common_voice_ca_19315499.mp3|Anem a Montgat.
+common_voice_ca_19315501.mp3|Anem a Reus.
+common_voice_ca_19315504.mp3|Anem a Renau.
+common_voice_ca_19315505.mp3|Anem a Arbolí.
+common_voice_ca_19315506.mp3|Les delegacions poden estar administrades per un delegat i un secretari.
+common_voice_ca_19315507.mp3|Anem a Rugat.
+common_voice_ca_19315508.mp3|La seua meritació serà semestral, i el còmput s'iniciarà l'u de gener i l'u de juliol respectivament.
+common_voice_ca_19315514.mp3|Venia, com la roda del temps, el primer diumenge de Quaresma.
+common_voice_ca_19315515.mp3|Viu i deixa viure.
+common_voice_ca_19315516.mp3|Actuacions que estiguin programades en un Pla director del servei d'abastament d'aigua actualitzat: deu punts.
+common_voice_ca_19315517.mp3|Venim de Iàtova.
+common_voice_ca_19315518.mp3|Anem a Altura.
+common_voice_ca_19315519.mp3|Anem a Viver i Serrateix.
+common_voice_ca_19315520.mp3|Anem a Orpí.
+common_voice_ca_19315521.mp3|Anem a Camporrobles.
+common_voice_ca_19315522.mp3|Anem a Josa i Tuixén.
+common_voice_ca_19315523.mp3|Anem a Bellcaire d'Urgell.
+common_voice_ca_19315529.mp3|Anem a Castellví de Rosanes.
+common_voice_ca_19315530.mp3|Anem a Carme.
+common_voice_ca_19315531.mp3|Anem a Canet de Mar.
+common_voice_ca_19315532.mp3|No preveu obres de fàbrica i no hi ha disminució longitudinal de la calçada.
+common_voice_ca_19315533.mp3|Anem a Andorra la Vella.
+common_voice_ca_19315534.mp3|Qui té mal, el té venal.
+common_voice_ca_19315535.mp3|Anem a Teresa.
+common_voice_ca_19315536.mp3|Anem a Marçà.
+common_voice_ca_19315537.mp3|Anem a Figaró-Montmany.
+common_voice_ca_19315538.mp3|Estrany.
+common_voice_ca_19315543.mp3|El seu avi callaria, però aquell estrany vingut de la ciutat no tenia per què guardar silenci.
+common_voice_ca_19315544.mp3|Anem a Gironella.
+common_voice_ca_19315545.mp3|La trobada setmanal del mercat facilitava converses.
+common_voice_ca_19315547.mp3|El foc no s'apaga amb benzina.
+common_voice_ca_19315548.mp3|Abril i maig tenen les claus de tot l'any.
+common_voice_ca_19315555.mp3|Anem a Santa Eugènia.
+common_voice_ca_19315556.mp3|Anem a Banyalbufar.
+common_voice_ca_19315557.mp3|Anem a Nalec.
+common_voice_ca_19315559.mp3|Anem a Ossó de Sió.
+common_voice_ca_19315560.mp3|Venim de Vinalesa.
+common_voice_ca_19315567.mp3|Anem a Valls.
+common_voice_ca_19315568.mp3|Anem a Pedralba.
+common_voice_ca_19315569.mp3|Van fumar en silenci.
+common_voice_ca_19315571.mp3|Aquestes circumstàncies són molt nombroses; només en parlaré d'algunes.
+common_voice_ca_19315579.mp3|Anem a Maldà.
+common_voice_ca_19315580.mp3|Anem a Gósol.
+common_voice_ca_19315582.mp3|Anem a Sales de Llierca.
+common_voice_ca_19315583.mp3|Anem a Xelva.
+common_voice_ca_19315587.mp3|Anem a Llers.
+common_voice_ca_19315588.mp3|Anem a Puigverd de Lleida.
+common_voice_ca_19315589.mp3|Anem a Sunyer.
+common_voice_ca_19315591.mp3|Anem a Pontils.
+common_voice_ca_19315592.mp3|Piqueu els dos rovells que us queden, escampeu-los per sobre la maionesa i serviu.
+common_voice_ca_19315599.mp3|Ràpid!
+common_voice_ca_19315600.mp3|Foment d'estudis i investigació per a la cerca de materials alternatius que permeten un menor cost ambiental.
+common_voice_ca_19315601.mp3|Anem a Ultramort.
+common_voice_ca_19315602.mp3|Anem a Benasau.
+common_voice_ca_19315603.mp3|Anem a Gavà.
+common_voice_ca_19315605.mp3|Anem a Albanyà.
+common_voice_ca_19315606.mp3|Anem a Vallat.
+common_voice_ca_19315608.mp3|Anem a la Pobla de Vallbona.
+common_voice_ca_19315609.mp3|Anem a Parcent.
+common_voice_ca_19315611.mp3|Anem a Alguaire.
+common_voice_ca_19315619.mp3|Anem a Corbera.
+common_voice_ca_19315621.mp3|Mitjançant l'exposició oral i defensa de les qüestions que plantegin els membres de l'òrgan de selecció.
+common_voice_ca_19315623.mp3|Que collira prompte arròs del camp!
+common_voice_ca_19315624.mp3|Anem a Estellencs.
+common_voice_ca_19315626.mp3|Anem a Malla.
+common_voice_ca_19315629.mp3|Anem a Xera.
+common_voice_ca_19315631.mp3|Anem a Toràs.
+common_voice_ca_19315632.mp3|Anem a Olocau del Rei.
+common_voice_ca_19315633.mp3|Anem a Llorenç del Penedès.
+common_voice_ca_19315650.mp3|Anem a Serinyà.
+common_voice_ca_19315651.mp3|Bona part de la colònia benissera a València retornava al poble a prendre la fresca o collir la renda.
+common_voice_ca_19315652.mp3|Anem a Setaigües.
+common_voice_ca_19315653.mp3|Anem a Alp.
+common_voice_ca_19315654.mp3|Anem a Bellvei.
+common_voice_ca_19315657.mp3|Qui rebi l'oferta pot matricular-se en el centre o renunciar-hi.
+common_voice_ca_19315658.mp3|Anem a Pira.
+common_voice_ca_19315660.mp3|Anem a Sant Antoni de Portmany.
+common_voice_ca_19315661.mp3|Tal vegada demà tinga més sort Maria i Joan li pose algun videojoc a l'ordinador.
+common_voice_ca_19315662.mp3|Anem a Olesa de Montserrat.
+common_voice_ca_19315665.mp3|Anem a Sant Miquel de Campmajor.
+common_voice_ca_19315666.mp3|Fan més soroll dos que criden que cent que callen.
+common_voice_ca_19315667.mp3|Anem a Maià de Montcal.
+common_voice_ca_19315669.mp3|El dimoni no descansa.
+common_voice_ca_19315674.mp3|Quan sant Ramon porta capa, sant Boi no s'escapa.
+common_voice_ca_19315676.mp3|Anem a Toga.
+common_voice_ca_19315677.mp3|Anem a Millars.
+common_voice_ca_19315679.mp3|Anem a Benassal.
+common_voice_ca_19315681.mp3|A gall que fa renou, li estrenyen el coll.
+common_voice_ca_19315699.mp3|Amb la porta tancada, el dimoni se'n torna arrere.
+common_voice_ca_19315700.mp3|Les plantes ornen les cases i fan molt bonic i, alhora, renoven l'aire per a viure.
+common_voice_ca_19315701.mp3|Anem a Vinyols i els Arcs.
+common_voice_ca_19315702.mp3|Vaig assentir.
+common_voice_ca_19315703.mp3|Anem a la Torre de Cabdella.
+common_voice_ca_19315707.mp3|Anem a Corbera d'Ebre.
+common_voice_ca_19315708.mp3|Anem a Confrides.
+common_voice_ca_19315709.mp3|Anem al Verger.
+common_voice_ca_19315710.mp3|Anem a la Granadella.
+common_voice_ca_19315711.mp3|Anem a Sarrià de Ter.
+common_voice_ca_19315714.mp3|Anem a la Febró.
+common_voice_ca_19315715.mp3|Anem a Vilanova d'Alcolea.
+common_voice_ca_19315716.mp3|Anem a Castelló de Rugat.
+common_voice_ca_19315717.mp3|Anem a Constantí.
+common_voice_ca_19315719.mp3|Anem a la Pobla del Duc.
+common_voice_ca_19315720.mp3|Qui pensa mal, el pecat és seu.
+common_voice_ca_19315721.mp3|Anem a Sempere.
+common_voice_ca_19315722.mp3|Anem a Sabadell.
+common_voice_ca_19315723.mp3|Anem a Begur.
+common_voice_ca_19315724.mp3|Anem a Bellpuig.
+common_voice_ca_19315725.mp3|El meu mal no vol soroll.
+common_voice_ca_19315726.mp3|En cas d'acolliment permanent la vigència serà fins als díhuit anys.
+common_voice_ca_19315727.mp3|Anem a Almenara.
+common_voice_ca_19315728.mp3|Anem a Martorell.
+common_voice_ca_19316030.mp3|Al cap de poc d'iniciar la dansa entren a la plaça dansers i quintos, que ballen i proven les paperades.
+common_voice_ca_19316031.mp3|Anem a Pratdip.
+common_voice_ca_19316033.mp3|Anem a Sudanell.
+common_voice_ca_19316034.mp3|Seria de ximples acceptar-ho, però la qüestió és que creus que l'aposta que estàs fent s'aguantarà de peus.
+common_voice_ca_19316050.mp3|Anem a Viladecans.
+common_voice_ca_19316051.mp3|Anem a Súria.
+common_voice_ca_19316052.mp3|Anem a Serra de Daró.
+common_voice_ca_19316053.mp3|Anem a Sant Esteve de la Sarga.
+common_voice_ca_19316054.mp3|Anem a Son Servera.
+common_voice_ca_19316056.mp3|Anem a la Jonquera.
+common_voice_ca_19316058.mp3|Anem a Barxeta.
+common_voice_ca_19316062.mp3|Anem a Bassella.
+common_voice_ca_19316065.mp3|Quan plou pel juliol, fusta plou.
+common_voice_ca_19316090.mp3|Les tanques definitives de solars hauran de complir la norma urbanística que els sigui aplicable.
+common_voice_ca_19316091.mp3|En cap cas poden ser cedides per interessos privats o comercials.
+common_voice_ca_19316092.mp3|Anem a Planes.
+common_voice_ca_19316093.mp3|Anem a Vila-rodona.
+common_voice_ca_19316094.mp3|Això s'ha acabat.
+common_voice_ca_19316100.mp3|Anem a Torrevella.
+common_voice_ca_19316101.mp3|Anem a Guardamar del Segura.
+common_voice_ca_19316102.mp3|Vostè?
+common_voice_ca_19316104.mp3|El sondeig tindrà una profunditat de quatre-cents metres.
+common_voice_ca_19316111.mp3|Anem a Albal.
+common_voice_ca_19316112.mp3|Va anunciar que permetria a tothom aplicar aquests sistemes excepte al programari lliure.
+common_voice_ca_19316113.mp3|És l'assenyalada a la clàusula quinze del plec de clàusules administratives particulars que regeix aquest procediment.
+common_voice_ca_19316115.mp3|Anem a Sora.
+common_voice_ca_19316131.mp3|Anem a Bordils.
+common_voice_ca_19316132.mp3|No hi quedava un seient lliure.
+common_voice_ca_19316133.mp3|Verifica el producte editorial comparant-lo amb la planificació establerta i avaluant-ne la qualitat requerida.
+common_voice_ca_19316134.mp3|Anem a Llombai.
+common_voice_ca_19316135.mp3|El traçat discorrerà seguint majoritàriament el traçat de camins existents, amples i amb ferms consolidats.
+common_voice_ca_19316141.mp3|Anem a Almussafes.
+common_voice_ca_19316142.mp3|Anem a Ariany.
+common_voice_ca_19316143.mp3|Anem a Vilafranca.
+common_voice_ca_19316144.mp3|Anem al Papiol.
+common_voice_ca_19316145.mp3|Menja, beu i caga fort, i no li tingues por a la mort.
+common_voice_ca_19316165.mp3|Bou solt es llepa com vol.
+common_voice_ca_19316169.mp3|Anem a Bell-lloc d'Urgell.
+common_voice_ca_19316174.mp3|Anem a la Llagosta.
+common_voice_ca_19316175.mp3|És una dansa guerrera.
+common_voice_ca_19316181.mp3|Anem a la Vila Joiosa.
+common_voice_ca_19316182.mp3|Un sector en què les llengües minoritzades no tenen bona salut és el dels mòbils i tauletes.
+common_voice_ca_19316183.mp3|Anem a Fontanilles.
+common_voice_ca_19316184.mp3|Acaba de passar el metro.
+common_voice_ca_19316185.mp3|Anem a Santa Eugènia de Berga.
+common_voice_ca_19316192.mp3|Anem a Alfarràs.
+common_voice_ca_19316193.mp3|Anem a Lladurs.
+common_voice_ca_19316195.mp3|Proposa l'elaboració de lèxics i diccionaris terminològics de l'àmbit de les ciències de la salut.
+common_voice_ca_19316198.mp3|Els drets i obligacions derivades del present Conveni no poden ser cedits.
+common_voice_ca_19316211.mp3|Anem a Toses.
+common_voice_ca_19316212.mp3|El diccionari d'anglès ja funciona per defecte.
+common_voice_ca_19316213.mp3|Anem a l'Arboç.
+common_voice_ca_19316214.mp3|Anem a Sagàs.
+common_voice_ca_19316215.mp3|Anem a Vilanova de Meià.
+common_voice_ca_19316223.mp3|Anem a Cerdà.
+common_voice_ca_19316224.mp3|Els gossos, jaient, se la guanyen, la vida.
+common_voice_ca_19316226.mp3|Les beques tenen com a objecte afavorir la formació i el perfeccionament de professionals en el camp audiovisual.
+common_voice_ca_19316228.mp3|Tardor serena, hivern ventós; tardor ventosa, hivern seré.
+common_voice_ca_19316237.mp3|La suspensió acordada no abastarà els acords aprovatoris de nous programes d'actuació en la zona afectada.
+common_voice_ca_19316246.mp3|Segones opcions, en el procés de matriculació del curs anterior, sempre que la sol·licitud fos dins de termini.
+common_voice_ca_19316247.mp3|Aquestes vesprades serenes calmaven la inquietud dels dos amants.
+common_voice_ca_19316248.mp3|Anem a Polinyà.
+common_voice_ca_19316249.mp3|I punt.
+common_voice_ca_19316250.mp3|Anem a la Pobla de Segur.
+common_voice_ca_19316252.mp3|Vigileu que no us quedi salat.
+common_voice_ca_19316253.mp3|Anem a la Vilella Alta.
+common_voice_ca_19316254.mp3|Anem a Los Montesinos.
+common_voice_ca_19316255.mp3|La mar és molt noble i a tothom tracta igual.
+common_voice_ca_19316256.mp3|Qui no et coneix, que et compre.
+common_voice_ca_19316271.mp3|Anem a Orpesa.
+common_voice_ca_19316273.mp3|Anem a Cubells.
+common_voice_ca_19316274.mp3|Anem a Xeraco.
+common_voice_ca_19316276.mp3|El programa finalitzarà el vint-i-vuit de febrer de dos mil divuit.
+common_voice_ca_19316277.mp3|Elimina el dret a la interoperabilitat.
+common_voice_ca_19316406.mp3|Anem a Vilabella.
+common_voice_ca_19316407.mp3|Anem a Gavet de la Conca.
+common_voice_ca_19316408.mp3|Anem a Begues.
+common_voice_ca_19316409.mp3|Anem a Vilablareix.
+common_voice_ca_19316410.mp3|Anem a Lladorre.
+common_voice_ca_19316418.mp3|Castanya sencera, al foc peta.
+common_voice_ca_19316419.mp3|Anem a Coix.
+common_voice_ca_19316420.mp3|Anem a Manises.
+common_voice_ca_19316421.mp3|Anem a Tavertet.
+common_voice_ca_19316423.mp3|Anem als Guiamets.
+common_voice_ca_19316426.mp3|Anem al Soleràs.
+common_voice_ca_19316427.mp3|Anem a Calaf.
+common_voice_ca_19316428.mp3|Anem a Vall de Cardós.
+common_voice_ca_19316429.mp3|Anem a Soriguera.
+common_voice_ca_19316430.mp3|Féu flor per Sant Antoni i morí socarrat.
+common_voice_ca_19316436.mp3|Anem a Vilabertran.
+common_voice_ca_19316439.mp3|Aquesta és la nostra sentència, de la qual s'adjuntarà un certificat al rotlle, que pronunciem, manem i firmem.
+common_voice_ca_19316441.mp3|El qui sol es menja el gall sol s'aparella el cavall.
+common_voice_ca_19316444.mp3|El termini de presentació i d'obertures no presenten variació.
+common_voice_ca_19316445.mp3|Anem a Tormos.
+common_voice_ca_19316452.mp3|Qui jeu de cap a sol ixent, s'emmalalteix.
+common_voice_ca_19316454.mp3|També es valorarà que la naturalesa dels materials i producció directa o indirecta sigui d'àmbit nacional.
+common_voice_ca_19316457.mp3|Quan hagi cuit una estona, gireu-la amb la giradora o amb un plat, i feu-la coure de l'altra banda.
+common_voice_ca_19316460.mp3|Anem a Sant Vicenç dels Horts.
+common_voice_ca_19316461.mp3|Venim de Palau-solità i Plegamans.
+common_voice_ca_19316462.mp3|Anem a Sant Feliu de Pallerols.
+common_voice_ca_19316463.mp3|Anem a Montmaneu.
+common_voice_ca_19316464.mp3|Sí, mamà.
+common_voice_ca_19316465.mp3|El vot de cada membre científic de l'Alt Consell és personal i indelegable.
+common_voice_ca_19316466.mp3|Anem a Énguera.
+common_voice_ca_19316475.mp3|Anem a Vilafermosa.
+common_voice_ca_19316477.mp3|Anem a Torres de Segre.
+common_voice_ca_19316479.mp3|El programari lliure ha arraconat els servidors basats en codi de propietat.
+common_voice_ca_19316480.mp3|Anem a Vilanova de l'Aguda.
+common_voice_ca_19316481.mp3|Anem a Sort.
+common_voice_ca_19316482.mp3|Això és el que es veu.
+common_voice_ca_19316483.mp3|Per Santa Magdalena, l'avellana és plena.
+common_voice_ca_19316484.mp3|Els alacantins, avesats a viure amb poca cosa, feren d'aquells versos el símbol de la pàtria xica.
+common_voice_ca_19316485.mp3|Cada u que engreixara amb la seua faena!
+common_voice_ca_19316486.mp3|Açò és una obvietat, però no pot suposar qüestionar obertament l'existència de drets col·lectius.
+common_voice_ca_19316492.mp3|Com us trobeu?
+common_voice_ca_19316493.mp3|Li pareixia viure en una primavera eterna darrere el taulell de la taverna.
+common_voice_ca_19316494.mp3|L'argila atomitzada es rep i emmagatzema directament en sitges ubicades a l'interior de les naus.
+common_voice_ca_19316495.mp3|Filtració de la dissolució de tartrat de sodi i potassi per mitjà de filtre premsa.
+common_voice_ca_19316496.mp3|Anem a Inca.
+common_voice_ca_19316497.mp3|Anem a Òrrius.
+common_voice_ca_19316499.mp3|Ara bé, la seua definició explicita una de les tasques fonamentals a l'hora d'encetar tot procés de planificació.
+common_voice_ca_19316502.mp3|Anem a Llanars.
+common_voice_ca_19316505.mp3|Les reclamacions no poden comportar la invocació ni acreditació d'altres mèrits diferents dels de la sol·licitud.
+common_voice_ca_19316506.mp3|Anem a Clariana de Cardener.
+common_voice_ca_19316507.mp3|No hi ha temps que no torne.
+common_voice_ca_19316508.mp3|Anem a Lludient.
+common_voice_ca_19316509.mp3|Les dades mínimes que han de figurar són les que es detallen en l'apartat corresponent del PIN.
+common_voice_ca_19316510.mp3|Sí, això seria el millor!
+common_voice_ca_19316511.mp3|Anem a Estaràs.
+common_voice_ca_19316512.mp3|Venim d'Almoradí.
+common_voice_ca_19316513.mp3|La resta del programa s'ha de tramitar si es mantenen les condicions i requisits que així ho permetin.
+common_voice_ca_19316514.mp3|Anem a Alpicat.
+common_voice_ca_19316515.mp3|Anem a Alió.
+common_voice_ca_19316516.mp3|El termini per col·locar-la serà també de quatre mesos.
+common_voice_ca_19316517.mp3|Venim de Vandellòs i l'Hospitalet de l'Infant.
+common_voice_ca_19316518.mp3|Presentada la reclamació de pagament, la Generalitat té un termini de dos mesos per a atendre-la.
+common_voice_ca_19316519.mp3|Funció: permet aixecar i desplaçar la persona amb discapacitat amb l'ajuda d'una sola persona assistent.
+common_voice_ca_19316520.mp3|Saps qui sóc?
+common_voice_ca_19316521.mp3|Anem a les Piles.
+common_voice_ca_19316524.mp3|Anem a Biar.
+common_voice_ca_19316525.mp3|No hi havia ningú.
+common_voice_ca_19316526.mp3|Tan bon punt veié acabats els preparatius de la policia, va eixir de casa amb els seus fills sense miraments.
+common_voice_ca_19316527.mp3|Anem a Crespià.
+common_voice_ca_19316528.mp3|Anem a Susqueda.
+common_voice_ca_19316529.mp3|I al cos de la llei, es regula el dret de cens, sigui emfitèutic o vitalici, seguint la Llei sis de mil nou-cents noranta.
+common_voice_ca_19316530.mp3|Anem a Castell de Mur.
+common_voice_ca_19316531.mp3|Anem a Alcanar.
+common_voice_ca_19316532.mp3|Fa un seguiment exhaustiu del pressupost de la Secretaria.
+common_voice_ca_19316533.mp3|Una part important dels centres oberts no atenen a infants i adolescents en situació de risc.
+common_voice_ca_19316534.mp3|Anem a Santa Coloma de Cervelló.
+common_voice_ca_19316535.mp3|Sant Blai gloriós, fugíem d'una i en tenim dos.
+common_voice_ca_19316536.mp3|En cas de titulacions estrangeres, caldrà acreditar l'homologació corresponent del Ministeri d'Educació i Ciència.
+common_voice_ca_19316537.mp3|Anem a Guixers.
+common_voice_ca_19316538.mp3|Anem a Suera.
+common_voice_ca_19316541.mp3|Anem a Herbers.
+common_voice_ca_19316542.mp3|Obro els ulls.
+common_voice_ca_19316543.mp3|Anem a Argentona.
+common_voice_ca_19316544.mp3|La dona va somriure.
+common_voice_ca_19316545.mp3|Anem a Montornès de Segarra.
+common_voice_ca_19316546.mp3|Entre ells, el seductor és tan deshonorat com la seva víctima.
+common_voice_ca_19316547.mp3|Era qüestió de quedar bé amb un germà.
+common_voice_ca_19316548.mp3|Passeu-les per ou batut, pa ratllat i fregiu-les en una paella amb oli abundant.
+common_voice_ca_19316549.mp3|La pregunta inicial n'ha generat d'altres.
+common_voice_ca_19316550.mp3|Aquest efecte serà temporal, i cessarà amb la terminació de les obres.
+common_voice_ca_19316551.mp3|Anem a Ginestar.

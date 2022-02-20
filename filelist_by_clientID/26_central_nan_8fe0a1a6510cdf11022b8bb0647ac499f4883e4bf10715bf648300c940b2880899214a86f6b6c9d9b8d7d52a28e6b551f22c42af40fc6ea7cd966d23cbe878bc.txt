@@ -1,0 +1,31 @@
+common_voice_ca_23902989.mp3|set
+common_voice_ca_23902990.mp3|quatre
+common_voice_ca_23902991.mp3|tres
+common_voice_ca_23902992.mp3|vuit
+common_voice_ca_23902993.mp3|zero
+common_voice_ca_23903087.mp3|cinc
+common_voice_ca_23903089.mp3|Firefox
+common_voice_ca_23903091.mp3|sí
+common_voice_ca_23903093.mp3|nou
+common_voice_ca_23903094.mp3|u
+common_voice_ca_23903100.mp3|dos
+common_voice_ca_23903101.mp3|Ei
+common_voice_ca_23903103.mp3|no
+common_voice_ca_23903105.mp3|sis
+common_voice_ca_23903107.mp3|Edifici civil amb planta baixa, pis i golfes.
+common_voice_ca_23903154.mp3|El Cèsar mor decebut per la traïció.
+common_voice_ca_23903155.mp3|No s'ha localitzat el seu parador en els anys intermedis.
+common_voice_ca_23903156.mp3|Té un petit ampit de pedra.
+common_voice_ca_23903157.mp3|Formava part de l'antic terme de l'Aranyó.
+common_voice_ca_23903158.mp3|Sòria compta amb un superb catàleg monumental quallat d'exemplars d'estil romànic.
+common_voice_ca_23903199.mp3|El paper de Medea és conegut per la seva dificultat.
+common_voice_ca_23903200.mp3|Llavors respongué a Hitler confirmant la seva decisió de mantenir el camp de batalla.
+common_voice_ca_23903201.mp3|Va patir les seqüeles d'un accident de cotxe.
+common_voice_ca_23903239.mp3|De l'acció només van poder fugir el capità realista Valle i dotze soldats.
+common_voice_ca_23903240.mp3|El genitiu no existeix, i se substitueix per construccions auxiliars amb l'ajuda del datiu.
+common_voice_ca_23903241.mp3|Tot i que l'or és un metall noble, forma molts i diversos compostos.
+common_voice_ca_23903242.mp3|És el tercer llac permanent més gran de la zona del mar d'Aral.
+common_voice_ca_23903243.mp3|Va morir en una exhibició aèria, del que també era un gran aficionat.
+common_voice_ca_23903337.mp3|Sobre les claus, al cap de l'escut, una tiara papal.
+common_voice_ca_23903338.mp3|Els quatre morts, a més de set ferits, eren soldats etíops.
+common_voice_ca_23903342.mp3|Tanmateix l'explicació que donà Dalton és incorrecte.

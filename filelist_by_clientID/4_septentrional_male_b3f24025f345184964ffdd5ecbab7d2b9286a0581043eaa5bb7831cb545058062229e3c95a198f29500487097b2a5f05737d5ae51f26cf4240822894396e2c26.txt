@@ -1,0 +1,4 @@
+common_voice_ca_19080559.mp3|La gallina cantant i la mare plorant fan la fillada.
+common_voice_ca_19080560.mp3|Per manso que sigui el gos, si el trepitgen, és rabiós.
+common_voice_ca_19080561.mp3|Qui té un burro i el ven, ell s'entén.
+common_voice_ca_19080563.mp3|La comissió es reunix tan sovint com siga necessari i, almenys, una vegada al semestre.

@@ -1,0 +1,15 @@
+common_voice_ca_30373386.mp3|Hi ha algun lampista al carrer de l'Arc de Sant Silvestre?
+common_voice_ca_30373387.mp3|He d'anar al passatge de Nogués amb tren.
+common_voice_ca_30373390.mp3|Des del punt de vista de l'esquerra, podria ser acceptable.
+common_voice_ca_30373388.mp3|Mira'm quina és la millor manera d'anar a la Llagosta a peu.
+common_voice_ca_30373389.mp3|La meva mare es diu Kawtar Toboso: te, o, be, o, essa, o.
+common_voice_ca_30373396.mp3|Vull anar a Sant Vicenç de Torelló sense agafar el metro.
+common_voice_ca_30373397.mp3|Qui viu al passatge de l'Arc de Sant Martí número quaranta-u?
+common_voice_ca_30373398.mp3|A quina hora passa el primer autobús per Gavet de la Conca l'onze de juliol?
+common_voice_ca_30373399.mp3|Em dic Joel Chamorro: ce, hac, a, ema, o, erra, erra, o.
+common_voice_ca_30373400.mp3|Tivissa es troba a la Ribera d’Ebre
+common_voice_ca_30373401.mp3|Guarda el sis, zero, quatre, seixanta-sis, cinquanta-set, seixanta-set com a telèfon del Rubèn Chiva.
+common_voice_ca_30373402.mp3|Com accedeix el comitent a l'escena?
+common_voice_ca_30373403.mp3|Quina és la millor manera d'arribar a la plaça de Ciutadella?
+common_voice_ca_30373404.mp3|Com puc anar a Folgueroles dijous a les vuit?
+common_voice_ca_30373405.mp3|Quina botiga hi ha al pas d'Antonio Cuadrillero número seixanta-set?

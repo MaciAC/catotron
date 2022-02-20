@@ -1,0 +1,9 @@
+common_voice_ca_17647950.mp3|Veniu amb mi.
+common_voice_ca_17647951.mp3|I ara votem la resta de la moció.
+common_voice_ca_17647952.mp3|Informes de control: estructura i components, tipologia, informació que subministren.
+common_voice_ca_17647953.mp3|No va respondre.
+common_voice_ca_17647954.mp3|És una bona idea.
+common_voice_ca_17647961.mp3|La puntuació mínima per superar-lo és de sis coma vint-i-cinc punts.
+common_voice_ca_17647962.mp3|El funcionari ho notificarà per escrit al Cap del Cos o persona en qui delegui amb una antelació de set dies abans.
+common_voice_ca_17647963.mp3|Acabat el debat, procedirem a la votació.
+common_voice_ca_17647964.mp3|Les accions amb una puntuació inferior a cinquanta punts no poden ser atorgades.

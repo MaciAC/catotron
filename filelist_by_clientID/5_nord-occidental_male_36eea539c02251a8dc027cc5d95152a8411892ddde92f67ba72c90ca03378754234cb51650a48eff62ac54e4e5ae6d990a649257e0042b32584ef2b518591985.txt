@@ -1,0 +1,5 @@
+common_voice_ca_17650587.mp3|Si l'estada és de més de vint dies, es paga la quota mensual.
+common_voice_ca_17650588.mp3|Aquests alumnes tenen també dret a la certificació de la formació rebuda.
+common_voice_ca_17650589.mp3|El canvi consisteix en la implantació d'una nova instal·lació de tractament de gasos.
+common_voice_ca_17650590.mp3|Actuarà com a secretari de la Junta el director del Gabinet d'Estudis.
+common_voice_ca_17650591.mp3|L'entrada d'aigües és subterrània i la sortida bombada per bombes submergides.

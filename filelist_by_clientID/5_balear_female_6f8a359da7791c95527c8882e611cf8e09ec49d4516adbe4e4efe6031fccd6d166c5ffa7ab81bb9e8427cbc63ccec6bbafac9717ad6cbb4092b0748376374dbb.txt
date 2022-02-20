@@ -1,0 +1,5 @@
+common_voice_ca_17479027.mp3|Si pressionem aquesta palanca dues vegades, ¿aquell engranatge es mourà dues o quatre vegades?
+common_voice_ca_17479028.mp3|Per xic pillar no cau la casa.
+common_voice_ca_17479029.mp3|A veure si encara així troba motiu per a murmurar.
+common_voice_ca_17479030.mp3|Si apareixen béns demanials d'una altra administració, es tramitarà la mutació demanial externa.
+common_voice_ca_17479031.mp3|Amb invitació prèvia, quan es considere necessari, poden assistir també experts independents.

@@ -1,0 +1,35 @@
+common_voice_ca_23903119.mp3|no
+common_voice_ca_23903120.mp3|Firefox
+common_voice_ca_23903121.mp3|zero
+common_voice_ca_23903122.mp3|nou
+common_voice_ca_23903123.mp3|tres
+common_voice_ca_23903164.mp3|vuit
+common_voice_ca_23903165.mp3|cinc
+common_voice_ca_23903166.mp3|set
+common_voice_ca_23903167.mp3|sí
+common_voice_ca_23903168.mp3|u
+common_voice_ca_23903174.mp3|Ei
+common_voice_ca_23903175.mp3|quatre
+common_voice_ca_23903176.mp3|sis
+common_voice_ca_23903177.mp3|dos
+common_voice_ca_23903178.mp3|Les cartes mostren una imatge única de l'època.
+common_voice_ca_23903180.mp3|La selectiva vulnerabilitat d'algunes neurones pot ser la causa de certes patologies.
+common_voice_ca_23903181.mp3|S'emet cada dilluns a les sis de la tarda.
+common_voice_ca_23903182.mp3|Se n'anà a Bèlgica i a Mèxic i participà en les guerrilles de Guatemala.
+common_voice_ca_23903183.mp3|L'edifici, obra de l'arquitecte Pere Serra, s'estructura en tres nivells.
+common_voice_ca_23903187.mp3|Diverses d'aquestes representacions n'eren les estrenes.
+common_voice_ca_23903191.mp3|La llengua catalana és força rica quant a cançons populars d'aquest tipus.
+common_voice_ca_23903196.mp3|L'absis té a l'exterior un sòcol amb bisell a tot vol.
+common_voice_ca_23903197.mp3|La ciutat fou saquejada.
+common_voice_ca_23903198.mp3|És a ponent de la Canal de la Torreta.
+common_voice_ca_23903204.mp3|Se'n conserven només dos sirventesos d'atribució segura.
+common_voice_ca_23903205.mp3|Fa referència als conflictes armats de les tribus Tràcies i els seus regnes als Balcans.
+common_voice_ca_23903206.mp3|En el seu primer any a la casa alba, aconsegueix els campionats d'Apertura i Clausura.
+common_voice_ca_23903207.mp3|Fou ferit a la cama i fou portat a l'hospital per tractar-lo.
+common_voice_ca_23903208.mp3|Aquesta derrota va suposar la pèrdua de totes les possessions romanes més enllà del Rin.
+common_voice_ca_23903209.mp3|No integrar-la amb la resta d'estratègies pot portar a no obtenir els resultats desitjats.
+common_voice_ca_23903210.mp3|L'església parroquial de Casserres era dedicada a Sant Pau, molt allunyada del nucli urbà.
+common_voice_ca_23903213.mp3|El rector de l'església més important d'una ciutat també pot ser conegut per degà.
+common_voice_ca_23903220.mp3|Això finalment va arribar a la seva fi.
+common_voice_ca_23903222.mp3|A la península Ibèrica ha envaït el riu Guadiana.
+common_voice_ca_23903223.mp3|La pel·lícula no va ser ben rebuda per la crítica.

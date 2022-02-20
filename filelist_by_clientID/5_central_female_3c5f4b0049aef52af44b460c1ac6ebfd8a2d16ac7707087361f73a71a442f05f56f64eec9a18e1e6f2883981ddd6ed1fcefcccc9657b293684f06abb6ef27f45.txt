@@ -1,0 +1,5 @@
+common_voice_ca_22065112.mp3|Firefox
+common_voice_ca_22065113.mp3|quatre
+common_voice_ca_22065114.mp3|u
+common_voice_ca_22065115.mp3|cinc
+common_voice_ca_22065116.mp3|tres

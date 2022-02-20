@@ -1,0 +1,4 @@
+common_voice_ca_17375806.mp3|No està malament.
+common_voice_ca_17375808.mp3|Qui més alt puja, de més alt cau.
+common_voice_ca_17375809.mp3|Aigua de gener prenya l'oliver.
+common_voice_ca_17375810.mp3|El llevant no és caçador ni pescador.

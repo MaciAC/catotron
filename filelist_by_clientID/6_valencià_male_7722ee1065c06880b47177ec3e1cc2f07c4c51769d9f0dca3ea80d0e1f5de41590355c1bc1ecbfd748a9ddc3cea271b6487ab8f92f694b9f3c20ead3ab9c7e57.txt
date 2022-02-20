@@ -1,0 +1,6 @@
+common_voice_ca_19045630.mp3|Som els enemics de la propietat i del treball.
+common_voice_ca_19045634.mp3|Quan estigui a punt, poseu-hi l'ànec i cobriu-ho amb aigua bullent.
+common_voice_ca_19045640.mp3|Feu-ne sis talls, enfarineu-los i fregiu-los amb l'oli ben calent.
+common_voice_ca_19045641.mp3|Poseu a la cassola el pollastre i cobriu-lo amb aigua bullent.
+common_voice_ca_19045642.mp3|Hi insisteixo.
+common_voice_ca_19045648.mp3|És com el gat de casa.

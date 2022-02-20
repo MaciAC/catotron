@@ -1,0 +1,5 @@
+common_voice_ca_17589801.mp3|De l'abril al setembre, navega sense témer; de l'octubre al març, no vages per mar.
+common_voice_ca_17589834.mp3|Gos lladrador, no és caçador.
+common_voice_ca_17589835.mp3|La sorpresa és un avantatge.
+common_voice_ca_17589836.mp3|Qui t'avisa no et vol mal.
+common_voice_ca_17589837.mp3|Quan la formiga treu terra del niu, adoba la gotera i fuig del riu.

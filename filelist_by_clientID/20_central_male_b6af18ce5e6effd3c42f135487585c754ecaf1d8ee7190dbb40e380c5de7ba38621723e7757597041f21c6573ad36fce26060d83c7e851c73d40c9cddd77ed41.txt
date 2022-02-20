@@ -1,0 +1,20 @@
+common_voice_ca_17367576.mp3|En cas que l'informant no sigui el mateix afectat, es recull el vincle amb l'afectat.
+common_voice_ca_17367577.mp3|Ja ho saps.
+common_voice_ca_17367578.mp3|No em puc queixar.
+common_voice_ca_17367579.mp3|Accepta i compleix les normes i les ordres directes.
+common_voice_ca_17367580.mp3|Alhora estableix els criteris relatius a l'arrodoniment d'aquests coeficients.
+common_voice_ca_17367868.mp3|Despatxa correspondència ordinària.
+common_voice_ca_17367869.mp3|Ja era hora!
+common_voice_ca_17367870.mp3|En cas que algun candidat no obtingui l'aptitud mèdica, el tribunal convocarà al candidat següent.
+common_voice_ca_17367871.mp3|No s'ho esperava.
+common_voice_ca_17367872.mp3|No hi ha cap problema.
+common_voice_ca_17367873.mp3|M'explicaré.
+common_voice_ca_17367874.mp3|Satisfet?
+common_voice_ca_17367875.mp3|Consistiran a la realització d'un test de competències professionals i una entrevista.
+common_voice_ca_17367876.mp3|Vaig obrir la porta.
+common_voice_ca_17367877.mp3|Per on començo?
+common_voice_ca_17367878.mp3|I prou.
+common_voice_ca_17367879.mp3|El va agafar.
+common_voice_ca_17367880.mp3|Elaborar els plans comarcals de muntanya o altres que li puguin ser encomanats.
+common_voice_ca_17367881.mp3|Al·leluia!
+common_voice_ca_17367882.mp3|Res en absolut.

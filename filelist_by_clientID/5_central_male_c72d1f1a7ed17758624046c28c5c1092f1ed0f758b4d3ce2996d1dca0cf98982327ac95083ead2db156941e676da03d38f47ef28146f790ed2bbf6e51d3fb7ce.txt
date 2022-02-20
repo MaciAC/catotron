@@ -1,0 +1,5 @@
+common_voice_ca_17852460.mp3|Venim de Marganell.
+common_voice_ca_17852461.mp3|Venim del Poble Nou de Benitatxell.
+common_voice_ca_17852462.mp3|Són empreses que centren el seu negoci en la venda de maquinari i per a les quals el programari n'és un complement necessari.
+common_voice_ca_17852463.mp3|Venim de Vilaplana.
+common_voice_ca_17852464.mp3|Venim de Vilademuls.

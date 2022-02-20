@@ -1,0 +1,5 @@
+common_voice_ca_21923605.mp3|Firefox
+common_voice_ca_21923610.mp3|no
+common_voice_ca_24381009.mp3|Iemen es dividiria en sis regions administratives.
+common_voice_ca_24381012.mp3|L'edifici és d'arquitectura gòtica i està situada a la plaça de Sant Francesc d'Arezzo.
+common_voice_ca_24381019.mp3|La sang a través del ventricle dret cap als pulmons via les artèries pulmonars.

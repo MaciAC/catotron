@@ -1,0 +1,77 @@
+common_voice_ca_18375152.mp3|Venim d'Òrrius.
+common_voice_ca_18375153.mp3|Venim d'Avià.
+common_voice_ca_18375154.mp3|Venim de Hostalric.
+common_voice_ca_18375155.mp3|Venim de Montellà i Martinet.
+common_voice_ca_18375156.mp3|Venim de Fontcoberta.
+common_voice_ca_18375162.mp3|Venim de Cervià de Ter.
+common_voice_ca_18375163.mp3|Venim d'Alàs i Cerc.
+common_voice_ca_18375164.mp3|Venim d'Agramunt.
+common_voice_ca_18375165.mp3|Venim d'Odèn.
+common_voice_ca_18375166.mp3|Venim de Calella.
+common_voice_ca_18375172.mp3|Venim d'Anglesola.
+common_voice_ca_18375173.mp3|Venim de Camprodon.
+common_voice_ca_18375175.mp3|Venim d'Oliola.
+common_voice_ca_18375176.mp3|Venim de Balaguer.
+common_voice_ca_18375177.mp3|Venim de Foixà.
+common_voice_ca_18375178.mp3|Venim de Miravet.
+common_voice_ca_18375179.mp3|Venim de Casserres.
+common_voice_ca_18375180.mp3|Venim des Mercadal.
+common_voice_ca_18375181.mp3|Venim d'Albinyana.
+common_voice_ca_18375187.mp3|Venim de Besalú.
+common_voice_ca_18375188.mp3|Venim d'Artesa de Lleida.
+common_voice_ca_18375189.mp3|Venim de la Vall d'en Bas.
+common_voice_ca_18375191.mp3|Venim de Montcada i Reixac.
+common_voice_ca_18375197.mp3|Venim de Barbens.
+common_voice_ca_18375199.mp3|Venim de les Franqueses del Vallès.
+common_voice_ca_18375200.mp3|Venim d'Amer.
+common_voice_ca_18375201.mp3|Venim de Bellprat.
+common_voice_ca_18375202.mp3|Venim de Boadella i les Escaules.
+common_voice_ca_18375203.mp3|Venim de Fogars de Montclús.
+common_voice_ca_18375204.mp3|Venim de l'Argentera.
+common_voice_ca_18375205.mp3|Venim de Ciutadella de Menorca.
+common_voice_ca_18375206.mp3|Venim d'Aitona.
+common_voice_ca_18375207.mp3|Venim de Bellvei.
+common_voice_ca_18375208.mp3|Venim de Móra d'Ebre.
+common_voice_ca_18375209.mp3|Venim de Capmany.
+common_voice_ca_18375210.mp3|Venim de Mancor de la Vall.
+common_voice_ca_18375211.mp3|Venim de Mediona.
+common_voice_ca_18375247.mp3|Venim de Mont-ras.
+common_voice_ca_18375248.mp3|Venim de Borredà.
+common_voice_ca_18375249.mp3|Venim de Darnius.
+common_voice_ca_18375250.mp3|Venim de Breda.
+common_voice_ca_18375251.mp3|Venim de Montornès del Vallès.
+common_voice_ca_18375262.mp3|Venim de Matadepera.
+common_voice_ca_18375263.mp3|Venim de Clariana de Cardener.
+common_voice_ca_18375264.mp3|Venim de Calonge de Segarra.
+common_voice_ca_18375265.mp3|Venim d'Ivars de Noguera.
+common_voice_ca_18375266.mp3|Venim de Horta de Sant Joan.
+common_voice_ca_18375407.mp3|Venim d'Olius.
+common_voice_ca_18375408.mp3|Venim de Calvià.
+common_voice_ca_18375409.mp3|Venim del Port de la Selva.
+common_voice_ca_18375410.mp3|Venim de Palafolls.
+common_voice_ca_18375411.mp3|Venim de Martorell.
+common_voice_ca_18375422.mp3|Venim de Gandesa.
+common_voice_ca_18375423.mp3|Venim de Mas de Barberans.
+common_voice_ca_18375424.mp3|Venim d'Espot.
+common_voice_ca_18375425.mp3|Venim d'Ivorra.
+common_voice_ca_18375426.mp3|Venim d'Olost.
+common_voice_ca_18375432.mp3|Venim de la Bisbal de Falset.
+common_voice_ca_18375433.mp3|Venim de Centelles.
+common_voice_ca_18375434.mp3|Venim de Sant Antoni de Portmany.
+common_voice_ca_18375435.mp3|Venim de Formentera.
+common_voice_ca_18375436.mp3|Venim de Cabanabona.
+common_voice_ca_18375447.mp3|Venim de Cerdanyola del Vallès.
+common_voice_ca_18375448.mp3|Venim de Mura.
+common_voice_ca_18375450.mp3|Venim del Bruc.
+common_voice_ca_18375451.mp3|Venim de Montagut i Oix.
+common_voice_ca_18375453.mp3|Venim de Lliçà d'Amunt.
+common_voice_ca_18375456.mp3|Venim del Molar.
+common_voice_ca_18375457.mp3|Venim de Biosca.
+common_voice_ca_18375458.mp3|Venim de Muro.
+common_voice_ca_18375459.mp3|Venim dels Pallaresos.
+common_voice_ca_18375460.mp3|Venim de Bot.
+common_voice_ca_18375461.mp3|Venim de Llagostera.
+common_voice_ca_18375462.mp3|Venim de Das.
+common_voice_ca_18375463.mp3|Venim de Benifallet.
+common_voice_ca_18375464.mp3|Venim de Castelldefels.
+common_voice_ca_18375465.mp3|Venim de Blancafort.

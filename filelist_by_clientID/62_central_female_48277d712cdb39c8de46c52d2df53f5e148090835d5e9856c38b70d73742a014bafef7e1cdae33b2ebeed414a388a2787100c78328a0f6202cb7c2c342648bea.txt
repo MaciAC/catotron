@@ -1,0 +1,62 @@
+common_voice_ca_17901327.mp3|Així, si estem realitzant una creació combinant creacions de tercers, com per exemple un article, hem de demanar permís a l'autor original.
+common_voice_ca_17901328.mp3|Més informació a la pàgina web del congrés.
+common_voice_ca_17901329.mp3|Venim del Genovés.
+common_voice_ca_17901330.mp3|Venim de la Iessa.
+common_voice_ca_17901331.mp3|Fan partits de futbol a les quatre de la matinada.
+common_voice_ca_17901332.mp3|Venim de Vilaller.
+common_voice_ca_17901333.mp3|Podreu sortir de Reus?
+common_voice_ca_17901334.mp3|Venim de Lladurs.
+common_voice_ca_17901335.mp3|Venim de Beniflà.
+common_voice_ca_17901336.mp3|Venim de Vallromanes.
+common_voice_ca_17901340.mp3|Venim de Millars.
+common_voice_ca_17901341.mp3|Hi ha una boira molt espessa.
+common_voice_ca_17901342.mp3|Va llegir un manual de MySQL.
+common_voice_ca_17901343.mp3|Aquests dies es veu Mart a ull nu.
+common_voice_ca_17901344.mp3|Rita, Rita, em pots deixar un petricó de lleteta?
+common_voice_ca_17901347.mp3|Venim de Banyalbufar.
+common_voice_ca_17901348.mp3|Venim de Talamanca.
+common_voice_ca_17901349.mp3|Venim del Masroig.
+common_voice_ca_17901350.mp3|Venim de Rotglà i Corberà.
+common_voice_ca_17901351.mp3|Podríem anar a Figueres abans de la festa major, Lluïsa?
+common_voice_ca_17901352.mp3|Venim d'Aielo de Rugat.
+common_voice_ca_17901353.mp3|Venim de Garrigàs.
+common_voice_ca_17901354.mp3|Venim d'Otos.
+common_voice_ca_17901355.mp3|Venim de Vilajuïga.
+common_voice_ca_17901356.mp3|Els missatges que m'enviava l'advocat em confonien.
+common_voice_ca_17901357.mp3|Poseu-los en un pot de vidre hermètic, a capes, empolsegant de pebre cada capa.
+common_voice_ca_17901358.mp3|Venim de l'Olleria.
+common_voice_ca_17901359.mp3|Doncs, molt bé.
+common_voice_ca_17901360.mp3|La fundació requereix una gestió acurada.
+common_voice_ca_17901361.mp3|Venim d'Alt Àneu.
+common_voice_ca_17901366.mp3|Madona, el cul vos trona.
+common_voice_ca_17901367.mp3|Venim de Peramola.
+common_voice_ca_17901368.mp3|Venim de Benigànim.
+common_voice_ca_17901371.mp3|Originar freqüents renyes i baralles amb els companys de treball.
+common_voice_ca_17901377.mp3|La programació pròpia s'articula en: simfònica, cambra, antiga, educa i moderna.
+common_voice_ca_17901378.mp3|Venim de Bellreguard.
+common_voice_ca_17901379.mp3|Quina tos, ja et prens el xarop?
+common_voice_ca_17901380.mp3|Venim de Santpedor.
+common_voice_ca_17901381.mp3|La serra de Pàndols fou testimoni de batalles sanguinàries.
+common_voice_ca_17901382.mp3|Conéixer les estructures que componen l'aparell locomotor i les funcions que realitzen.
+common_voice_ca_17901383.mp3|El Josep va ser dels primers que va trobar feina de tota la colla.
+common_voice_ca_17901384.mp3|Un musical com The Lyon King no agrada a tothom.
+common_voice_ca_17901385.mp3|IBM ha demostrat que està al costat del programari lliure en defensar Linux davant els tribunals.
+common_voice_ca_17901386.mp3|Venim de Museros.
+common_voice_ca_17901388.mp3|Venim de Benifairó de la Valldigna.
+common_voice_ca_17901389.mp3|Venim d'Espadella.
+common_voice_ca_17901390.mp3|Venim d'Alfarrasí.
+common_voice_ca_17901391.mp3|Venim de la Font de la Figuera.
+common_voice_ca_17901392.mp3|Venim de Dosaigües.
+common_voice_ca_17901397.mp3|El setembre és veremador, i es fa vi del bo i millor.
+common_voice_ca_17901398.mp3|Els centres de teràpia vèdica s'han escampat pel barri.
+common_voice_ca_17901399.mp3|Venim d'Onda.
+common_voice_ca_17901400.mp3|Venim de Sant Quirze de Besora.
+common_voice_ca_17901401.mp3|El context de la disputa era perillós.
+common_voice_ca_17901403.mp3|Venim de Mont-roig del Camp.
+common_voice_ca_17901404.mp3|És lent aquest cony de programa, molt lent, no es pot aguantar!
+common_voice_ca_17901405.mp3|La dinàmica cultural m'embafa.
+common_voice_ca_17901406.mp3|Venim d'Ordino.
+common_voice_ca_17903221.mp3|Venim de Sant Pere de Riudebitlles.
+common_voice_ca_17903222.mp3|Venim de Xaló.
+common_voice_ca_17903223.mp3|Venim d'Oriola.
+common_voice_ca_17903224.mp3|Planifica els serveis amb normalitat i eficàcia.

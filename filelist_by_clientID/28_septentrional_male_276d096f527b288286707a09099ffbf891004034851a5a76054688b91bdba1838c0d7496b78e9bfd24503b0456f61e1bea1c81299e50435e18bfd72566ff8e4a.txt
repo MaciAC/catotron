@@ -1,0 +1,28 @@
+common_voice_ca_21918223.mp3|no
+common_voice_ca_21918225.mp3|dos
+common_voice_ca_21918226.mp3|tres
+common_voice_ca_21918227.mp3|nou
+common_voice_ca_21918228.mp3|sis
+common_voice_ca_21918373.mp3|vuit
+common_voice_ca_21918374.mp3|set
+common_voice_ca_21918375.mp3|zero
+common_voice_ca_21918376.mp3|quatre
+common_voice_ca_21918387.mp3|cinc
+common_voice_ca_21918388.mp3|sí
+common_voice_ca_21918389.mp3|u
+common_voice_ca_21918390.mp3|Ei
+common_voice_ca_21918391.mp3|Malgrat la seua joventut, la Universitat d’Alacant és hereva d’importants tradicions universitàries i d’ensenyament.
+common_voice_ca_21918407.mp3|La ciutat té un clima tropical.
+common_voice_ca_21918408.mp3|La reconquesta de les ciutats hitites ja fou senzilla.
+common_voice_ca_21918409.mp3|Velasco va comprendre que era inútil resistir-hi es va rendir.
+common_voice_ca_21918410.mp3|La banda esquerra d'aquestes roques rep el nom de Sa Somera.
+common_voice_ca_21918411.mp3|El seu fill va caure de petit en un pou, d'on era impossible treure'l.
+common_voice_ca_21918436.mp3|El contrast del pelatge, entre els pèls blancs i els pèls diluïts és menor.
+common_voice_ca_21918438.mp3|Molt poques vegades nien en penya-segats o a terra.
+common_voice_ca_21918439.mp3|Els sediments oceànics formen una massa de material que s'enganxa a la placa de sobre.
+common_voice_ca_21918440.mp3|Es tracta d'un anticòs artificial.
+common_voice_ca_21918467.mp3|També s'ha registrat en l'acònit, que és una planta herbàcia.
+common_voice_ca_21918468.mp3|Cada any, aquesta diada està commemorat i el poble conté diversos monuments militars.
+common_voice_ca_21918470.mp3|Viu a Myanmar, Tailàndia, Laos, el Vietnam i la Xina.
+common_voice_ca_21918471.mp3|Son pare va donar-li les primeres lliçons de música.
+common_voice_ca_21918472.mp3|Ha treballat a diversos programes de televisió.

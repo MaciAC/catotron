@@ -1,0 +1,4 @@
+common_voice_ca_22243881.mp3|set
+common_voice_ca_22243889.mp3|no
+common_voice_ca_22243893.mp3|quatre
+common_voice_ca_22243897.mp3|u

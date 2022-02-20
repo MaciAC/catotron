@@ -1,0 +1,61 @@
+common_voice_ca_17691877.mp3|El contracte serà prorrogable per dos anys més.
+common_voice_ca_17691878.mp3|I què passa?
+common_voice_ca_17691879.mp3|Davant d'un problema o un servei complicat, no se'l troba.
+common_voice_ca_17691880.mp3|La concessió de subvencions d'abast pluriennal requerirà l'aprovació prèvia del Govern.
+common_voice_ca_17691881.mp3|És una bogeria.
+common_voice_ca_17691907.mp3|Assumirà la presidència el jutge de pau, i les funcions pròpies de la secretaria, el secretari municipal.
+common_voice_ca_17691908.mp3|Votem seguidament les esmenes del Grup Mixt.
+common_voice_ca_17691909.mp3|Ho deixo aquí.
+common_voice_ca_17691910.mp3|Autoritza, registra, identifica i controla els operadors del sector lleter, els tancs i les cisternes.
+common_voice_ca_17691911.mp3|S'entén per obsequi o regal de valor el que supera l'import estimat de cent cinquanta euros.
+common_voice_ca_17701356.mp3|Venim de Montferrer i Castellbò.
+common_voice_ca_17701357.mp3|Venim de Masllorenç.
+common_voice_ca_17701358.mp3|Venim de Cabó.
+common_voice_ca_17701359.mp3|Venim de Lluçà.
+common_voice_ca_17701375.mp3|Venim d'Almenar.
+common_voice_ca_17701376.mp3|Venim de Besalú.
+common_voice_ca_17701378.mp3|Venim de la Morera de Montsant.
+common_voice_ca_17701380.mp3|Venim de Palau-sator.
+common_voice_ca_17701383.mp3|Venim de Llucmajor.
+common_voice_ca_17701384.mp3|Venim de Santa Maria del Camí.
+common_voice_ca_17701385.mp3|Venim de la Selva de Mar.
+common_voice_ca_17701387.mp3|Venim de Calella.
+common_voice_ca_17701398.mp3|Venim de Muntanyola.
+common_voice_ca_17701399.mp3|Venim d'Os de Balaguer.
+common_voice_ca_17701401.mp3|Venim de Bellcaire d'Empordà.
+common_voice_ca_17701404.mp3|Venim d'Arnes.
+common_voice_ca_17701409.mp3|Venim d'Igualada.
+common_voice_ca_17701418.mp3|Venim de Juneda.
+common_voice_ca_17701419.mp3|Venim de Muro.
+common_voice_ca_17701420.mp3|Venim de Gandesa.
+common_voice_ca_17701421.mp3|Venim de Massalcoreig.
+common_voice_ca_17701422.mp3|Venim de Castellví de la Marca.
+common_voice_ca_17701424.mp3|Venim de Capçanes.
+common_voice_ca_17701425.mp3|Venim de Castellfollit de la Roca.
+common_voice_ca_17701427.mp3|Venim d'Aguilar de Segarra.
+common_voice_ca_17701428.mp3|Venim de Berga.
+common_voice_ca_17701448.mp3|Venim de Granera.
+common_voice_ca_17701449.mp3|Venim de Caldes de Malavella.
+common_voice_ca_17701450.mp3|Venim de Fontcoberta.
+common_voice_ca_17701451.mp3|Venim de Creixell.
+common_voice_ca_17701452.mp3|Venim de Pallejà.
+common_voice_ca_17701486.mp3|Venim d'Almatret.
+common_voice_ca_17701488.mp3|Venim d'Isòvol.
+common_voice_ca_17701490.mp3|Venim de la Bisbal del Penedès.
+common_voice_ca_17701493.mp3|Venim de la Garriga.
+common_voice_ca_17701494.mp3|Venim de Maria de la Salut.
+common_voice_ca_17701518.mp3|Venim de Cantallops.
+common_voice_ca_17701519.mp3|Venim de Bellvei.
+common_voice_ca_17701520.mp3|Venim de les Cabanyes.
+common_voice_ca_17701521.mp3|Venim de Camprodon.
+common_voice_ca_17701522.mp3|Venim de Cubells.
+common_voice_ca_17701546.mp3|Venim de Campos.
+common_voice_ca_17701547.mp3|Venim d'Arenys de Munt.
+common_voice_ca_17701549.mp3|Venim de Castelló de Farfanya.
+common_voice_ca_17701550.mp3|Venim de Darnius.
+common_voice_ca_17701552.mp3|Venim d'Agullana.
+common_voice_ca_17701558.mp3|Venim de Navata.
+common_voice_ca_17701559.mp3|Venim de Conesa.
+common_voice_ca_17701560.mp3|Venim de Martorell.
+common_voice_ca_17701561.mp3|Venim de Matadepera.
+common_voice_ca_17701562.mp3|Venim de la Masó.

@@ -1,0 +1,10 @@
+common_voice_ca_17852678.mp3|Els meus avis es van conèixer anant a collir raïms.
+common_voice_ca_17852679.mp3|El ball de tarda comença a les vuit.
+common_voice_ca_17852680.mp3|El president o la presidenta de l'Acadèmia Valenciana de la Llengua o persona en qui delegue.
+common_voice_ca_17852681.mp3|Venim de Salem.
+common_voice_ca_17852682.mp3|Venim de Beniparrell.
+common_voice_ca_17852683.mp3|Venim de Santa Maria de Martorelles.
+common_voice_ca_17852684.mp3|Va llegir un manual de MySQL.
+common_voice_ca_17852685.mp3|L'economia de recursos que comporta fer eixe camí s'ha de mirar amb absoluta naturalitat.
+common_voice_ca_17852686.mp3|Venim de l'Atzúvia.
+common_voice_ca_17852687.mp3|Vist que l'instructor del procediment eleva l'oportuna proposta de resolució.
