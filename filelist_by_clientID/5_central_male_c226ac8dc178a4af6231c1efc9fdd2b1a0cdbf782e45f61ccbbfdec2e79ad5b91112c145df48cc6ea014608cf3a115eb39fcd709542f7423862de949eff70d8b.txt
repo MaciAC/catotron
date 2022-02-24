@@ -1,5 +1,0 @@
-common_voice_ca_19300201.mp3|Anem a Prats i Sansor.
-common_voice_ca_19300203.mp3|Anem a Foradada.
-common_voice_ca_19300204.mp3|Anem a Riudecanyes.
-common_voice_ca_19300205.mp3|Anem a Mediona.
-common_voice_ca_19300206.mp3|Anem a Quart.

@@ -1,9 +1,0 @@
-common_voice_ca_17852621.mp3|Venim de Corbera.
-common_voice_ca_17852622.mp3|Venim de Tagamanent.
-common_voice_ca_17852623.mp3|A començar juliol, planta fesols.
-common_voice_ca_17852624.mp3|Venim de Jafre.
-common_voice_ca_17852625.mp3|Venim de Sarral.
-common_voice_ca_17852626.mp3|Venim de Vallromanes.
-common_voice_ca_17852627.mp3|Un repte com aquest no està a l'abast de la Isabel!
-common_voice_ca_17852628.mp3|Aquesta qüestió és irrellevant en aquest cas.
-common_voice_ca_17852629.mp3|Venim de Beniarbeig.

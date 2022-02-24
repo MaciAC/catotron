@@ -1,9 +1,0 @@
-common_voice_ca_17853657.mp3|Venim de Torrelles de Foix.
-common_voice_ca_17853658.mp3|Venim de les Fonts d'Aiòder.
-common_voice_ca_17853659.mp3|I si ho discutim tot prenent-nos unes Moritz?
-common_voice_ca_17853660.mp3|Venim de Brunyola.
-common_voice_ca_17853661.mp3|Venim de Bocairent.
-common_voice_ca_17853667.mp3|Venim de Bellaguarda.
-common_voice_ca_17853668.mp3|Per a l'usuari final, després del sistema operatiu, el paquet ofimàtic és el conjunt de programes més utilitzats.
-common_voice_ca_17853670.mp3|El sistema operatiu és el programa que interacciona entre el maquinari, l'usuari i les aplicacions.
-common_voice_ca_17853671.mp3|Venim de Benirredrà.

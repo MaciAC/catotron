@@ -1,4 +1,0 @@
-common_voice_ca_17469898.mp3|Gestiona les reparacions que són conseqüència dels sinistres dels vehicles.
-common_voice_ca_17469899.mp3|A un vell gat no li cal mostrar la rata.
-common_voice_ca_17469901.mp3|Està optimitzat per veure-ho amb l'Internet Explorer, però també funciona perfectament amb Netscape.
-common_voice_ca_17469902.mp3|Per Santa Maria, hora i mitja més de dia.

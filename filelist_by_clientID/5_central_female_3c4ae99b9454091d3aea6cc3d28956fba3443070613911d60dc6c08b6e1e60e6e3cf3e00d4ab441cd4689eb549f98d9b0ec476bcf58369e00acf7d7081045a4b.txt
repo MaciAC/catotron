@@ -1,5 +1,0 @@
-common_voice_ca_17498228.mp3|Quan parle, la llengua menege.
-common_voice_ca_17498229.mp3|Què em dius?
-common_voice_ca_17498231.mp3|Si plou per Sant Jordi, les cireres en orris.
-common_voice_ca_17498233.mp3|Prosseguiu.
-common_voice_ca_17498234.mp3|Paciència.

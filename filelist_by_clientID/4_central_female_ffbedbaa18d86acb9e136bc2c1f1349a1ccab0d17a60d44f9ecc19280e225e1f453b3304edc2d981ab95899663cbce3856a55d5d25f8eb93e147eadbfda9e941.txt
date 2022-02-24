@@ -1,4 +1,0 @@
-common_voice_ca_17513482.mp3|Els amics, te'ls tries; els parents, te'ls tragues.
-common_voice_ca_17513483.mp3|Trons de sant Joan, la collita reeixiran.
-common_voice_ca_17513485.mp3|Aquest anunci serveix de convocatòria de licitació per al procediment negociat o restringit.
-common_voice_ca_17513486.mp3|D'aquesta manera, és més fàcil controlar els elements de terceres parts que l'usuari pugui instal·lar.

@@ -1,8 +1,0 @@
-common_voice_ca_17473548.mp3|Però l'efecte no és igual per les dues bandes.
-common_voice_ca_17473549.mp3|Aquí tenim l'explicació de per què no hi ha ningú.
-common_voice_ca_17473550.mp3|Qui té més que callar més parla.
-common_voice_ca_17473551.mp3|El desenvolupament es realitza en un fòrum públic.
-common_voice_ca_17473552.mp3|Garbí a l'hivern, boca d'infern.
-common_voice_ca_26954995.mp3|Anne i Eliot es casen una setmana després que Anne es divorciï d'Arthur.
-common_voice_ca_26954999.mp3|Un joquei cobert de fang durant una cursa
-common_voice_ca_26955002.mp3|"""Shang Di"" és la romanització pinyin de dos caràcters xinesos."

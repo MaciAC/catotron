@@ -1,5 +1,0 @@
-common_voice_ca_17852708.mp3|Han arribat a Roma amb tres hores de retard.
-common_voice_ca_17852709.mp3|Venim de Cortes d'Arenós.
-common_voice_ca_17852710.mp3|Existeix, però no la veu.
-common_voice_ca_17852711.mp3|Venim de Gurb.
-common_voice_ca_17852712.mp3|Venim de Fonollosa.

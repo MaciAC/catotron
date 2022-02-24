@@ -1,5 +1,0 @@
-common_voice_ca_17518750.mp3|Aquest és l'objectiu.
-common_voice_ca_17518751.mp3|Deixem-ho així.
-common_voice_ca_17518752.mp3|Assenteixo.
-common_voice_ca_17518753.mp3|Ella no contesta.
-common_voice_ca_17518754.mp3|Disposició transitòria.

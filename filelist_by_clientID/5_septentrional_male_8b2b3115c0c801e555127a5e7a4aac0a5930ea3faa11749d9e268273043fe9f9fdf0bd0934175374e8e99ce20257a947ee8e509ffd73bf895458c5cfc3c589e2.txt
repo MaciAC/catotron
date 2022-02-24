@@ -1,5 +1,0 @@
-common_voice_ca_19036005.mp3|I aquesta és la qüestió.
-common_voice_ca_19036006.mp3|L'ús d'aquestes armilles quedarà subjecte a les instruccions donades pel Cap del Cos.
-common_voice_ca_19036007.mp3|Sardina a l'art, maror a la mar.
-common_voice_ca_19036008.mp3|Vaig abaixar els ulls.
-common_voice_ca_19036009.mp3|En l'àmbit de Treumal, caldrà unificar les trames de la zona d'espais lliures.

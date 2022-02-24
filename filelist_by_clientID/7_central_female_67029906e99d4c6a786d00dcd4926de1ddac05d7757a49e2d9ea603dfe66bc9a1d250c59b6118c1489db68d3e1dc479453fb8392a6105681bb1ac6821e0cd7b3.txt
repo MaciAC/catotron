@@ -1,7 +1,0 @@
-common_voice_ca_23909081.mp3|quatre
-common_voice_ca_23909083.mp3|tres
-common_voice_ca_23909084.mp3|no
-common_voice_ca_23909085.mp3|Ei
-common_voice_ca_23909091.mp3|dos
-common_voice_ca_23909093.mp3|vuit
-common_voice_ca_23909095.mp3|set

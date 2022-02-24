@@ -1,4 +1,0 @@
-common_voice_ca_17983006.mp3|Ells diuen que sí i jo dic que no.
-common_voice_ca_17983007.mp3|Venim de Bellreguard.
-common_voice_ca_17983009.mp3|Venim de Godella.
-common_voice_ca_17983010.mp3|Venim de Cerdà.

@@ -1,4 +1,0 @@
-common_voice_ca_17468207.mp3|On són els altres?
-common_voice_ca_17468208.mp3|Softcatalà recomana executar primer el Catalanitzador a l'equip i, posteriorment, instal·lar-hi el LibreOffice.
-common_voice_ca_17468209.mp3|A la casa que no s'hi renya, no hi ha pa.
-common_voice_ca_17468210.mp3|Consistència de la proposta d'acompanyament al retorn que garanteixi la seguretat del Defensor o Defensora.

@@ -1,5 +1,0 @@
-common_voice_ca_23903670.mp3|nou
-common_voice_ca_23903671.mp3|sis
-common_voice_ca_23903672.mp3|quatre
-common_voice_ca_23903673.mp3|vuit
-common_voice_ca_23903674.mp3|zero
