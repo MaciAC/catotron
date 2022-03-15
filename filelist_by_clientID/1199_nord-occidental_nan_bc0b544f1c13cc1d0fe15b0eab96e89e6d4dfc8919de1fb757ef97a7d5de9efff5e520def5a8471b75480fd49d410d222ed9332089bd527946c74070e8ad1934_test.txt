@@ -1,503 +1,494 @@
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409368.wav|La universitat reconeix que és una corporació creada pel congrés que serveix els objectius del govern.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409389.wav|Si us plau, tanca el llum del garatge.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409393.wav|Tots els partits havien de començar amb la Defensa Siciliana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409394.wav|Debbie Dunlap va ser la primera directora.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409395.wav|Quan Wilson va tornar, es va estranyar de trobar Kooper a l'estudi.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409406.wav|És una de les divisions geogràfiques usades per la Societat d'anacronisme creatiu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409412.wav|El noi va pujar la duna lentament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409494.wav|Et presento el Benjamin.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409498.wav|"Al Regne Unit utilitzem les formes ortogràfiques ""fuelled"" i ""fuelling""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409514.wav|"L'episodi es va relatar en detall en el perdut ""Cipria"", del Cicle Èpic."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409516.wav|La mascota de l'institut és el linx roig.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409517.wav|Va produir una important sèrie de quadres de batalla basats en les seves experiències.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409763.wav|Sobretot desesperat per deixar de menjar llenties, pa francès i tomàquets.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409765.wav|Els districtes de l'antiga Shahabad són els següents.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409770.wav|És l'assentament més al sud de l'estat d'Alabama.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409774.wav|Constanci estava en campanya contra els perses quan Magnenci va arribar al poder.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409786.wav|LaVeaux va néixer a Golden, Colorado.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409803.wav|Però ja està bé per ara.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409806.wav|El basar és el centre comercial de la petita ciutat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409810.wav|Eren els fabricants de motocicletes més antics d'Austràlia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409833.wav|"En les seves necrològiques, se'l recordava com a ""possiblement l'home més popular de Teesside""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409836.wav|La ciutat és la seu del comtat de Conecuh.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409850.wav|Aquesta empresa es va traslladar posteriorment a Strahan, a la costa occidental de Tasmània.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409852.wav|Ella trenca la seva estaca i la fa servir per empalar el dimoni.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409865.wav|El municipi de Foxhome va ser anomenat segons l'assentament més gran, Foxhome, Minnesota.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409877.wav|La casa se situa a la ciutat de Braunau am Inn, a la part alta d'Àustria.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409878.wav|"""Aixeca't i repeteix-ho"" ""Tis the voice of the sluggard,"" va dir."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409880.wav|La llengua hixkariana pot tenir un ordre sintàctic d'objecte-verb-agent.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409881.wav|Tot i que al principi era escèptic, més tard es va convertir en un creient de l'espiritisme.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409902.wav|El processament d'infrarojos va permetre la visió nocturna.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409904.wav|L'àrea era aleshores part del comtat d'Appling, Geòrgia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409950.wav|Podries encendre aquell interruptor, si us plau?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409951.wav|El seu germà era John Young, que va jugar al criquet de primera per a Sussex.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409952.wav|Hippo Diarrhytus és una seu titular de l'església catòlica romana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409965.wav|"Havia estudiat la trigonometria esfèrica i plana, les seccions còniques i l'""Astronomia"" de Fergusson."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409967.wav|Aquesta clàusula va utilitzar-se per permetre a la república adherir-se com a membre de les Nacions Unides.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409969.wav|"L""aigua dels cocos es pot fermentar per produir vinagre de coco."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409970.wav|El riu es pot travessar per aquest lloc, per tant el fort controla estratègicament el pas.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27409982.wav|Hum està casat i té dos fills.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410008.wav|"No s'ha confirmat com es relaciona ""Orrorin"" amb els humans moderns."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410013.wav|Era d'aparença vigorosa i ample d'espatlles, però d'alçada inferior a la mitja.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410017.wav|"Les seqüències d'instruccions es tradueixen des de la ""font"" fins al conjunt d'instruccions de ""destí""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410025.wav|Manipula els temps, l'amplitud i la resposta de freqüència per produir una imatge binaural.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410029.wav|Estan cobertes per dues cúpules inferiors que descansen sobre petxines.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410043.wav|No és cap argument nou; les Hamlets femenines es remunten a la història.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410047.wav|"Rep el seu nom de Solon, estadista, jurista i poeta de l""Atenes clàssica."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410049.wav|Genoa es troba al cor de la regió de Finger Lakes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410050.wav|L'equip d'Oakland es va reubicar a Spokane el primer any.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410057.wav|Un home està fora venent diverses joguines.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410060.wav|Al llarg dels anys, això ha fet que es produeixin diversos litigis que encara no s'han resolt.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410065.wav|La definició es remunta a la tesi d'Anthony Bak.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410066.wav|"L""actual alcalde de Point Edward és Bev Hand."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410079.wav|També hi era l'humorista jove Richard Pryor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410081.wav|La companyia que havien fundat es va arribar a convertir en Massey Ferguson.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410082.wav|Lowe's va suportar reaccions violentes de diversos barris i també d'organitzacions musulmanes i àrabs americanes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27410083.wav|El que passa és que hi ha moltes coses que no estan clares.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411675.wav|La localització es va traslladar de l'Índia colonial britànica a l'antic Oest.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411677.wav|Bombardier es coneguda pel seu francès estàndard, en particular per la seva pronunciació educada i de norma europea.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411688.wav|Mai ho va defensar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411689.wav|La pista òptica va tenir com a conseqüència un format de marc quadrat per a la imatge.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411755.wav|En aquest període, la major part dels comentaris a la Bíblia s'escrivien en llatí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411756.wav|Si us plau, apaga la calefacció.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411758.wav|En essència, farà de la nostra comunitat un lloc acollidor on viure.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411761.wav|Aquest enfocament de control central pot ser extremadament escalable i altament evolutiu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411784.wav|A Belmont Rural no hi ha cap escola.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411798.wav|A Sardenya, Itàlia, el pa forma part d'un ampli context social.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411799.wav|La seva germana, Louisa, estava casada amb Henry Plummer Cheatham, un futur rival polític.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411812.wav|"Tot i així, algunes còpies de la versió censurada inclouen una versió editada de ""Drips""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411816.wav|Vola de juny a agost i l'atrauen la llum i el sucre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27411817.wav|Perquè sempre hi haurà persones millors i pitjors que tu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27413556.wav|Anthony era un nen intel·ligent i curiós.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27413557.wav|La seu del comtat és Forman.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27413571.wav|"Una expressió per recordar-ho és ""tornar amb vermell a dreta""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27413573.wav|Patrick va créixer a Whitstable, Kent.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27413579.wav|Una parella talla un pastís de noces.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27413614.wav|Abasta diversos micro-veïnats inclosos The Castro i Duboce Triangle.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27413687.wav|Dues dones en una obra de construcció.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27413817.wav|Evita el pernil.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27413859.wav|Va ser a arrel d'aquest nomenament que el coronel Cook va rebre la seva distinció militar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27413861.wav|"Al migdia, ""Napa"" havia sortit de la línia de partida per a enfrontar les baixes."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27413986.wav|Els acords que els indis sí van signar no van complir-se per una de les dues parts.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27414010.wav|L'ajustament postglacial també pot ser una causa de l'augment del nivell del mar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27414070.wav|"Els mecanismes de coherència de la memòria de hardware s""utilitzen normalment per implementar la migració."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27414074.wav|Un grup de persones tots amb una samarreta grisa treballen amb una pila de bosses de mercaderies de plàstic.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27414295.wav|Els vaixells de la mateixa classe es poden anomenar vaixells germans.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27414299.wav|Els detalls exactes estan limitats per la imaginació del dissenyador.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27414301.wav|Els colors són els colors noruecs.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27414303.wav|La indústria farmacèutica necessita un canvi de mètodes d'anàlisis de dades sobre medicaments.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27414323.wav|Un noi fa un truc amb una bicicleta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428153.wav|El rellotge va marcar el tercer període.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428165.wav|Al sud d'aquest dic, la costa es va convertir en una pantà de molsa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428166.wav|També creua breument un tros del Districte de Millora Kananaskis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428167.wav|A les possessions franceses d'ultramar, l'ús del francès és cada vegada més comú.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428180.wav|En totes dues ocasions el seu equip va ser derrotat per Cork a la sèrie All-Ireland.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428183.wav|Els Junkers encara no es van rendir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428189.wav|Des de llavors, el festival se celebra a Plant City.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428193.wav|Charlotte visita a Anna, que està parlant amb Petra.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428194.wav|Hi ha molt debat sobre l'efectivitat d'aquestes emissions.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428199.wav|Em vaig sentir molt ignorant, però què hi podia fer?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428205.wav|"Durant l""adolescència, va considerar la idea d""ingressar al sacerdoci."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428207.wav|Consulteu aquí una llista dels districtes electorals del municipi de Rugby per població.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428209.wav|La gent no compra productes, compra beneficis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428235.wav|Del que em vaig adonar fa uns mesos és que no ho he de fer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428236.wav|La Jo està dempeus mirant fixament i encara està mirant fixament quan es recupera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428266.wav|Thoms va aparèixer en anuncis per a Blockbuster Video, Snickers i Nike.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428268.wav|Ell també és vegetarià.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428269.wav|La versió publicada de 'Toonstruck' contenia menys material del que s'havia previst originalment.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428270.wav|La conquesta del castell va deixar Portsmouth indefens i el poble es va rendir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428274.wav|Un nen de cabells castanys amb una camisa vermella i texans blaus porta un camió verd.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428292.wav|La majoria d'informes sobre OVNIS no han estat mai verificats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428347.wav|Hans van Mierlo s'ha casat tres vegades.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428349.wav|També és efectiu durant el segon trimestre d'embaràs.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428467.wav|Agafeu les forques!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428497.wav|Un nen petit fa acrobàcies amb un monopatí a la vorera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428499.wav|El guanyador va ser Adam Logan, de Canadà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428536.wav|La primera part del procés sol consistir a emplenar un formulari de sol·licitud.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428538.wav|A Seldon se l'esmenta tot sovint en la investigació com a punt de referència literari metafòric.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428548.wav|Cada dimecres i dissabte el personal i els campistes ofereixen actuacions.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428550.wav|El disc va ser produït pels membres de la banda Lionel Hicks i Paul Curtis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428551.wav|Tanmateix, hi havien pauses en aquesta rutina.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428553.wav|Creix en boscos i barrancs, especialment prop del mar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428564.wav|El vaixell s'anomena així per la ciutat de Nahunta, Georgia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428586.wav|Amb una població que creixia ràpidament, Siping es va convertir en un centre comercial regional.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428587.wav|El rescalfament no estava encès, sense flux de gas durant l'elevació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428608.wav|No pot entendre el rebuig.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428620.wav|Peter va començar a plorar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27428626.wav|Smith va accedir de mala gana a les peticions de Harris.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431038.wav|La participació és voluntària, de manera que no es dona cap pagament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431039.wav|No obstant això, Coppolino va ser condemnat per assassinar la seva dona a Florida.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431040.wav|La fama de Karavis es va estendre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431047.wav|Totes les espècies d'aquesta família tenen capgrossos aquàtics que s'independitzen.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431051.wav|Telephos va utilitzar només dos monogrames que va heretar de Maues.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431068.wav|"En arribar a Halifax, la ""Victoria"" va ser portada a la drassana per reparar."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431069.wav|"El servei de televisió per subscripció ""Foxtel"" està disponible a Orange i la regió circumdant via satèl·lit."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431079.wav|Per aquest motiu normalment lluita amb portadors d'escuts al seu costat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431081.wav|La pel·lícula va guanyar el millor curtmetratge al Festival Internacional de Cinema Llatí de Los Angeles.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431083.wav|Pot haver estat un soldat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431096.wav|La melassa es pot utilitzar ocasionalment a la cuina com a edulcorant
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431097.wav|Aquest producte lacti picant va ser fabricat a la planta de Brodin, ara tancada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431105.wav|Alguns imiten cavalls de raça àrab, mentre altres semblen versions en miniatura de cavalls de tir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431126.wav|Els nostres assistents d'atenció al client us poden ajudar a resoldre el problema.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431132.wav|Ensenya reencarnació, vegetarianisme i apocalipsis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431144.wav|Vull sentir el que ha de dir Lestat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431145.wav|Llavors, per què som aquí, amics meus?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431148.wav|El van sentenciar a una pena de presó de cinc anys.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431150.wav|Només començar, vam descobrir que un d'ells parlava àrab.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431157.wav|Això era el teu pla?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431183.wav|Bé, no passa res.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431185.wav|Gràcies a això van sobreviure a la guerra.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431204.wav|Històricament, no ha existit el reciclatge de pilotes de tennis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431214.wav|Tot i que és lenta, aquesta tècnica pot produir una textura o un acabat de primera qualitat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431221.wav|B. Stockton, un dels primers terratinents.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431223.wav|El meu exmarit i jo encara som bons amics.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27431247.wav|Va ser el primer actor en fer-ho.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433740.wav|Mina és la patrona de moltes ciutats alemanyes i suïsses.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433743.wav|Russos, ucraïnesos i bielorussos conformen la majoria de la població de la ciutat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433753.wav|"Scaramouche entretén els espectadors amb ""les ganyotes i el llenguatge exagerat""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433757.wav|Va influir considerablement en el desenvolupament de l'arquitectura del Renaixement.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433758.wav|L'ambaixador James Langley va ser mantingut al corrent del desenvolupament polític del país.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433783.wav|Les transfusions sanguínies no són un tractament efectiu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433795.wav|A l'animació hi apareix un barret, un text en suec i unes quantes imatges estranyes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433805.wav|Ah, l'altra dona!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433806.wav|El vicepresident i director general de l'emissora Rick Mack es va disculpar per l'incident.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433807.wav|Molts dels músics no van rebre cap pagament per finalització de serveis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433824.wav|Hi ha dimorfisme sexual marcat en aquesta espècie.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433825.wav|Una de les tradicions de la tira cómica és Mike's Summer Daydream.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433827.wav|El propietari original de l'emissora va ser Heritage Broadcasting Company.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433850.wav|Parla alemany, turc i francès, a més a més d'anglès.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433862.wav|Vaig pensar que a partir d'això podíem confeccionar alguna amb molta flexibilitat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433863.wav|Una nena amb els cabells negres i curts i una altra amb els cabells rossos i llargs posen mentre patinen sobre gel.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433890.wav|Tres anys després de néixer, la seva família es va traslladar a Ottawa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433892.wav|Vegeu la gravetat de Gauss-Bonnet per a més detalls.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433895.wav|No obstant això, en els estudis experimentals d'estructures locals només s'hi ha observat una feble segregació de fases.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27433984.wav|Earl va començar la seva carrera amb el seu primer restaurant de temàtica Beefeater.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27434014.wav|És molt poc probable que l'exposició ocasional a la pell causi cap problema.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27434046.wav|Després d'això, el treball en la calçada podria completar-se sense problemes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27434048.wav|Floreix només molt lentament i no s'han pogut obtenir llavors amb èxit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27434110.wav|Es forma un arc de Sant Martí des de l'aigua que s'ha esquitxat des d'un dipòsit al carrer
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451298.wav|Peltz després va anar a treballar per a la Fundació Robin Hood a la ciutat de Nova York.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451300.wav|"Al principi de la seva carrera, Carr va ser editor executiu de ""Harvard Business Review""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451306.wav|També hi ha una estació d'autobusos menor a Erottaja.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451307.wav|Té dues germanes, la Keta i la Camillie, i un germà, en Kenneth.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451330.wav|També es feien servir tríades de deïtats a la religió egípcia per representar un sistema complet.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451354.wav|Va tancar-me la porta de la casa als nassos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451369.wav|Les suites estaven dissenyades amb luxe.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451370.wav|Al laboratori s'han replicat formes poligonals mitjançant la rotació diferencial de líquids.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451372.wav|Balko és ateu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451381.wav|La ciutat és governada per un alcalde i un ajuntament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451383.wav|Amb èxit es va cridar l'atenció dels monàrquics.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451394.wav|Va aprendre per si sol a pintar mentre feia d'aprenent d'un fabricant de cuir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451397.wav|Les tres primeres temporades van ser autoritzades a Espanya per Jonu Media.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451402.wav|Posteriorment va ser Cap de Pilots i Director d'Operacions.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451405.wav|Chilmark és el punt més alt de Martha's Vineyard, al cim de Peaked Hill.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451406.wav|S'hi adjuntava una carta llarga escrita amb una lletra que no coneixia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27451423.wav|L'estació també atén a la zona recreativa Nordmarka i al llac Songsvann.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27483128.wav|Deixa'm formular una resposta per a aquesta pregunta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27483129.wav|També va estudiar el flux dels fluids subterranis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27483130.wav|També havia estat pensant en això.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27483141.wav|Em temo que simplement era vell, les bateries s'han esgotat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27483146.wav|La Margarita també va fer teatre i pel·lícules.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27483147.wav|Provoca una força d'arrossegament cap al cos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27483148.wav|"El seu lema és ""Omnium Defensor"", la forma llatina de ""Defensor de tots""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27483149.wav|Vuitanta-dos astronautes i cosmonautes van assistir a l'esdeveniment.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27483157.wav|Als rituals, els participants fan ofrenes dels regnes mineral, vegetal i animal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27483159.wav|Un home amb un casc blau i una camisa taronja arregla l'apartador d'una carretera
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489357.wav|Les dones maies de la zona utilitzen un teler de cintura per teixir patrons tradicionals.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489358.wav|Van organitzar el poble i en van fer un punt turístic.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489359.wav|Aquesta pista té alguns cors de suport.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489375.wav|Entre les cascades, les esquerdes d'òxid van aparèixer pertot arreu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489378.wav|El turisme ha tingut menys impacte a la regió que en altres zones de Suïssa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489379.wav|El Magnum coupé també es mereix una menció a la gama Magnum.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489381.wav|Els seus pares van fundar l'escola femenina Knighton House.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489412.wav|La pintura, que s'ha conservat, no es va terminar fins dos anys després de la mort de Lady Aston.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489435.wav|Tenint en compte la sentència, espero que es pronunciï en breu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489436.wav|"""Què estàs buscant?"", va preguntar el vell comerciant."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489438.wav|Aquest atac sorpresa de la rereguarda enemiga va trencar la seva resistència.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489446.wav|"Posteriorment, Springer va retirar tots els documents d""aquests diaris."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489447.wav|Un home asiàtic esmola ganivets a la cantonada del carrer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489472.wav|Les gaites de Churchill indicaven els comandaments restants de la batalla.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489474.wav|No tan ràpid.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489496.wav|"Va ser la segona pel·lícula més taquillera de l'any, només superada per ""Going My Way""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489497.wav|És la flor oficial de la ciutat de Xangai.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489507.wav|Funciona fins i tot en aigües dures.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489509.wav|La producció es va filmar en Technirama.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489510.wav|Han aparegut cinc sèries de bitllets.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489513.wav|Van enganyar un bufet d'advocats britànic que buscava l'hereu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489514.wav|Shaffer és un convidat freqüent als mitjans de comunicació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_27489523.wav|Quin és el seu signe de trucada?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28024638.wav|Els bantús van viatjar en dues onades, la primera a través de la regió boscosa del Congo.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28024642.wav|Per tant, el primer intent de l'estat d'influir en la vida religiosa va ser un fracàs.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28024664.wav|Tècnics que treballen sota terra.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28024714.wav|Les nenes van aprendre aritmètica i lectura.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28024759.wav|En general, el millor jugador que ha jugat mai a qualsevol posició.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28024833.wav|La fórmula farmacèutica és una altra aplicació de la medicina personalitzada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28024835.wav|D'acord amb altres autors, es va decidir que Concini fos assassinat de totes maneres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28024846.wav|No hi ha cap raó.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28024867.wav|Els components podrien ser integrats i cablejats en una quadrícula bidimensionals o tridimensional compacta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28024895.wav|El braç lliure es cargola al bastidor o subbastidor del vehicle.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28031153.wav|Un home amb uniforme presenta un document a un altre home perquè el signi.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28031155.wav|Sempre esternudava quan havia menjat raïm.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28031158.wav|Gairebé tots van ser assassinats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28031189.wav|Set persones, majoritàriament amb camises blanques, ballen a una sala amb una paret vermella.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28031205.wav|Pràcticament tota la seva primera obra es va perdre quan va immigrar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28031223.wav|Viu a Norfolk.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28031269.wav|Cada millora fa que el valor de tota la resta vagi a l'alça.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28038045.wav|Aquestes plataformes poden ser utilitzades per una o més marques del Grup.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28038057.wav|Tots aquells a qui van atacar, van ser destruïts.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28038079.wav|"Els programes ""Flashback"" i ""Big Sonic Heaven"" es van cancel·lar al poc temps."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28038080.wav|Gradualment, la Gran Aliança pren la iniciativa, obligant els insectes a la defensiva.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28038082.wav|La ciutat de Saskatoon, Saskatchewan, porta el nom d'aquesta planta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28038085.wav|La seu del comtat és Ashburn.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28038098.wav|Tot el joc a Portugal està subjecte a una concessió de l'estat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28038140.wav|Vaig haver d'ensenyar al meu nebot de què es tracta la vida, perquè els seus pares són unes gates maules.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28038149.wav|La cresta de dalt sembla ser una inexactitud històrica.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28038151.wav|I a l'estranger et volen veure.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28038161.wav|Per això segueixo perdent.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051375.wav|Home gran amb jaqueta de cuir portant un ram de flors.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051410.wav|Qui diu que busco feina?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051411.wav|L'especificació no ha estat implementada per altres proveïdors de navegadors.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051476.wav|Me n'alegro de veure't bé.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051478.wav|El poble es troba dins del municipi de Hixton.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051480.wav|Ell era jove, bonic, òbviament galant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051508.wav|Li diré el que tu diguis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051509.wav|Ell i la seva dona, la mare de la Bertrande, van pressionar Bertrande per donar suport al càrrec.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051511.wav|Cadascun d'aquests tiradors en primera persona va mostrar nivells de tecnologia gràfica progressivament més elevats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051543.wav|Tots els trens de cap de setmana, que operen en horaris més limitats, s'aturen a l'estació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051581.wav|Tot i això, l'espectacle no va tenir una bona rebuda pels fans japonesos més antics.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051585.wav|Schwarzenegger va fer una gran campanya per aconseguir l'aprovació de les dues propostes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051743.wav|Era membre de la Societat d'Orquídies de Califòrnia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051744.wav|Malgrat les limitacions econòmiques, les pel·lícules d'Araki van ser elogiades per la crítica.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051745.wav|Els dos homes es dirigeixen al punt d'intercanvi per lliurar els diners.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051766.wav|També va contribuir a l'obra amb il·lustracions, especialment vistes de ciutats i castells.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051769.wav|Dosa és coneguda amb diversos noms.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051770.wav|Aleshores el mag anomena la carta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28051796.wav|El poble està regit per un alcalde i una junta municipal formada per quatre persones.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28053846.wav|Gràcies als seus esforços, la maquinària de propulsió principal no va patir danys.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28053860.wav|Al costat de la figura femenina hi ha una caixa amb forma de temple per al pebre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28053862.wav|El Programa d'Educació Docent del Sud-oest, l'aprova l'Agència d'Educació de Texas.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28053867.wav|"El ""Appalachian"" era el vaixell líder de la classe ""Appalachian""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28053876.wav|Aquest tipus de vídeos poden ser usats per a documentar la ruta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28053891.wav|Un home salta un tonell amb un monopatí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28056320.wav|"Va dir ""Dona'm les gràcies, peu meu""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28056355.wav|Durant la seva alcaldia, va ajudar a desenvolupar la junta del servei d'aigües de Gran Vancouver.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28056368.wav|"""The Guardian"" va rebre centenars de cartes dels lectors amb descripcions de vacances memorables a les illes."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28056375.wav|Ell i la seva dona van acollir a casa seva a molts d'aquests refugiats europeus.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28056396.wav|La seu del comtat és Savannah.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28056473.wav|La parella va adoptar un bebè i l'estimaven com si fos seu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28056532.wav|Un nen menja amb bastonets.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28056565.wav|Nuggets de pollastre al forn, amb gelat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28056575.wav|L'estat actual del partit no està clar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28056614.wav|En aquell moment s'anomenava Hudson Street School.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28056631.wav|Les cantates populars es fomentaven activament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060856.wav|Gent que practica un esport amb un àrbitre que mira.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060858.wav|Un home amb ulleres, vestit i corbata de llacet està dempeus sostenint un tros de paper.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060874.wav|La closca del buc i la totalitat de la virtut és el bé més gran.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060877.wav|Els primers graduats incloïen Alexander Pushkin i Alexander Gorchakov.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060900.wav|Celebrat a Edmonton, Alberta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060903.wav|Les diferències aparents entre l'enfocament quantitatiu i el qualitatiu no s'han reconciliat per complet.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060932.wav|Tenien una filla que va morir en la infantesa, i un fill, Peter.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060933.wav|Els unionistes tenien un suport significatiu però minoritari.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060949.wav|Els clients són hospitals, parcs de bombers i empreses de submarinisme.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060953.wav|Era el comitè estatal per a l'abastiment material i tècnic de la Unió Soviètica.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060992.wav|La numeració també es va restablir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28060994.wav|Els préstecs a més llarg termini cobren més interessos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28076704.wav|Sisplau, encén el forn.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28076710.wav|Va obrir els ulls i es va preguntar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28076711.wav|El sopar del col·legi va incloure aquell vespre un plat de peix.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28123264.wav|Premi de Literatura Infantil Smith.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28123299.wav|Després de la seva carrera en la cançó, Moore es va convertir en periodista i guionista.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28227855.wav|És considerat un dels millors compositors de Noruega.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28227862.wav|El trobarà esperant-la al seu retorn.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28227897.wav|Recentment, la ciutat ha crescut considerablement amb les noves urbanitzacions construïdes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28227901.wav|Seria impossible mantenir l'honor de la família durant un dia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28227908.wav|Un home amb uniforme dret a la cantonada del carrer
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28227910.wav|Alexandria forma part de Mitchell, a l'àrea metropolitana estadística de Dakota del Sud.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28227965.wav|Les batalles poden durar molt de temps, potser fins i tot anys.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28227975.wav|La reacció a aquest nou format va ser mixta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_28227980.wav|Els requisits de resposta de freqüència difereixen segons l'aplicació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352882.wav|Quantes parades té el trajecte en autobús fins a Llorac?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352889.wav|El meu pare es diu Youssef Esteva: e, essa, te, e, ve baixa, a.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352890.wav|Vull anar al Rourell amb autobús.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352887.wav|Vaig al carrer de Josep Serrano.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352900.wav|La meva mare es diu Avril Gamiz: ge, a, ema, i, zeta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352904.wav|Amb què van omplir la superfície excavada?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352906.wav|Parlo bé l'àrab, el francès, el castellà i el català.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352921.wav|Hi ha algun lampista al carrer del Marquès de Campo Sagrado?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352934.wav|He d'anar al Far d'Empordà amb trasport públic demà passat a un quart i mig d'onze.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352943.wav|Com ho puc fer per anar al carrer d'Antonio Ricardos?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352946.wav|Hi ha algun lampista al jardí de Joan Llarch?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352954.wav|De quin material és l'objecte trobat?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352958.wav|Desa el sis, cinquanta-u, vint-i-cinc, vint-i-sis, zero com a telèfon de l'Erin Molino.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352970.wav|En Ben té una arma molt barata.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352975.wav|Com es fa per anar de la camí del Molí de Vallvidrera al passeig de Montjuïc?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352978.wav|A quina hora es va desallotjar aquestes persones?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352977.wav|Quantes parades té el trajecte en autobús fins a Camarles?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352984.wav|He d'anar a Sant Guim de Freixenet a peu el disset d'octubre a les quatre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352986.wav|Quantes parades té el trajecte en autobús fins a Rubí?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353000.wav|Com són les candidatures que es volen aconseguir amb Primàries de Catalunya?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352993.wav|La meva mare es diu Gisela Miñana: ema, i, enya, a, ena, a.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352999.wav|Afegeix a l'agenda el número de l'Ènia Troyano: sis, cinquanta-dos, vuitanta-nou, trenta-nou, trenta-vuit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353007.wav|Quina és la millor manera d'anar del carrer de Paredes al carrer del Castor?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30352996.wav|Mira'm quina és la millor manera d'anar a Hostalric sense agafar el metro.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353001.wav|Telefona al Rubèn Megias.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353008.wav|Desa el sis, vuitanta, vint-i-tres, quaranta-quatre, noranta-sis com a telèfon de la Noa Gomila.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353014.wav|Què venen a la plaça de Josep Puig i Esteve número quaranta-quatre?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353018.wav|Apunta a l'agenda el número del Javier Arbos: sis, seixanta-nou, seixanta-sis, trenta-vuit, cinquanta-dos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353019.wav|El Perelló es troba al Baix Ebre
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353021.wav|Quina és la millor manera d'arribar al carrer de Pere Vergés?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353017.wav|El meu pare es diu Joel Limones: ela, i, ema, o, ena, e, essa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353026.wav|Com ho puc fer per anar al carrer Albareda cantonada Caravel·la La Niña?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353023.wav|El meu número es el sis, setanta-vuit, zero, set, vint-i-u, vint.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353039.wav|Quan passa l'autobús per Santa Maria de Miralles?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353047.wav|Truca al sis, vint, quaranta-tres, trenta-cinc, zero, quatre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353048.wav|Apunta a l'agenda el número del Santiago Pablos: sis, setanta, seixanta-tres, cinquanta-nou, seixanta-nou.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353052.wav|Desa el sis, cinquanta-sis, seixanta-cinc, noranta-cinc, cinquanta-vuit com a telèfon del Jorge Raña.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353050.wav|On es van lliurar els guardons?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353055.wav|De qui és parella Diana Riba?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30353056.wav|Com ho puc fer per anar a Canet de Mar amb moto?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354533.wav|Em dic Adara Gao: ge, a, o.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354544.wav|Vull anar al carrer del Camp d'en Vidal amb moto.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354548.wav|El finançament és un tema que preocupa a Oltra
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354551.wav|dimecres hauria d'anar a Massalcoreig.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354560.wav|Consulteu els punts d'inscripció disponibles.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354563.wav|Reserva'm un bitllet de tren per anar a Cubelles dimecres a les nou.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354561.wav|He d'anar al carrer d'Esteràs sense agafar el cotxe.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354567.wav|Com puc arribar a Llinars del Vallès amb tren?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354568.wav|El meu número es el sis, vint-i-vuit, zero, vuit, onze, zero, cinc.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354586.wav|Apunta el sis, seixanta, trenta-set, quaranta-tres, vint-i-tres com a telèfon de la Maya Racero.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354587.wav|Per què es va popularitzar el nom de llei del Japó?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354591.wav|Telefona al sis, seixanta-set, vuitanta-tres, cinquanta-u, quaranta-tres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354593.wav|Fins a quina edat els nens anaven despullats?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354596.wav|Programa el televisor de la meva habitació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354598.wav|Telefona al sis, trenta-set, setanta-sis, zero, tres, setanta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30354605.wav|Les coses que vaig dir estaven relacionades amb la meva situació sentimental.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355339.wav|Quina obra de teatre li recomana Empar Moliner a Albert Boadella?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355350.wav|M'he tallat amb un drap.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355360.wav|Hi ha silencis que transmeten respecte, i tothom ha de ser respectat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355361.wav|Marca el sis, quaranta-tres, quaranta-dos, noranta-dos, vint-i-sis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355377.wav|Desa el sis, noranta-vuit, zero, cinc, setanta-vuit, setanta-cinc com a telèfon de l'Omar Boj.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355404.wav|Què poden sintetitzar els aminoàcids?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355405.wav|Quina és la millor manera d'arribar al carrer de la Riereta?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355406.wav|Quin any va finalitzar el desdoblament de via entre Barcelona i Martorell?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355419.wav|Quina és la millor manera d'anar de la carretera de les Aigües a la placeta dels Avis?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355422.wav|Qui viu al passatge de l'Estació número seixanta-sis?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355423.wav|Com ho puc fer per anar al carrer d'Alella?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355424.wav|Com és el terra de l'atri?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355425.wav|El muntatge de circ ens va encantar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355448.wav|Com ho puc fer per anar al carrer de Matadepera?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355456.wav|Pugi pel carrer major fins a arribar a la plaça de l'església.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355459.wav|Els castellers ja havien fallat un altre cop.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355457.wav|Marca el sis, quaranta-sis, trenta-sis, seixanta-set, zero, sis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355458.wav|Es clar que tenia sang a les venes
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355491.wav|Hi ha algun negoci al carrer Nou de la Rambla cantonada Nou de la Rambla?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355492.wav|Com ho puc fer per anar al moll de Lepant?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355494.wav|A quina hora passa el primer autobús per Sant Jaume de Frontanyà dilluns?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355505.wav|Què hi ha al carrer Font-rúbia cantonada Boada?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355507.wav|Què venen al passatge d'Aragó número cinquanta-sis?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30355502.wav|Què hi ha al passeig de Miramar número tres?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361607.wav|el disset d'octubre he d'anar a Vilaller amb autobús.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361651.wav|Quan passa l'autobús pel carrer Cinca?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361667.wav|Guarda el sis, vint, dotze, trenta-set, vuitanta-vuit com a telèfon del Ferran Oreja.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361778.wav|Quina botiga hi ha al carrer de Negrell número cinquanta-vuit?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361781.wav|El seu cognom és Pinazo: pe, i, ena, a, zeta, o.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361798.wav|Treballes a prop de casa?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361802.wav|Mira'm quina és la millor manera d'anar del passatge de Vallseca al carrer de Los Angeles.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361812.wav|Afegeix a l'agenda el número de l'Ibrahima Lazcano: sis, noranta, noranta, noranta-vuit, noranta-dos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361822.wav|Marca el sis, cinquanta-vuit, quaranta-dos, quaranta-quatre, cinquanta-u.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361941.wav|Quines molècules coestimuladores es presenten a la membrana plasmàtica?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361934.wav|Què hi ha al carrer Goya cantonada Àlaba?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361942.wav|Com puc anar a Banyoles el vint-i-tres de maig a la una?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361951.wav|Vaig al parc de l'Estació del Nord.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361967.wav|Apunta a l'agenda el número de l'Àxel Francisco: set, onze, quaranta, noranta-u, seixanta-quatre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361995.wav|Quina és la millor manera d'anar a Avinyó amb tren?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361980.wav|Barcelona ja està distribuint els nous mapes del metro
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30361997.wav|Truca al sis, trenta-vuit, cinquanta-tres, zero, cinc, cinquanta-nou.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362006.wav|Mira'm quina és la millor manera d'anar a Molins de Rei sense agafar el metro.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362005.wav|Hi ha algun lampista al carrer de la Vidrieria?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362021.wav|Qui va qüestionar el requisit lingüístic?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362024.wav|Mira'm quina és la millor manera d'anar del carrer dels Segadors al carrer de Pinar del Río.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362028.wav|De quins períodes podem trobar objectes al Museu Arqueològic Nacional d'Atenes?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362051.wav|Què és l'halita?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362061.wav|Telefona al sis, trenta-u, vuitanta, seixanta-sis, vint-i-nou.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362063.wav|Em dic Aloma Del Rosal: de, e, ela, espai, erra, o, essa, a, ela.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362070.wav|Quines famílies eren poderoses a Gènova?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362072.wav|Reserva'm un bitllet de tren per anar a Solivella divendres a dos quarts i cinc de set.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362073.wav|Qui viu al carrer de l'Arquitecte Mas número seixanta?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362075.wav|I no em faríeu cap...?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30362084.wav|Quant dura el trajecte en autobús fins a Coll de Nargó?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366378.wav|Em sembla que és voluntari pensar-hi i fer-los públics.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366381.wav|Va presentar-se enguantada tota la nit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366400.wav|Quan passa l'autobús per Olot?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366401.wav|Quantes voltes acaben el distribuïdor?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366452.wav|El llibre és de la meva mare, Maria Sandoval.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366477.wav|Com es fa per anar del camí del Mar al carrer de Collegats?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366494.wav|Com és la distribució d'aparellament?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366501.wav|He d'anar del carrer de Pomar al carrer de Badalona.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366508.wav|Quina botiga hi ha al carrer d'Estadella número seixanta-tres?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366551.wav|Anul·lar el servei de telefonia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366613.wav|Quina era la diòcesi més gran i rica del país?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366627.wav|Què venen al carrer de Sant Eloi número quaranta-dos?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366637.wav|Què venen al carrer de Tapioles número noranta-nou?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366624.wav|M'agradaria anar a la plaça de Pau Vila amb cotxe.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366643.wav|El parlament pot ser denunciat per Rajoy
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366645.wav|A quin país no vendrà armes Alemanya?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366648.wav|Truca al sis, cinquanta-cinc, vint-i-u, cinquanta-tres, setanta-vuit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366659.wav|Quan és possible que l'objecte hagi sigut expulsat fora del sistema solar?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366667.wav|Quina és la millor manera d'arribar al passatge de la Casa Blanca?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366665.wav|dilluns hauria d'anar a Montellà i Martinet.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366669.wav|Guarda el sis, zero, tres, cinquanta-tres, setanta-quatre, noranta-vuit com a telèfon de la Gina Viguera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366688.wav|Desa el sis, quaranta-set, noranta-u, seixanta, setanta-nou com a telèfon de l'Iona Corzo.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366695.wav|A quina hora arriba l'autobús de Cubelles?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366696.wav|Quantes parades té el trajecte en autobús fins a la Quar?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366705.wav|En el camí de baixada hi ha uns quants revolts.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366715.wav|Reserva'm un bitllet de tren per anar a Prullans dijous a les set.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366699.wav|Telefona a l'Èlia Pedroche.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30366726.wav|Què hi ha al carrer Juan Gris cantonada Munné?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382602.wav|Ferri i Mas creuen que ha de continuar el funcionament actual de Compromís
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382616.wav|Quan passa l'autobús pel carrer Galba?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382627.wav|Quina és la millor manera d'anar a Torroja del Priorat amb trasport públic?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382644.wav|Marca el sis, noranta, seixanta-nou, vint-i-vuit, cinquanta-vuit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382660.wav|Com es fa per anar del carrer de l'Actor Morano als jardins de Manuel Blancafort?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382673.wav|On es troben els ribosomes?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382700.wav|Quines botigues hi ha al carrer d'Ivorra?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382703.wav|Avui al vespre no engeguis el rentaplats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382712.wav|Emigrades dels països riolers on neix el sol.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382724.wav|Quantes parades té el trajecte en autobús fins a Lloret de Mar?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382726.wav|La casa és molt avorrida.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382725.wav|Nosaltres a Valencia diem dèsset, díhuit i dènou.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382736.wav|Quina és la millor manera d'anar del carrer de Bosch i Alsina al carrer de Tarba?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382738.wav|M'agradaria anar al carrer de Quito sense agafar el metro.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382745.wav|Us recomanem de comprar sempre el producte local.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382746.wav|Programa el rentaplats de l'habitació dels convidats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382743.wav|Com és la planta del claustre?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382751.wav|La subvenció no es concedeix a particulars.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382754.wav|Quant dura el viatge en autobús fins a les Borges Blanques?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382778.wav|Quin és el camí més curt per anar al carrer de Johann Sebastian Bach número vuitanta-nou?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382780.wav|Com ho puc fer per anar a Ulldecona sense agafar el cotxe?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382800.wav|Quines són les seves preferències d'hàbitat durant els primers anys de vida?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382806.wav|Necessito un bitllet de tren per anar a Cadaqués demà passat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382807.wav|És probable que Homs sigui inhabilitat
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382809.wav|Què venen al carrer d'Arizala número noranta?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382811.wav|Està molest per la seva poca formalitat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382814.wav|Quina botiga hi ha al carrer de Melilla número seixanta-u?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382816.wav|Mira'm quina és la millor manera d'anar a Canyelles amb autobús.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382826.wav|On va presentar un recurs Carles Puigdemont?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382831.wav|Mira'm quina és la millor manera d'anar de la plaça de la Central al carrer del Sinaí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382841.wav|Manlleu es troba a Osona
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382870.wav|Quines parades fa l'autobús que va a Sant Vicenç dels Horts?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382859.wav|El format paper és el més adient per a la lectura.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382863.wav|A qui dona a llum?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382861.wav|Vull anar a Aiguafreda amb bicicleta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382871.wav|Vull anar al carrer de la Mediterrània amb tren.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382878.wav|Quin és el camí més curt per anar al carrer de Mas Yebra número quaranta-tres?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382880.wav|Els nou professors de l'institut el Palau han començat les classes
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382891.wav|He d'anar al carrer de Can Castellví sense agafar el metro.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382889.wav|Com ho faig per anar al carrer d'Alarcón número trenta-dos?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30382886.wav|Quines parades fa l'autobús que va a Capellades?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30389443.wav|Castellnou de Seana es troba al Pla d’Urgell
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30389453.wav|Mostra'm l'estat del meu visat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30389456.wav|Què hi ha al carrer Pere IV cantonada Bisbe Laguarda?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30389458.wav|Necessito un bitllet de tren per anar al Masroig divendres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30389454.wav|Doncs jo prefereixo la mort.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30389459.wav|Quina és la millor manera d'anar a Sant Miquel de Fluvià amb trasport públic?
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409364.wav|Els construïts a l'era soviètica van continuar en funcionament junt amb els nous models.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409385.wav|Hi ha diferents punts de vista pel que fa a la reintroducció d'espècies.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409389.wav|Si us plau, tanca el llum del garatge.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409392.wav|També és considerat com un dels llocs de naixement d'ensenyaments maçòniques als Estats Units.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409394.wav|Debbie Dunlap va ser la primera directora.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409405.wav|"Primer tenim la qüestió d""aïllar la llosa de terra."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409414.wav|Amb un fort accent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409514.wav|"L'episodi es va relatar en detall en el perdut ""Cipria"", del Cicle Èpic."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409774.wav|Constanci estava en campanya contra els perses quan Magnenci va arribar al poder.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409780.wav|Una rugositat a una superfície llisa és un bony o un defecte.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409783.wav|Qui ens pot dir si els vols espacials seran mai viables comercialment?
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409789.wav|Schwinden va néixer a Wolf Point, Montana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409805.wav|El marc de referència està fixat al centre estacionari del disc.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409810.wav|Eren els fabricants de motocicletes més antics d'Austràlia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409812.wav|A l'edat antiga, es feia servir un sistema d'escriptura rúnic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409813.wav|Vaig filtrar les imatges no etiquetades.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409815.wav|El disseny de la portada de l'àlbum es va encarregar a l'il·lustrador de renom Michael Whelan.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409863.wav|El nom en llatí de la constel·lació Balena (Cetus) també deriva d'aquesta paraula.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409949.wav|La llei comuna no tenia cap solució per obligar l'acusat a deixar de contaminar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409950.wav|Podries encendre aquell interruptor, si us plau?
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409963.wav|Com ho puc distingir?
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409965.wav|"Havia estudiat la trigonometria esfèrica i plana, les seccions còniques i l'""Astronomia"" de Fergusson."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409974.wav|Va tenir un aterratge d'emergència a prop de Karachi.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409975.wav|Un avanç important per a la teoria de mòduls simples fou el teorema de la densitat de Jacobson.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409983.wav|Hi ha gent asseguda i de peu sobre la catifa vermella.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409985.wav|En ocasions es considera que el riu North Fork és l'origen principal del riu Flathead.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409987.wav|L'estadi es fa servir per celebrar concerts, esdeveniments esportius, exposicions o fires comercials.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27409999.wav|Se suposa que es troba en equilibri hidrostàtic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410001.wav|Un home amb un tatuatge boxeja contra un altre home amb samarreta blanca
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410016.wav|Hi ha d'haver alguna manera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410031.wav|L'idioma principal de les Muntanyes Rocalloses és l'anglès.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410038.wav|L'equivalent a la competència no relacionada amb el combat és la insígnia mèdica del camp d'experts.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410043.wav|No és cap argument nou; les Hamlets femenines es remunten a la història.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410045.wav|El seu fill Florian també és baríton.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410047.wav|"Rep el seu nom de Solon, estadista, jurista i poeta de l""Atenes clàssica."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410049.wav|Genoa es troba al cor de la regió de Finger Lakes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410052.wav|Perquè era un home d'ulls vius, va saber veure el que havia sentit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410054.wav|A la casa hi havia una sensació d'abundància.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410057.wav|Un home està fora venent diverses joguines.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410064.wav|També hi havia nombroses línies de ciutat, que continuen avui dia com a troleibusos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410066.wav|"L""actual alcalde de Point Edward és Bev Hand."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410068.wav|Des de llavors, Lind ha publicat la seva pròpia representació d'una apocalipsi marxista cultural fictici.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410080.wav|Hemel assegura tenir el primer aparcament de múltiples plantes construït especialment de Gran Bretanya.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410083.wav|El que passa és que hi ha moltes coses que no estan clares.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27410084.wav|Otis Elevator Company va subministrar l'ascensor, que tenia superfícies de llautó
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411678.wav|Em vaig graduar amb un grau d'associat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411686.wav|En realitat, soc una bèstia salvatge, ja ho sabeu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411688.wav|Mai ho va defensar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411728.wav|La gran platja d'Agria i la platja de Soutrali estan molt bé per nedar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411756.wav|Si us plau, apaga la calefacció.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411758.wav|En essència, farà de la nostra comunitat un lloc acollidor on viure.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411761.wav|Aquest enfocament de control central pot ser extremadament escalable i altament evolutiu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411781.wav|Va ser el tercer líder del clan Matsue.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411782.wav|Tot i que els seus pares tenien una alçada mitjana, Baker va despuntar en edat adulta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411783.wav|Hi ha una sèrie de tècniques per al reflux de la soldadura.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411785.wav|I en ple coneixement d'això, la por es va apoderar d'ella.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411811.wav|Es va fer una oferta similar al govern suís que també va ser rebutjada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27411816.wav|Vola de juny a agost i l'atrauen la llum i el sucre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413553.wav|Aquest ús va esdevenir més tard obsolet.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413571.wav|"Una expressió per recordar-ho és ""tornar amb vermell a dreta""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413573.wav|Patrick va créixer a Whitstable, Kent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413613.wav|Liotard va ser un artista molt versàtil.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413616.wav|A vegades, es redescobreix una còpia d'una pel·lícula perduda.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413640.wav|Les femelles tenen dos cromosomes X, mentre que els mascles tenen un cromosoma X i un Y.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413644.wav|Les botigues 'flagship store' més grans són conegudes com a botigues Outdoor World.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413661.wav|Hi ha algun dubte sobre l'origen del nom de la ciutat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413662.wav|Van tractar sobre aventura i exploració.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413688.wav|A la seva mà hi va brillar tenebrosament alguna cosa, era el canó del seu revòlver.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413690.wav|A més, els seus rostres mostraven estupefacció.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413743.wav|L'allotjament està integrat principalment per càmpings.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413747.wav|"A les Filipines, una altra criatura llegendària anomenada Sigbin comparteix moltes de les descripcions del ""chupacabra""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413859.wav|Va ser a arrel d'aquest nomenament que el coronel Cook va rebre la seva distinció militar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413860.wav|Anteriorment va ser mestre de la Corona d'Aragó.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413984.wav|Poques obres d'Enchi s'han traduït del japonès.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27413986.wav|Els acords que els indis sí van signar no van complir-se per una de les dues parts.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27414017.wav|"El lema representat a l'escut de la unitat es tradueix com ""el valent guanya""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27414070.wav|"Els mecanismes de coherència de la memòria de hardware s""utilitzen normalment per implementar la migració."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27414073.wav|Sota el seu lideratge, la ciutat va començar un projecte de renovació urbana important.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27414074.wav|Un grup de persones tots amb una samarreta grisa treballen amb una pila de bosses de mercaderies de plàstic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27414297.wav|Es van establir noves branques de producció.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27414319.wav|Actualment, gran part de l'economia local es basa en l'agricultura i la ramaderia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27414320.wav|Hi ha una excepció a la norma.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27414321.wav|Els vehicles no poden abandonar el carril principal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27414344.wav|Els nadius americans actuen per als espectadors
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428168.wav|"Per la seva manera distintiva de córrer es va guanyar el sobrenom de ""Noddy""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428181.wav|Que dirigeixis la teva vida després d'assolir el coneixement dels Veda.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428190.wav|Torque és, principalment, una tecnologia de desenvolupament de joc.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428194.wav|Hi ha molt debat sobre l'efectivitat d'aquestes emissions.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428195.wav|"La Marina Nacional Francesa no fa servir el terme ""destructor"" en noms de naus."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428208.wav|El poble compta amb una escola primària, el pub Wheatsheaf i una església.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428235.wav|Del que em vaig adonar fa uns mesos és que no ho he de fer.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428236.wav|La Jo està dempeus mirant fixament i encara està mirant fixament quan es recupera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428237.wav|Més tard va exercir de director executiu de continguts a l'agència de continguts Redwood.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428239.wav|A la història dels circuits, hi ha hagut set accidents fatals.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428255.wav|També va donar a la capella moltes relíquies i la va dedicar a la Mare de Déu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428267.wav|Va rebre aquest nom en honor de Melville E. Ingalls, oficial del ferrocarril.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428269.wav|La versió publicada de 'Toonstruck' contenia menys material del que s'havia previst originalment.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428270.wav|La conquesta del castell va deixar Portsmouth indefens i el poble es va rendir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428271.wav|La finalitat de classificar les ciutats és doble.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428274.wav|Un nen de cabells castanys amb una camisa vermella i texans blaus porta un camió verd.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428290.wav|Només va veure l'efecte d'una manera general, superficial.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428295.wav|Aquest robot es va fer servir al Ground Zero durant la missió de recuperació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428306.wav|Dos cavalls arrosseguen un toro mort en una plaça.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428323.wav|Ella arribarà aviat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428324.wav|Són els avantpassats gràfics directes dels moderns números índics i hindús-àrabs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428326.wav|Anglaterra ha jugat dos partits testimonials contra el Liverpool a Anfield.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428339.wav|També va estar nominat al premi Booker.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428340.wav|És evident que ballar seria difícil.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428499.wav|El guanyador va ser Adam Logan, de Canadà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428539.wav|Les seves filles els van sobreviure.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428550.wav|El disc va ser produït pels membres de la banda Lionel Hicks i Paul Curtis.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428551.wav|Tanmateix, hi havien pauses en aquesta rutina.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428565.wav|El riu Susquehanna flueix cap al sud a través de la població.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428587.wav|El rescalfament no estava encès, sense flux de gas durant l'elevació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27428622.wav|Un practicant de snowboard a l'aire.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431040.wav|La fama de Karavis es va estendre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431047.wav|Totes les espècies d'aquesta família tenen capgrossos aquàtics que s'independitzen.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431050.wav|Expresident: Borsa Mexicana, Associació bancària mexicana, Universitat Iberoamericana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431068.wav|"En arribar a Halifax, la ""Victoria"" va ser portada a la drassana per reparar."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431069.wav|"El servei de televisió per subscripció ""Foxtel"" està disponible a Orange i la regió circumdant via satèl·lit."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431070.wav|Finalment, un segon canal de microones es va obrir, permetent la programació en directe de costa a costa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431072.wav|Dyula funciona com a llengua de comerç i la parlen habitualment els musulmans.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431080.wav|En general, la majoria dels governs estatals tenen les mateixes vacances que el govern federal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431083.wav|Pot haver estat un soldat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431100.wav|Després de la graduació, va esdevenir escriptora.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431101.wav|En Ricardo va tallar les costures del sac.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431122.wav|El nivell màxim de l'Union Canal de Pennsilvània també va patir per manca d'aigua.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431124.wav|En la majoria d'aeronaus, la presència d'un estabilitzador vertical complica la maniobra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431132.wav|Ensenya reencarnació, vegetarianisme i apocalipsis.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431135.wav|Tanmateix, la majoria dels elfs han marxat des de llavors per unir-se a la retirada cap a Evermeet.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431148.wav|El van sentenciar a una pena de presó de cinc anys.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431150.wav|Només començar, vam descobrir que un d'ells parlava àrab.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431152.wav|Però, què va resultar ser el cas?
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431157.wav|Això era el teu pla?
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431160.wav|Quan es tracta de valoracions estètiques, una variació així és d'esperar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431173.wav|Aulard segueix sent controvertit en les seves posicions polítiques.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431174.wav|Els primers conjunts es van vendre a un centre comercial de la zona i es van fer molt famosos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431185.wav|Gràcies a això van sobreviure a la guerra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431186.wav|"També aquest any va interpretar el paper del infame Senyor Carrington en ""Topper Returns""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431203.wav|Fins avui, és l'últim president en actiu que ha perdut en una reelecció.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431210.wav|El nou líder del partit, Jim Marurai, va esdevenir Primer Ministre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431215.wav|Un grup de persones estan asseguts en un cercle gaudint d'ells mateixos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431221.wav|B. Stockton, un dels primers terratinents.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431230.wav|El dimarts l'alba era lluminosa i solejada, però a l'hora de dinar va començar a ploure
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431234.wav|Va continuar explorant el nord-oest de la costa fins al golf de Huon.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27431253.wav|La primera temporada de Williams es va acabar quan es va trencar la cama mentre jugava a Bowling Green.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433738.wav|Un dels jurats tenia un llapis que grinyolava.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433740.wav|Mina és la patrona de moltes ciutats alemanyes i suïsses.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433757.wav|Va influir considerablement en el desenvolupament de l'arquitectura del Renaixement.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433780.wav|Danny i Bernie són dos homes solters que viuen a Chicago.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433796.wav|De cop, els nadius van llençar les armes i van fugir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433806.wav|El vicepresident i director general de l'emissora Rick Mack es va disculpar per l'incident.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433825.wav|Una de les tradicions de la tira cómica és Mike's Summer Daydream.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433850.wav|Parla alemany, turc i francès, a més a més d'anglès.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433859.wav|"La companyia ofereix ""Entrenament i simulació interactives""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433861.wav|De pares nord-americans, Alfred Gwynne Vanderbilt, Junior va néixer a Londres, Anglaterra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433894.wav|Al juny, el grup va tenir la seva primera reunió anual amb una assistència de divuit persones.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433936.wav|"Eaton s'havia convertit en ""una propietat antiquada i en decadència""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433938.wav|"Per exemple, Buss ""et al."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433939.wav|Va remarcar el seu estil excepcional tot i que preferia el primer llibre de la trilogia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433956.wav|Ara hi havia, va pensar, una certa distinció.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433972.wav|D'aquesta manera, la família pot fer honor als seus costums sense entrar al dipòsit de cadàvers.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433979.wav|Altres motors del Z tenen blocs i capçals d'aliatge d'alumini, amb camises de cilindre de ferro colat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27433984.wav|Earl va començar la seva carrera amb el seu primer restaurant de temàtica Beefeater.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27434046.wav|Després d'això, el treball en la calçada podria completar-se sense problemes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27434048.wav|Floreix només molt lentament i no s'han pogut obtenir llavors amb èxit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27434067.wav|"També se la sent a la versió d'estudi de ""Jesus Christ Superstar""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27434069.wav|"A més, els telenotícies ""Tagesschau"" enregistrats també es poden veure a través de YouTube internacionalment."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451299.wav|La ciutat de Toco es part del Districte Escolar Independent de Chisum.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451300.wav|"Al principi de la seva carrera, Carr va ser editor executiu de ""Harvard Business Review""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451302.wav|Sembla ser l'agent més efectiu quan es tracta de posar-hi cor.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451305.wav|En la seva infància va mostrar interès envers els significats esotèrics de l'islam.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451307.wav|Té dues germanes, la Keta i la Camillie, i un germà, en Kenneth.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451308.wav|Només mirant-los.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451326.wav|Una sogra és la mare del cònjuge d'una persona.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451351.wav|Totes dues bandes de la seva família biològica el van ajudar i van fer la seva aportació al llibre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451368.wav|Va minimitzar la importància de l'Ordre Taronja al Canadà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451374.wav|Van lluitar contra The Flash, Green Arrow i Green Lantern.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451377.wav|La majoria dels topònims inclouen el sufix de la seva divisió administrativa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451383.wav|Amb èxit es va cridar l'atenció dels monàrquics.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451403.wav|El partit progressista va guanyar les eleccions.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27451420.wav|"La muntanya Pumori, que significa ""la filla de la muntanya"" en llenguatge xerpa, va ser nomenada per George Mallory."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27483127.wav|Aquest va ser finalment, el final de les divisions del ducat de Baviera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27483142.wav|"El club va deixar caure ""North"" del seu nom i va esdevenir ""London Skolars""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27483148.wav|"El seu lema és ""Omnium Defensor"", la forma llatina de ""Defensor de tots""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27483150.wav|"L""àlbum també va aconseguir ser platí a Canadà."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27483158.wav|El vaixell entra en alerta màxima.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489359.wav|Aquesta pista té alguns cors de suport.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489395.wav|Pacomio és un jueu que conspira camuflat entre musulmans, visigots i bascos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489436.wav|"""Què estàs buscant?"", va preguntar el vell comerciant."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489438.wav|Aquest atac sorpresa de la rereguarda enemiga va trencar la seva resistència.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489445.wav|Va ser arrestat el mateix mes i, més tard, jutjat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489446.wav|"Posteriorment, Springer va retirar tots els documents d""aquests diaris."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489448.wav|Aquesta és la orientació inicial o de referència de l'esfera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489472.wav|Les gaites de Churchill indicaven els comandaments restants de la batalla.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489496.wav|"Va ser la segona pel·lícula més taquillera de l'any, només superada per ""Going My Way""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489508.wav|Està disminuint en parts de la seva franja.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489509.wav|La producció es va filmar en Technirama.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489510.wav|Han aparegut cinc sèries de bitllets.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489515.wav|Les estacions en gris encara no s'han obert.
+/home/usuaris/veu/macia.amoros/common_voice_ca_27489521.wav|No hi ha grans multituds i a vegades els seguidors visitants superen en nombre el suport dels sammarinese.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024639.wav|Amb tot, hi ha excepcions en ambdós casos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024641.wav|Era amic de Pompeu, Juli Cèsar, Marc Antoni i Ciceró.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024665.wav|El disc dur s'està desfragmentant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024666.wav|Ella era la líder.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024710.wav|No obstant això, per al canvi de tasques en particular no faig servir els comandaments incorporats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024714.wav|Les nenes van aprendre aritmètica i lectura.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024723.wav|Va saludar els seus companys amb la mà per evitar que s'apropessin.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024790.wav|Ha entrenat o dirigit un gran nombre d'equips professionals.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024794.wav|Aquesta mansió representa el nucli de la casa actual.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024842.wav|En el seu lloc es va crear el càrrec de comissari, la pràctica normal als territoris deshabitats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024844.wav|El llamp representa l'harmonia entre el poder secular i el religiós.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024866.wav|Per apuntar només es proporcionava una senzilla mira de ferro.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024893.wav|L'alta qualitat de l'aire al túnel s'aconsegueix de dues maneres: ventilació i purificació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28024895.wav|El braç lliure es cargola al bastidor o subbastidor del vehicle.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28031156.wav|Hi ha equivalència en els definicions que pertanyen a la seva existència en la realitat mixta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28031158.wav|Gairebé tots van ser assassinats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28031204.wav|Una noia descalça es gronxa molt amunt en un gronxador en una tarda de primavera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28031223.wav|Viu a Norfolk.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038045.wav|Aquestes plataformes poden ser utilitzades per una o més marques del Grup.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038067.wav|He guanyat una flor.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038070.wav|Aire net significa pulmons millors.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038071.wav|Què dieu quan repartiu premis?
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038082.wav|La ciutat de Saskatoon, Saskatchewan, porta el nom d'aquesta planta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038084.wav|Persona que porta una moto de carreres verda.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038085.wav|La seu del comtat és Ashburn.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038090.wav|Si l'avatar carregat és més gran o més petit, l'avatar s'escala apropiadament.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038096.wav|"""La fira de les tenebres"""
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038097.wav|Els motors d'avions retirats impulsen molts vaixells de tir poc profund en els Everglades de Florida.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038116.wav|Parlaven de mercuri, sal, dracs i reis, però ell no entenia res de tot allò.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038119.wav|Aquesta història tracta sobre Venus i el sol.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038121.wav|Els homes van passar a ser coneguts com els màrtirs de Chideock.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038141.wav|La Creu blava irlandesa és un partit relacionat amb la Creu blava.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038149.wav|La cresta de dalt sembla ser una inexactitud històrica.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038150.wav|Em vaig deixar caure sobre una taula.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038166.wav|L'aigua freda es sol utilitzar per refredar l'aire i l'equipament d'un edifici.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038766.wav|Clodumar també destaca per haver fundat i dirigit el Partit Centrista.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28038770.wav|La història d'Hagar demostra que la supervivència és possible fins i tot en les condicions més dures.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051375.wav|Home gran amb jaqueta de cuir portant un ram de flors.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051377.wav|Agafa la coberta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051411.wav|L'especificació no ha estat implementada per altres proveïdors de navegadors.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051476.wav|Me n'alegro de veure't bé.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051479.wav|També aporta més llibertat en la recaptació d'impostos i el pagament de deutes a les ciutats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051480.wav|Ell era jove, bonic, òbviament galant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051508.wav|Li diré el que tu diguis.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051509.wav|Ell i la seva dona, la mare de la Bertrande, van pressionar Bertrande per donar suport al càrrec.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051511.wav|Cadascun d'aquests tiradors en primera persona va mostrar nivells de tecnologia gràfica progressivament més elevats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051541.wav|És capaç de trencar les parets cel·lulars, però deixa el nucli de la cèl·lula intacte.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051587.wav|Els estrògens americans són estrògens britànics.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051745.wav|Els dos homes es dirigeixen al punt d'intercanvi per lliurar els diners.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051769.wav|Dosa és coneguda amb diversos noms.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051770.wav|Aleshores el mag anomena la carta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051797.wav|Darrere d'aquesta nova combinació hi ha un esforç intencionat que es desprèn de la motivació humana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28051798.wav|S'està planificant augmentar aquest servei perquè sigui cada hora.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28053844.wav|Les condicions dels presoners es van deteriorar molt després de la retallada de personal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28053858.wav|Lliure d'ocupació, continua la seva travessia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28053864.wav|Al marge de la realitat geogràfica, la seu del comtat es trobava a Pierce.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28053865.wav|T'hauria de caure la cara de vergonya, ves-te'n del meu porxo!
+/home/usuaris/veu/macia.amoros/common_voice_ca_28053867.wav|"El ""Appalachian"" era el vaixell líder de la classe ""Appalachian""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_28053891.wav|Un home salta un tonell amb un monopatí.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056320.wav|"Va dir ""Dona'm les gràcies, peu meu""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056322.wav|L'informant del Governador ha simplement identificat erròniament l'abundant quantitat de quarsita a nivell local.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056351.wav|Hi havia una pudor tan horrible a la classe que van evacuar als estudiants.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056372.wav|Un home fa cara de petó a una vaca davant d'un tren.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056374.wav|El va criar el seu avi.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056396.wav|La seu del comtat és Savannah.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056400.wav|El pirateig ha estat l'element principal de The Scene des del seu inici.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056471.wav|Es van construir carreteres entrellaçades i centres comercials.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056525.wav|Les regles de la barrera electoral també s'apliquen als candidats independents per accedir a la butlleta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056537.wav|El líder de la minoria al Senat, del Partit Republicà, és Bruce Tarr, de Gloucester.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056568.wav|Dos agents de seguretat vigilen els visitants del museu que examinen una exposició.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056571.wav|És bastant habitual a Kodagu, però estrany a altres regions de l'Índia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056575.wav|L'estat actual del partit no està clar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056597.wav|Els híbrids van arribar a la maduresa i eren tots mascles, malgrat que eren estèrils.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056604.wav|Això ajuda a la respiració cel·lular aeròbica perquè la mitocòndria necessita oxigen.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056621.wav|Una parella mira de dalt a baix cap a uns nois que fan break dance.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28056629.wav|És una zona productora de vi i pisco.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28060854.wav|És també l'última parada abans de creuar el riu Willamette.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28060877.wav|Els primers graduats incloïen Alexander Pushkin i Alexander Gorchakov.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28060929.wav|Alguns van prosperar, d'altres van resistir i d'altres van morir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28060930.wav|Si s'ha de fer només una codificació de baix nivell, és possible.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28060949.wav|Els clients són hospitals, parcs de bombers i empreses de submarinisme.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28076707.wav|Com a líder vocal del creixent moviment, Kameny va advocar per accions públiques sense remordiments.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28123260.wav|Entre d'altres, la marca Norrlands Guld es va incloure en la compra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28123263.wav|"L""ús modern varia considerablement."
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227855.wav|És considerat un dels millors compositors de Noruega.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227858.wav|El primer president va ser Antonio Caveri, advocat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227860.wav|Va establir que legalment els alcaldes s'han d'elegir, en general, pels electors amb dreta a votar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227880.wav|Aquestes festes van pujar a la prominència només per ser prohibides per les autoritats seculars de Turquia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227899.wav|"Feia una estona que deia: ""Deixeu-me marxar!""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227907.wav|Homes amb cascos i armilles de seguretat treballant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227908.wav|Un home amb uniforme dret a la cantonada del carrer
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227910.wav|Alexandria forma part de Mitchell, a l'àrea metropolitana estadística de Dakota del Sud.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227916.wav|Consisteix en cinc helicòpters i tres avions d'ala fixa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227924.wav|Van ser posteriors a la feina de preparació del trivi i consistien en gramàtica, lògica i retòrica.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227953.wav|Els principals conreus són sorgo, tabac, ceba i blat de moro.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227987.wav|Va dir que havia donat un talismà similar a Bill Clinton durant la seva presidència.
+/home/usuaris/veu/macia.amoros/common_voice_ca_28227988.wav|Un home amb una armilla reflectant és dins d'un forat al terra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352891.wav|Quina és la millor manera d'anar a Sant Esteve de la Sarga amb tren?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352889.wav|El meu pare es diu Youssef Esteva: e, essa, te, e, ve baixa, a.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352898.wav|Guarda el sis, cinquanta-quatre, vuitanta, trenta-set, divuit com a telèfon de l'Elm Calleja.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352897.wav|Guarda el sis, seixanta-sis, vuitanta-u, zero, sis, disset com a telèfon del Biel Marcano.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352890.wav|Vull anar al Rourell amb autobús.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352903.wav|Quina era la tasca de les comissions que es van conformar al congrés?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352918.wav|Afegeix a l'agenda el número del Musa Alvaro: sis, vint-i-set, divuit, seixanta-cinc, cinquanta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352934.wav|He d'anar al Far d'Empordà amb trasport públic demà passat a un quart i mig d'onze.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352935.wav|La meva mare es diu Dèlia Serret: essa, e, erra, erra, e, te.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352937.wav|Com ho puc fer per anar al carrer de Josep M. de Sagarra?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352945.wav|Com es fa per anar del carrer de Carles Soldevila a la plaça de Miquel Casablancas i Joanico?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352971.wav|Atura la ràdio.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352969.wav|Qui era el fill del degà?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352975.wav|Com es fa per anar de la camí del Molí de Vallvidrera al passeig de Montjuïc?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352972.wav|Desa el sis, trenta, seixanta-quatre, noranta-sis, quaranta-tres com a telèfon de l'Abrar Cuartero.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352978.wav|A quina hora es va desallotjar aquestes persones?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352985.wav|Quan passa l'autobús pel carrer Petons?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30352992.wav|El nom és Genís: ge, e, ena, i amb accent tancat, essa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353002.wav|Apunta el sis, vuitanta-u, setanta-vuit, trenta-tres, divuit com a telèfon del Miguel Cano.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353005.wav|Quin és el camí més curt per anar al carrer dels Esports número setanta-dos?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353003.wav|Com ho faig per anar al carrer dels Prats de Rei número dinou?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353010.wav|Truca al sis, cinquanta-nou, vuitanta-dos, cinquanta-u, vuitanta-cinc.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353011.wav|Truca al sis, vuitanta-set, zero, u, seixanta-set, divuit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353019.wav|El Perelló es troba al Baix Ebre
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353026.wav|Com ho puc fer per anar al carrer Albareda cantonada Caravel·la La Niña?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353028.wav|Com ho faig per anar al passeig de la Bonanova número cinquanta-cinc?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353031.wav|Busco un habitatge de lloguer per aquesta zona.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353029.wav|Què hi ha a la plaça de la Barceloneta número trenta-vuit?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353032.wav|Telefona al Thiago Magallon.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353033.wav|Apunta el sis, vint-i-sis, trenta-nou, trenta-set, setanta-u com a telèfon de l'Arianna Leon.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353034.wav|"Quants portaavions van aportar el grup del ""Mission Bay""?"
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353048.wav|Apunta a l'agenda el número del Santiago Pablos: sis, setanta, seixanta-tres, cinquanta-nou, seixanta-nou.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353051.wav|Vull anar a Peramola amb cotxe.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353053.wav|M'agradaria anar al passatge de León a peu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353054.wav|Hi ha algun lampista al carrer de la Barra de Ferro?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353056.wav|Com ho puc fer per anar a Canet de Mar amb moto?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353057.wav|Com ho puc fer per anar al carrer Trafalgar cantonada Escar?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30353058.wav|Què vol Quim Torra que faci Pedro Sánchez?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354533.wav|Em dic Adara Gao: ge, a, o.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354532.wav|El jutge belga s'inclina per extradir Lluís Puig
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354534.wav|Quines botigues hi ha al passatge de Casanovas?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354536.wav|El germà de Ximo Puig és un conegut empresari valencià
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354541.wav|El meu número es el sis, noranta-vuit, trenta-vuit, quaranta-set, zero.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354544.wav|Vull anar al carrer del Camp d'en Vidal amb moto.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354545.wav|També està molt bé.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354547.wav|Com puc arribar al carrer de Velázquez número set?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354548.wav|El finançament és un tema que preocupa a Oltra
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354549.wav|Reserva'm un bitllet de tren per anar a Cardona el dos de juny a un quart de deu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354554.wav|Com puc anar a Querol demà a dos quarts de tres?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354567.wav|Com puc arribar a Llinars del Vallès amb tren?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354569.wav|La Joana té l'esquena ben torta. 
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354568.wav|El meu número es el sis, vint-i-vuit, zero, vuit, onze, zero, cinc.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354571.wav|Guarda el set, vint-i-dos, setanta-cinc, zero, tres, cinquanta com a telèfon del Theo Montejo.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354586.wav|Apunta el sis, seixanta, trenta-set, quaranta-tres, vint-i-tres com a telèfon de la Maya Racero.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354587.wav|Per què es va popularitzar el nom de llei del Japó?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354588.wav|Tractant-se, sobretot, d'un xicot jove, vingut del camp, robust i àgil
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354590.wav|Quin és el camí més curt per anar al carrer de Tirso de Molina número setanta-tres?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354591.wav|Telefona al sis, seixanta-set, vuitanta-tres, cinquanta-u, quaranta-tres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354594.wav|El meu pare es diu Amjad Pol: pe, o, ela.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30354602.wav|He d'anar del carrer del Lotus al carrer de Burgos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355309.wav|Què hi ha al carrer de Vilafranca número setanta-cinc?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355325.wav|Mira'm quina és la millor manera d'anar del carrer de Grau i Torras a la plaça d'Àngel Rodríguez.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355326.wav|Qui viu a la plaça de Falset número trenta-u?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355335.wav|el vint-i-tres de maig hauria d'anar al Morell.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355375.wav|Com puc anar al passatge de Bonavista número vint-i-nou?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355379.wav|Com puc anar al carrer de Buenos Aires número onze?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355393.wav|El marbre de la mesquita prové de la ciutat italiana de Carrara.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355396.wav|Fan aprendre italià a la Tagliatella?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355402.wav|Com és el safareig que hi trobem?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355404.wav|Què poden sintetitzar els aminoàcids?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355407.wav|Ciutadans obtenia finançament de la venda de pisos
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355421.wav|dijous he d'anar a Òdena amb autobús.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355422.wav|Qui viu al passatge de l'Estació número seixanta-sis?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355424.wav|Com és el terra de l'atri?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355427.wav|Què va reintroduir Rossini?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355440.wav|Truca al sis, seixanta-set, vuitanta-cinc, cinquanta-quatre, catorze.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355441.wav|El director és Rodrigo Fuentes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355442.wav|Ha estat necessari el suport de més magistrats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355448.wav|Com ho puc fer per anar al carrer de Matadepera?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355449.wav|Engega l'aire condicionat a les tres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355450.wav|De jova, volia ser monja, pobreta
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355491.wav|Hi ha algun negoci al carrer Nou de la Rambla cantonada Nou de la Rambla?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355467.wav|Telefona al sis, setanta-tres, cinquanta, onze, zero, nou.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355477.wav|Marca el sis, noranta-nou, seixanta-u, setanta-set, vuitanta-dos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355480.wav|l'onze de juliol hauria d'anar a Cabrera de Mar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355494.wav|A quina hora passa el primer autobús per Sant Jaume de Frontanyà dilluns?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355493.wav|On té la seva seu el Tribunal de Justícia de la Unió Europea?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355509.wav|Apaga l'aspiradora a les deu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30355518.wav|Quan passa l'autobús pel carrer Antoni Santiburcio?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361606.wav|Hi ha algun lampista al carrer de Santa Peronella?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361607.wav|el disset d'octubre he d'anar a Vilaller amb autobús.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361650.wav|La junta electoral ordena retirar el llaç groc de la façana del parlament
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361781.wav|El seu cognom és Pinazo: pe, i, ena, a, zeta, o.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361782.wav|Per qui és dictada la normativa electoral estatal?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361796.wav|Quines botigues hi ha al carrer d'Estruc?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361822.wav|Marca el sis, cinquanta-vuit, quaranta-dos, quaranta-quatre, cinquanta-u.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361823.wav|Apunta el sis, noranta, trenta-sis, cinquanta-vuit, vuitanta-u com a telèfon de l'Aren Guinea.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361825.wav|El seu cognom és Siverio: essa, i, ve baixa, e, erra, i, o.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361826.wav|On es desenvolupa l'òpera?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361888.wav|Què van organitzar tots dos grups?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361890.wav|Què hi ha a la rambla de Volart número disset?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361899.wav|Telefona a l'Àreu Orihuela.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361904.wav|Què van avalar els inscrits de Podem?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361916.wav|La meva mare es diu Sandra Peon: pe, e, o, ena.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361931.wav|dimarts hauria d'anar a Vilanova de Segrià.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361932.wav|El meu pare es diu Kylian Janer: jota, a, ena, e, erra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361920.wav|Ara no puc perquè se m'ha espatllat la roda.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361948.wav|I la feina, la podeu fer?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361962.wav|Com pots demanar hora?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361964.wav|Com puc anar a Granera demà a tres quarts de dotze?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361994.wav|Les coses i els dies que marquen el nostre temps.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30361998.wav|Apunta a l'agenda el número de la Leah Mendia: sis, trenta-tres, vuitanta-dos, seixanta-vuit, vuitanta-u.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362007.wav|Per Setmana Santa anirem a Andalusia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362008.wav|Quina botiga hi ha al carrer de la Sal número noranta-tres?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362023.wav|Marca el sis, seixanta-u, vint-i-nou, seixanta, seixanta-nou.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362024.wav|Mira'm quina és la millor manera d'anar del carrer dels Segadors al carrer de Pinar del Río.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362026.wav|Quan va aparèixer la supernova que va crear la nebulosa del Cranc?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362029.wav|El fenomen apareix en diferents moments de l'obra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362039.wav|Quins plats hi ha disponibles en el menú del bar Manolo?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362051.wav|Què és l'halita?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362063.wav|Em dic Aloma Del Rosal: de, e, ela, espai, erra, o, essa, a, ela.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362073.wav|Qui viu al carrer de l'Arquitecte Mas número seixanta?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362075.wav|I no em faríeu cap...?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362077.wav|Com puc arribar a la plaça de Ferran Reyes número trenta-set?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362078.wav|Com puc anar als jardins de Can Miralletes número seixanta-cinc?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30362083.wav|Com es fa per anar dels jardins de la Indústria al carrer de l'Escultor Canet?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366404.wav|Un partit opositor tailandès s'haurà de dissoldre
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366429.wav|Com ho puc fer per anar al carrer Sant Francesc cantonada Groc?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366454.wav|Ara rebrà les notes al correu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366477.wav|Com es fa per anar del camí del Mar al carrer de Collegats?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366479.wav|Com ho puc fer per anar al carrer de Vidal i Guasch?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366504.wav|Vull anar als jardins de Tete Montoliu amb autobús.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366505.wav|El primer de gener és festa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366506.wav|Desa el sis, setanta-set, catorze, cinquanta-quatre, vuitanta com a telèfon del Jairo Bugallo.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366509.wav|Vull anar als jardins del Doctor Roig i Raventós amb tren.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366543.wav|Com ho puc fer per anar a la Palma d'Ebre amb tren?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366545.wav|Hola, què he de fer per sol·licitar la beca per la universitat?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366548.wav|Reserva'm un bitllet de tren per anar a Vilanova de Meià el vint-i-tres de maig a les cinc.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366555.wav|Reserva'm un bitllet de tren per anar a Artesa de Segre demà a la nit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366554.wav|Què venen al passeig de Miramar número cinquanta-sis?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366614.wav|La meva filla es diu Sol: essa, o, ela.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366625.wav|Com ho puc fer per anar al carrer de la Cançó?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366636.wav|Com ho puc fer per anar a Belianes sense agafar el cotxe?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366637.wav|Què venen al carrer de Tapioles número noranta-nou?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366624.wav|M'agradaria anar a la plaça de Pau Vila amb cotxe.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366646.wav|M'agradaria anar a Planoles sense agafar el cotxe.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366658.wav|Marca el sis, cinquanta-set, trenta-dos, vint-i-u, cinquanta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366660.wav|El seu historial està lliure d'antecedents penals.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366663.wav|Com ho puc fer per anar a la Vall d'en Bas dissabte?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366656.wav|Per quins valors també ha estat estudiada la sèrie?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366647.wav|M'agradaria anar al Masnou amb cotxe.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366667.wav|Quina és la millor manera d'arribar al passatge de la Casa Blanca?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366675.wav|dijous he d'anar a Artesa de Lleida amb autobús.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366676.wav|Què reclamava Miquel Àngel?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366712.wav|Què era Pau Marquès?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366707.wav|Vull anar a Riudecols amb cotxe.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366715.wav|Reserva'm un bitllet de tren per anar a Prullans dijous a les set.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366713.wav|Com puc anar a la Baronia de Rialb diumenge a dos quarts de tres?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30366729.wav|Hi ha algun lampista a la plaça de Salvador Riera?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382585.wav|Marca el sis, trenta-sis, setanta-u, seixanta-set, seixanta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382598.wav|Quina és ara la velocitat màxima al centre de València?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382615.wav|Com puc anar a Bigues i Riells dilluns al matí?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382643.wav|Totes les esglésies romàniques conserven la pica baptismal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382644.wav|Marca el sis, noranta, seixanta-nou, vint-i-vuit, cinquanta-vuit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382675.wav|Avui al matí no engeguis el rentaplats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382700.wav|Quines botigues hi ha al carrer d'Ivorra?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382726.wav|La casa és molt avorrida.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382719.wav|Afegeix a l'agenda el número del Jacob Huguet: set, quaranta-vuit, seixanta-sis, zero, dos, vint-i-cinc.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382728.wav|Volia repetir el que ja havia fet feia anys.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382729.wav|La sentència sortirà abans de l'estiu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382739.wav|Mira'm quina és la millor manera d'anar als Alamús amb tren.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382743.wav|Com és la planta del claustre?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382751.wav|La subvenció no es concedeix a particulars.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382777.wav|Mira'm quina és la millor manera d'anar als Alamús amb autobús.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382780.wav|Com ho puc fer per anar a Ulldecona sense agafar el cotxe?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382773.wav|Sitges es troba al Garraf
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382809.wav|Què venen al carrer d'Arizala número noranta?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382819.wav|Reserva'm un bitllet de tren per anar a Albanyà demà passat a dos quarts i cinc de set.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382817.wav|A Barbastre hi ha un jutjat
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382831.wav|Mira'm quina és la millor manera d'anar de la plaça de la Central al carrer del Sinaí.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382870.wav|Quines parades fa l'autobús que va a Sant Vicenç dels Horts?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382860.wav|Quines botigues hi ha a la plaça de la Marina de Sants?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382869.wav|No tothom té tants amics com tu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382881.wav|Com puc arribar a la plaça de Sant Pere número setanta-tres?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382882.wav|Què venen al carrer de Seròs número vuitanta-dos?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382890.wav|Qui apareix a la predel·la d'esquerra a dreta?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382891.wav|He d'anar al carrer de Can Castellví sense agafar el metro.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382886.wav|Quines parades fa l'autobús que va a Capellades?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382887.wav|Vull anar al carrer de Santa Caterina de Siena amb cotxe.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30382885.wav|Què hi ha a la plaça de Dolors Vives número setanta-quatre?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30389446.wav|Reserva'm un bitllet de tren per anar a Lleida dilluns a les set.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30389456.wav|Què hi ha al carrer Pere IV cantonada Bisbe Laguarda?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30389457.wav|Afegeix a l'agenda el número del Saad Manzanero: sis, setanta-cinc, quaranta-tres, vuitanta-sis, cinquanta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30389454.wav|Doncs jo prefereixo la mort.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30389462.wav|Mira'm quina és la millor manera d'anar a Llimiana amb bicicleta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30389459.wav|Quina és la millor manera d'anar a Sant Miquel de Fluvià amb trasport públic?

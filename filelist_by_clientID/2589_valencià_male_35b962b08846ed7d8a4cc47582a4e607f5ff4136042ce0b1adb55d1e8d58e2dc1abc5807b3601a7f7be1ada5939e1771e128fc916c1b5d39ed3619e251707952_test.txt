@@ -1,767 +1,784 @@
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367650.wav|La distància màxima des del marge fins a la darrera fila de plantes conreades no podrà ser superior a dos-cents metres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367653.wav|Això és el que vull.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367654.wav|Ja no tenia por.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367672.wav|Les certificacions s'expediran amb el vis-i-plau del President.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367674.wav|Igualment fan rotació de manera consecutiva en horari de matí, tarda i nit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367675.wav|La durada dels projectes no pot sobrepassar els tres anys, des de la data de la sol·licitud.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367688.wav|On érem?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367690.wav|Aturi's!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367706.wav|Comunicar-ho a l'Ajuntament de Sant Adrià de Besòs, al promotor i, si escau, als propietaris afectats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367710.wav|Veu?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367769.wav|Ho pregunto.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367771.wav|L'ens sol·licitant té problemes d'escassetat d'aigua: vint punts.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367775.wav|Què li diria?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367789.wav|La part dispositiva de la norma conté vint-i-sis articles que s'estructuren en quatre títols.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367803.wav|Què voleu dir?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367814.wav|Ho diu el Senyor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367828.wav|Què van fer?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17367831.wav|Obre els ulls.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368303.wav|Entrar al menjador atenent les instruccions que els donin els monitors.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368304.wav|No ho crec.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368306.wav|Ha de tenir la capacitat d'enganxar un remolc que pertanyi a la flota de l'empresa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368390.wav|És això el que vols dir?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368391.wav|Senzill.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368405.wav|El límit a partir d'aquí és entre els termes de Soriguera i Llavorsí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368406.wav|De què es tracta?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368417.wav|Aquest és l'element clau.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368432.wav|Els opositors realitzaran totes les flexions que els sigui possible durant mig minut de temps.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368442.wav|Tan feliç.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368456.wav|Què farem ara?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368462.wav|Ho sabem.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368468.wav|T'ho dic jo, el Senyor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368470.wav|No m'estranya.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368472.wav|Fa calor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368487.wav|En qualsevol moment el Tribunal podrà requerir als opositors que acreditin la seva personalitat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368488.wav|L'entrevista no puntua.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368489.wav|Disposició transitòria.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368490.wav|No se sap mai.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368491.wav|La seva composició dependrà de les actuacions que hagi de dur a terme cada treballador.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368493.wav|Gestiona la documentació inactiva del Gabinet Jurídic.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368496.wav|No podia més.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368510.wav|El que disposa l'apartat u no és aplicable en els casos en què hi ha un procediment judicial concursal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368513.wav|No contesta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368514.wav|Moltes gràcies a tothom.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368515.wav|Clac!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368517.wav|No podia fer altra cosa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368521.wav|Molt millor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368522.wav|Arribats a aquest punt, la zona de seguretat seguirà pels límits del terme municipal de Figueres en direcció oest.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368523.wav|I acabo, presidenta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368525.wav|Aquest és un acte de tràmit, no posa fi a la via administrativa i no és susceptible d'impugnació separada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368528.wav|Dit això, efectuarem algunes precisions condicionals amb relació a cadascun d'ells.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368529.wav|No era el cas.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368530.wav|El currículum no és un document estàndard sinó que cal adaptar-lo al lloc de treball al qual es presenta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368533.wav|Res?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368534.wav|I així ho vam fer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368535.wav|Tot és possible.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368537.wav|Especificació de les aplicacions que el treball té en el sistema educatiu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368538.wav|El cor se m'accelera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368539.wav|Gràcia, Barcelona.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368540.wav|Baixem.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368542.wav|Elabora les memòries de programes que acompanyen la proposta econòmica del pressupost.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368544.wav|Aquests errors també podran ser apreciats d'ofici pels òrgans de selecció.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368549.wav|Caldrà fixar una relació amplada alçada de les tribunes, que haurà de ser dos terços.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368554.wav|Deixa'm anar!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368555.wav|El vaig seguir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368572.wav|No, no cal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368580.wav|Cal disposar de vegetació arbòria al voltant del tancament perimetral de l'explotació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368582.wav|Pobre de mi!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368585.wav|Fomenta i coordina l'actuació dels diversos òrgans col·legiats dels centres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368587.wav|Oh.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368591.wav|Factors que condicionen o modifiquen la proposta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368592.wav|La desobediència als superiors que no impliqui gran trencament en el treball.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368600.wav|Va tancar els ulls.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368602.wav|Els apoderats i mandataris, els béns la gestió dels quals tenen encomanada, llevat de consentiment exprés.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368605.wav|En cas contrari, el Consell Plenari disposarà del termini d'un mes per resoldre-les.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368614.wav|Qui ho ha fet?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368616.wav|No ho sabien.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368648.wav|Assumirà la presidència el jutge de pau, i les funcions pròpies de la secretaria, el secretari municipal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368651.wav|Però hi ha una altra cosa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368659.wav|Durant les proves d'accés tots els aspirants tindran accés als vestuaris.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368660.wav|Per faltes greus i molts greus l'exclusió serà definitiva.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368661.wav|El setembre s'enduu els ponts o eixuga les fonts.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368662.wav|El lliurament i la replega l'efectuarà una tercera persona mentre dure la prohibició d'aproximació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368666.wav|Consisteix en el desenvolupament d'un cas pràctic relacionat amb la tasca a desenvolupar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368667.wav|Anem al menjador; allí fresqueja.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368672.wav|A la primera, el rei perdona; a la segona, catxamona.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368673.wav|Prou!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368675.wav|La història és veritable, molts dels vostres pares la deuen recordar i segur que molts dels avis la visqueren.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368689.wav|Despeses de personal intern de l'empresa, siga quin siga el centre gestor en què presten els seus serveis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368695.wav|Osona, descobreix l'essència del patrimoni cultural i natural de l'interior de Catalunya.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368704.wav|Ja ho crec que sí!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368709.wav|Per Sant Francesc, lleva l'ormeig.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368710.wav|L'àmbit de la modificació afecta sòl urbà del vigent pla general de Castalla.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368711.wav|Cal fer una gran divisió entre els partits.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368716.wav|Segurament les plantes tenen memòria, i en la seua genètica l'estramoni ens guarda una rancúnia especial.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368721.wav|Espero que ho entenguis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368724.wav|Tornem al nostre exemple.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368728.wav|La combustió del biogàs en el motor generarà l'emissió de gasos contaminants a l'atmosfera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17368730.wav|I els altres?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370181.wav|Finalitzat aquest període, procedeix la devolució de les garanties prestades per l'adjudicatari.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370182.wav|Només s'aguanten com les dues anelles extremes d'una llarga cadena.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370183.wav|El mínim establert per ser declarat apte és l'establert al barem adjunt.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370184.wav|Per l'abril les perdius molt cantar i poc venir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370189.wav|La proposta de la comissió té caràcter vinculant per a l'òrgan competent.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370192.wav|El ponent té una filla a llevant, que la va a veure rient i se'n torna plorant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370198.wav|Els serveis fets al públic, siguin els que siguin, es paguen.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370200.wav|Ni dona desvergonyida, ni planta pel març florida.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370202.wav|Estimem el recurs interposat pel senyor José Velasco Santamaría.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370203.wav|No hi va haver cap resposta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370204.wav|Publicar les llistes definitives d'admesos que figuren en l'annex u d'aquesta resolució.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370208.wav|Cal jutjar-lo sempre des d'aquest punt de vista.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17370214.wav|Les lleis anuals de pressuposts establixen els límits per al Deute de la Generalitat Valenciana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371260.wav|A continuació, es porta a un alimentador vibrant que descarrega l'argila selectivament en sitges.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371270.wav|Un exemple seria el de l'aire càlid i sec, procedent del Sàhara.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371282.wav|La disminució en el percentatge finançat comportarà una disminució proporcional en la puntuació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371297.wav|Les preguntes contestades erròniament descomptaran zero coma quinze punts.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371298.wav|Vist que la part expedientada no formula al·legacions a aquesta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371305.wav|El segon.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371313.wav|Què vol que li digui?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371333.wav|No es consideren subvencionables les despeses de taxi tret que resultin imprescindibles.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371334.wav|Va mirar-me.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371371.wav|No, gens.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371373.wav|Fa el seguiment de la informació, les peticions i les actuacions derivades dels acords contrets.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371381.wav|A mala hora, el gos no lladra.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371383.wav|Ajude'ns a conservar-les fent-ne un bon ús.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371395.wav|Donar publicitat per mitjans telemàtics de la present resolució, la qual podrà consultar-se a la web municipal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371396.wav|El període d'acollida a Catalunya dels Defensors i Defensores dels Drets Humans serà de sis mesos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371402.wav|Cada convocatòria determina el màxim de contractes a subvencionar per a cada tipus d'entitat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371404.wav|Desaparegut.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371407.wav|Actuarà com a secretari del Tribunal el vicesecretari de l'Ajuntament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371408.wav|Implica l'assessorament en la preparació d'ofertes a licitacions de Compra Pública Innovadora a empreses.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371416.wav|Resten suspeses les llicències urbanístiques que resulten incompatibles amb la modificació puntual proposada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371418.wav|Per què passa, això?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371419.wav|No tenia sentit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371434.wav|El pic Penyagolosa i el seu entorn és un espai natural emblemàtic per a la Comunitat Valenciana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371448.wav|S'encarregarà de l'atenció al públic davant qualsevol problema que puga sorgir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371464.wav|Vés a saber.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371465.wav|Ja m'ho semblava.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371472.wav|No es podran abandonar deixalles en tot el recinte de la piscina, caldrà fer ús de les papereres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371476.wav|El tribunal valorarà el domini de l'aplicació de sistemes, normes, mètodes, tècniques i procediments específics.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371477.wav|Em mira fixament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371478.wav|De què estem parlant?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371480.wav|A la casa que hi ha un vell, no hi faltarà un consell.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371490.wav|El projecte té com a objectiu l'atenció de població en compliment de pena privativa de llibertat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371491.wav|Aquest termini té caràcter improrrogable.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371496.wav|Terrible.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371505.wav|A qui no li agrade, que no mire.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371506.wav|Les resolucions de la comissió de valoració vinculen aquesta i l'Administració.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371513.wav|Oh, merda.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371516.wav|Correu!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371520.wav|Era de nit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371522.wav|La magnitud dels efectes positius dependrà de l'adequada aplicació d'aquests.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371523.wav|Organitza la guàrdia de màquines, atenent els mitjans disponibles i interpretant la normativa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371525.wav|Aquest conjunt d'indicadors dóna lloc al sistema d'informació sobre drogodependències.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371527.wav|No s'admetrà l'empresa que presenti un patrimoni net negatiu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371539.wav|Quan es retiren conjuntament més d'una fracció caldrà detallar les quantitats per cada una d'elles.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371541.wav|El torn C diürn de jornada completa, també gaudirà dels cinc dies més quaranta hores esmentades.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371544.wav|Absolutament tot.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371549.wav|Supervisa els informes d'inclusió en el Pla territorial d'inspecció.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371558.wav|La porta era tancada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371561.wav|Les dades es presenten en l'àmbit municipal i sempre que és possible per districte, barri o secció censal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371562.wav|Les conduccions de telefonia seran les següents a col·locar davall les voreres si és possible.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371566.wav|Ara torno.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371567.wav|En aquest cas, s'ha d'indicar en el pressupost el detall de la feina que aporten al projecte.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371570.wav|L'esmentada documentació no té visat col·legial i de diligència d'aprovació municipal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371573.wav|A l'olor del dot, acudix el borinot.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17371575.wav|Potser té raó.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17372653.wav|A més maror, més vela.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17372658.wav|Primera reflexió.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17372659.wav|L'abastament d'aigua de l'explotació provindrà de la xarxa de reg del canal d'Urgell.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17372691.wav|L'estudi d'impacte ambiental no integra en la seua documentació un estudi d'ordenació i protecció del paisatge.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17372692.wav|Però és així.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17372694.wav|Passi.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17372757.wav|No tenim temps.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17372776.wav|És possible identificar tres nivells en la resolució de problemes geogràfics.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17372784.wav|Aquesta és una realitat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17372814.wav|Per què…?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17372815.wav|Cada criatura que neix es porta un pa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374591.wav|Cada dia és un any.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374597.wav|Durant la impartició de cada curs i quan acabe, es demanarà l'opinió de l'alumnat sobre la docència rebuda.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374599.wav|El professorat que pertanya als dos cossos tindrà plena capacitat docent i investigadora.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374600.wav|Vinc de seguida.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374601.wav|Els professionals que la facin facilitaran al tribunal un informe de cada un dels aspirants seleccionats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374603.wav|Era diumenge.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374607.wav|Amb amics com eixos, no fan falta enemics.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374615.wav|A qui es burla, el dimoni li furga.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374620.wav|Les interrupcions per maternitat no podran excedir el màxim establit en la legislació laboral.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374627.wav|Aquesta resolució es podrà impugnar de la manera que estableix la base deu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374633.wav|Em quedo bocabadada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374635.wav|Paredes de formigó o rajola.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374636.wav|Aquesta transformació comporta importants canvis paisatgístics que tendeixen a uniformitzar el relleu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374639.wav|Al Departament de Governació, Administracions Públiques i Habitatge hi ha vacant el lloc de responsable d'estudis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374643.wav|Però és igual.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374644.wav|S'hi accedeix per les escales i ascensors de què consta l'edifici.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374645.wav|L'Ordre també permet oferir un suport a la transformació d'empreses, amb l'objectiu de preservar llocs de treball.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374646.wav|A qui li pica, es rasca.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374651.wav|Era horrible.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374662.wav|Al bé, buscar-lo; al mal, espantar-lo.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374664.wav|Què faran?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374665.wav|Al setembre, qui tinga blat que sembre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374677.wav|A nau foradada, tot vent li és contrari.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374678.wav|Realitza processos de fabricació additiva en condicions de seguretat, qualitat i protecció ambiental.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374690.wav|La publicació de resultats és anual a partir de l'agregació de la mostra enquestada durant l'any.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374693.wav|Beure xarrupant, beure de bergant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374713.wav|Gràcies a tots.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374722.wav|Te'n recordes, d'ell?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374724.wav|Particularment s'abstindran d'emprendre qualsevol acció que pugui vulnerar els principis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374737.wav|El professorat que no haja assolit l'aptitud podrà obtindre una certificació d'assistència al curs.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374738.wav|Aquest vespre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374740.wav|La dosi màxima d'aplicació no superarà els cent setanta quilos de nitrogen per hectàrea i any.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374746.wav|Li ho vaig dir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374748.wav|El seu comportament genera queixes ocasionals de terceres persones.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374749.wav|A l'abril, tota l'aigua cap dins un barril.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374750.wav|Això ja ho saps.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374752.wav|Bona sort.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374756.wav|Fugiu!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374759.wav|A cavaller nou, cavall vell.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374766.wav|Serà reposat en aquests des del moment que satisfaça els imports deguts i els recàrrecs estatutaris.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374769.wav|L'exposició podrà donar lloc a la petició d'ampliacions, preguntes i comentaris.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374771.wav|Els casos en persones d'origen llatinoamericà procedien en la seua majoria de Colòmbia i Equador.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374773.wav|A emboscada de roïns, fugir per tots camins.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374775.wav|Al dit sector li correspon un percentatge de vot ponderat del dèsset coma setanta per cent del total.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374785.wav|A menjar curt, vi pur.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374789.wav|Sang.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374790.wav|Constitueix una mera estimació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17374798.wav|Dorm.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376751.wav|Aquestes publicacions substitueixen les notificacions individuals i tenen els mateixos efectes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376753.wav|Cal adjuntar a aquest document un informe amb les dades i informació per valorar la rellevància de l'esdeveniment.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376756.wav|Diagnostica l'estat d'elements de sistemes hidràulics, aplicant tècniques de mesura i anàlisi.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376759.wav|Les mutualitats de previsió social són entitats sense ànim de lucre que desenvolupen activitat asseguradora.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376760.wav|En tot cas, la durada de la unió serà coincident a la de la concessió.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376761.wav|Es consideraren només projectes la inversió dels quals siga superior a sis mil euros.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376763.wav|Hi estan d'acord?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376764.wav|No podrà presentar-se més d'una sol·licitud per persona física o jurídica.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376768.wav|Reserveu-los.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376771.wav|Si note una altra volta una tempesta així, procuraré volar més alt i no ens atraparà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376774.wav|El que precedeix s'aplica a totes les nacions democràtiques.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376776.wav|S'aplica recentment al problema del control de sistemes complexos, i certament les llengües ho són.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376780.wav|Lluna que porte estrella, no et fies d'ella.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376792.wav|No hi va haver resposta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376794.wav|Arc de Sant Martí al matí, pren capot i segueix ton camí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376802.wav|Les veritats ofenen.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376804.wav|Descansa sobre la més elemental norma d'equilibri entre natura i temps equinoccial.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376805.wav|Com si no fos barat que els cavalls s'haguessen guanyat al camp el farratge que els havien donat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376818.wav|Cap persona o entitat no pot proposar-se a si mateixa per a l'atorgament del guardó.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376833.wav|El vi i la veritat tenen bona amistat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376834.wav|Home ric, mal enemic.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376842.wav|El Servei de Recursos Humans gestiona de manera centralitzada les despeses de personal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376854.wav|El mussol mai va tot sol.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376858.wav|Es pot comprovar de la seua lectura, doncs, que l'esperit estatutari és, clarament, molt municipalista.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17376859.wav|Quan l'arc de Sant Martí surt al matí, la pluja pel camí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17377023.wav|L'arc de Sant Martí al vespre alegra el mestre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17377024.wav|Tothom tenia caragoleres, on es posaven a dejunar prop d'un mes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17377053.wav|Ho havia oblidat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17377124.wav|I des de dins el llit escoltava Ràdio Pirenaica.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17377127.wav|La puntuació serà el valor mitjà dels píxels inclosos en aquesta àrea.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17377128.wav|A l'estiu, tavernera; a l'hivern, fornera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17377130.wav|Ningú s'alabi del blat, fins que el maig sigui acabat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17377138.wav|Causes que porten al consum i bases per a la prevenció social i policial.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17377139.wav|No li va fer cas.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17377149.wav|El segon quarto era el despatx que ja us he descrit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383523.wav|No sol·licitar, directament o indirectament, que un càrrec o empleat públic influeixi en la concessió de l'ajut.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383528.wav|A casa sempre volien que portéssim el clatell sense llana i que anéssim clenxinats i amb la clenxa ben recta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383564.wav|Les construccions són normalment de caràcter agrícola i es troben molt disperses.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383588.wav|Llamps a la mar, vent a la terra.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383591.wav|L'import de l'ajuda anirà destinat a la campanya anomenada «El Nadal és valencià».
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383592.wav|Sí, ja ho sé.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383609.wav|També té uns certs tocs de cuina francesa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383612.wav|El temps que ens toca viure redueix moltes qüestions a la simplificació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383629.wav|Les fraccions puntuaran proporcionalment arrodonint a dos decimals.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383633.wav|Per Santa Llúcia, l'oli torna a l'oliva.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383635.wav|Hi ha ulls que s'enamoren de les lleganyes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383636.wav|Aquests tenen forma cònica i estan formats per un conglomerat de pedres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383644.wav|Cada part abonarà les costes processals causades a la seua instància i les comunes a mitges.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383664.wav|Novembre humit, et farà ric.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383673.wav|Elabora informes en relació a les matèries pròpies de l'àrea d'Administració, Recursos Humans i pressupost.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17383676.wav|Qui espines sembra, descalç no vaja.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394211.wav|Qui no posa el ventre en perill no mor fart.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394212.wav|Promoure que la ciutadania utilitzi l'estadística oficial.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394214.wav|Cinquanta?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394221.wav|Vet-ho aquí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394222.wav|El confús embull d'arrels donava una aparença de solidesa als massissos de canyes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394237.wav|Totes les lletges es casen pel maig.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394249.wav|Què us sembla?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394251.wav|Quimet ha posat l'ordinador en marxa i descobreix les respostes rebudes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394254.wav|El que tinga malícia, que s'arrape la guixa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394255.wav|«Senyora Lourdes», li deia una pagesa tot ensenyant-li un parell de pollastres, «aquests fan per vostè».
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394262.wav|La Comissió podrà sol·licitar a les o els candidats l'exposició oral dels seus mèrits investigadors.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394278.wav|En el seu vessant de comerciant depén de la lliure circulació de mercaderies.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394282.wav|Per obtenir una còpia compulsada, cal aportar l'original i la còpia de la documentació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394285.wav|Arrufo el front.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394292.wav|Té l'accés per mitjà d'ascensor i caixa de l'escala carrer Sant Pere, números cent tres i cent cinc –escala B–.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394294.wav|Menjar de rics; qui pot, gasta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394295.wav|És per això?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394298.wav|Demanar la lluna.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394299.wav|Qualsevol quantitat que el Col·legi percebi pels serveis prestats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394300.wav|No passa igual al Sud.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394314.wav|Les finestres, que eren reixades, les obrien quan feia bo, i se sentia xivarri de nens que cridaven.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394315.wav|Quin estrany caprici de la fortuna, certament!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394317.wav|L'ocell que no és aquí per Sant Martí, s'ha quedat pel camí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394331.wav|Ho reconec.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394333.wav|Les bogeries que se sembren per Carnestoltes es cullen per Tots Sants.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394342.wav|Més val fer-ho que manar-ho.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394343.wav|La present ordre entra en vigor l'endemà d'haver sigut publicada en el Diari Oficial de la Generalitat Valenciana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394344.wav|Vermell i ponent, senyal de vent.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394348.wav|Aquests alumnes tenen la continuïtat garantida, però no l'horari per al nou curs.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394355.wav|I perquè servisca de notificació a la interessada mencionada anteriorment, s'expedeix el present edicte.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394359.wav|Tornem-hi que no ha estat res.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17394373.wav|No podia tindre una mare com les altres?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399499.wav|De pare arreplegador, fill escampador.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399549.wav|Aquestes bonificacions són incompatibles entre si.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399551.wav|En canvi, el cas basc és extraordinàriament interessant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399552.wav|La potència d'explotació és de quaranta-sis metres en la zona u, trenta-nou metres en la zona dos i trenta-set metres en la zona tres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399553.wav|Exposicions i pel·lícules que el Goethe-Institut deixa en préstec als centres educatius.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399559.wav|Qui pica primer, pica dos cops.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399563.wav|Aquestes coses passen.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399574.wav|Les autoritzacions poden contenir condicions o restriccions per a l'execució del projecte.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399575.wav|Si el període de dedicació abasta més d'un any natural, s'haurà de disposar de totes les nòmines d'aquests anys.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399584.wav|Però tampoc no cal allunyar-se massa geogràficament per a comprovar-ho de manera alarmant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399586.wav|Inclouen tant personal amb contracte indefinit com becaris.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399590.wav|El forn, per Nadal, no para un instant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399610.wav|És això el que voleu?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399621.wav|Però això no és cert.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399632.wav|Així mateix, haurà de fer-se esment exprés dels motius pels quals s'expressa que la mostra és representativa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399633.wav|Sovint li manca prudència i previsió, perquè ho pot fer tot.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399635.wav|El meló, tastat, i l'amic, provat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399638.wav|El lliurament solemne del Premi i l'acte acadèmic corresponent tindran lloc a Barcelona.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399640.wav|També, com és lògic, existirà afecció sobre la fauna sobretot a causa de l'efecte barrera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399650.wav|Els pecats dels pares els paguen els fills.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399651.wav|Tots els consellers tindran una medalla i carnet que n'acredite la condició.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399653.wav|Manté les relacions amb els administradors i els propietaris dels locals on està ubicat el Departament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17399655.wav|Aquesta quantitat podrà ser augmentada pel licitador en la seua oferta econòmica.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17400099.wav|Costa més alimentar un vici que criar dos fills.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17400100.wav|Els vehicles de transport de material, en la fase de construcció, circularan amb les caixes cobertes de lona.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17400102.wav|Aquest no és l'estat normal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17400117.wav|Viatjar o volar és una forma d'aprendre, d'adquirir coneixements.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17400126.wav|El que sega a Sant Joan no li ampra a Sant Pere.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17400133.wav|La concurrència era la de sempre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17400137.wav|Per als titulats en Belles Arts el valor de E serà igual a la nota mitjana de l'expedient acadèmic.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17430978.wav|Si la peça supera els dos-cents quatre punts, s'ha de valorar com a trofeu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17430981.wav|Vianda forta, s'ofega amb vi.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17430983.wav|L'amplària de la calçada serà entre tres coma cinc i quatre coma cinc metres per a l'accés d'un camió grua perquè alce la torre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17430986.wav|Com els fills de l'amo en Pere, que volien ensenyar el seu mestre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17430987.wav|Per Sant Maties, març al cap de cinc dies, però si és l'any de traspàs, al cap de sis el trobaràs.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17430989.wav|Tal com canta el rector respon l'escolà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17430990.wav|La separació del Consorci d'alguna de les entitats consorciades pot fer-se amb un preavís d'un any.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444744.wav|L'article tres de l'esmentada ordre exigia que la permuta s'elevara a escriptura pública.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444745.wav|El febrer, de cap o de cua, l'ha de fer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444746.wav|Cada moixonet, el seu niuet.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444749.wav|La superfície de sòl total que ocupa és de tres mil tres-cents vuitanta-nou metres, nou decímetres quadrats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444750.wav|El primer plat variava una mica, però a mi m'agradava que l'àvia em fes croquetes de pollastre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444751.wav|A més a més, en general, les obres de construcció d'un edifici d'habitatges normal pot durar entre un i dos anys.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444752.wav|S'hi ha d'integrar, per a complir les funcions assessores, el secretari i també l'interventor, si n'hi ha.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444753.wav|Segon trimestre de dos mil quinze.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444755.wav|Execució d'obres en períodes que no corresponguin a època de cria o reproducció de la fauna sensible de la zona.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444756.wav|A qui no li agradi que s'hi posi fulles.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444759.wav|Tindrà dues parts: una voluntària i una altra obligatòria.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444762.wav|Aquests tests valoraran l'aptitud verbal, numèrica i el raonament abstracte, respectivament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444764.wav|Es marquen uns mínims per mantenir el compte d'editor: fer almenys una edició cada quatre mesos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444767.wav|Us agradaran molt i són poc conegudes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444770.wav|Així, una consulta rebuda per la ràdio pot ser resposta per la Xarxa i a l'inrevés.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444780.wav|Hi ha la unanimitat que neix de la realitat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444783.wav|En cap cas les despeses d'amortització poden superar una imputació del vint-i-cinc per cent de la Part B.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444793.wav|Això mereix una atenció molt seriosa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444795.wav|La persona participant no pot sortir per trepitjar la línia següent fins que no hagi sentit el senyal sonor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444822.wav|Aquestes no són simples retòriques d'autocomplaença: tenen conseqüències ben reals.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444823.wav|Ajudes que fomenten el multilingüisme.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444827.wav|Durant el període esmentat poden formular-se les al·legacions que estimen convenients els interessats legítims.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444828.wav|Comprendre textos referits a anuncis d'allotjament i les abreviatures que apareguen en l'anunci.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444837.wav|Les despeses ocasionades per la publicació d'aquest anunci seran a càrrec de l'empresa adjudicatària.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444839.wav|Noves tecnologies i Internet, que des del juny de dos mil tres es pot trobar a les principals llibreries.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444856.wav|El mestral entra per la porta i ix pel fumeral.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444858.wav|"Per consegüent, en l'annex A caldrà afegir les seues dades i una ""fitxa d'associació""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444873.wav|Així anomenava l'àvia l'ajuntament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444874.wav|Sembra de cards, collita d'espines.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444888.wav|Comunicar la bibliografia generada pels estudis dels jaciments que puguin ser objecte de la subvenció.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17444889.wav|Tindràs dia de profit si no et pilla el sol al llit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454223.wav|Arrufo el nas.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454230.wav|Quan s'entra a la seua habitació, alerta on poses els peus!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454235.wav|Només interessen els de més a prop.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454236.wav|Així funcionen les patents.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454239.wav|Li havien canviat el fill, segons ella deia amb el to gemegaire d'una mare resignada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454250.wav|I no vos menegeu tant que l'únic que li falta és una miqueta més de calor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454256.wav|Tots Sants el primer i Sant Andreu el darrer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454272.wav|Els llocs que queden sense cobrir dels reservats al torn de promoció interna s'han de sumar als de torn lliure.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454273.wav|I el seu ús és indiscriminadament lliure, per la qual cosa no cal témer les amenaces del Programari Legal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454275.wav|Tanmateix, cal relativitzar l'èxit de Softcatalà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454280.wav|Qui fa un cove, fa un cistell.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454288.wav|Assegureu-vos que les dades resulten clarament llegibles en tots els exemplars.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454294.wav|Era formar-se a la cuina una tertúlia de criades, i allí anava ell, com arrossegat per una irresistible seducció.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454303.wav|Qui podia saber tot el que contenia?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454304.wav|Un altre tema.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454320.wav|Tot ho casen.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17454339.wav|Prop de la muntanya i ribera, és la terra falaguera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458791.wav|Com se li ocorren eixes coses de parlar amb les flors, de tindre llàstima d'elles?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458793.wav|Casa que pugues viure, terra que pugues veure.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458797.wav|També permet aplicar-hi millores.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458812.wav|Però precisament en el seu èxit troben aquests senyors la seua condemna.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458817.wav|De qui és?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458819.wav|És a aquest interès a qui ofereixen protecció.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458821.wav|També integren, coordinen i supervisen tasques amb contingut homogeni realitzades per un grup de col·laboradors.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458822.wav|Com ara què?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458824.wav|No li agradava.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458831.wav|De la demanda es desprèn que en el matrimoni no existeixen fills, menors o incapacitats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458833.wav|A Sant Andreu, aigua o neu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458834.wav|En la categoria de voluntariat lingüístic, Punt de Referència – Projecte d'extutelats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458836.wav|Si l'habitatge és de propietat: nota simple informativa actualitzada del Registre de la Propietat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458838.wav|L'acte d'obertura dels sobres número dos serà públic.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458840.wav|Qualsevol full de càlcul permet calcular immediatament aquestes equacions.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17458844.wav|No era sols embriaguesa, i si el gandul s'escapava d'aquella, bé podia dir-se que la seua carn era de gos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478515.wav|Vegeu les bases generals i particulars de programació del programa d'actuació integrada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478516.wav|Doncs és com ta mare.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478520.wav|Per Sant Andreu, tot el dia no s'hi veu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478521.wav|Pere ja és vell per a tindre cervell.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478524.wav|Qui té duros fuma puros i qui no en té fuma paper.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478533.wav|I que bé ho sap fer, el molt lladre!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478538.wav|De malagraïts està el món ple.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478540.wav|Fins demà!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478550.wav|La muller del mariner és casada i no n'és.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478560.wav|És curiós que la Biblioteca Cervantes, que tan bé s'ocupa de fer efectiu l'article nou punt dos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478564.wav|Per la tardor, ni fred ni calor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478565.wav|Com més cosins, més endins.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478567.wav|Ens han donat un vehicle amb l'interruptor de la bomba malament i ho sabien.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478569.wav|Cada u es tira el foc cap a la seva arengada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478572.wav|La versió original està disponible a la web.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478573.wav|Val més un forat a la roba que una arruga al ventre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17478575.wav|El projecte pivota sobre dos aspectes complementaris: la codificació informàtica i la construcció tipogràfica.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488680.wav|El seu eix de ferro de forja fa vint-i-huit centímetres de llarg i un centímetre de diàmetre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488681.wav|Coordina les delegacions territorials del Gabinet Jurídic.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488722.wav|Visiteu la web per a veure les darreres notes completes quant a Fedora onze.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488724.wav|Cal corregir les superfícies de sòl que figuren en els quadres de la fitxa normativa reguladora del sector.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488736.wav|Hem fet una llista de les coses que cal fer, i per damunt de tot, com fer-les.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488737.wav|Suposo que no.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488741.wav|Així ho disposa i signa l'alcalde, en el dia d'avui, de la qual cosa jo, com a secretària habilitada, en dono fe.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488753.wav|El jardí, ja ho sabem, és teràpia, ajusta els nervis i dóna entreteniment.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488758.wav|Al maig, el favar, primerenc o tardà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488760.wav|Els elements d'aquesta crisi social són múltiples.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488765.wav|El meu fill.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488767.wav|La nostra llengua és com una vella, molt vella, locomotora.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488778.wav|Aquest model assumeix el fusterianisme només en la part cultural i lingüística, però no en el vessant polític.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17488779.wav|Els concursants seran els responsables de comprovar i verificar l'exactitud de les dades.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17507575.wav|A baix.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17507626.wav|Podrà realitzar derrames o reembossaments a compte, pel supòsit d'existir dèficit o superàvit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17507628.wav|Pel que fa al document resum, la qualitat del qual es considera millorable.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511928.wav|Coneixent-se millor, les diverses parts de la Unió s'han aproximat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511931.wav|No és oliva que a l'agost no sia eixida.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511943.wav|Aquesta reproducció no és amb ànim de lucre, i per tant, està perfectament autoritzada per nosaltres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511947.wav|Nosaltres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511957.wav|La Universitat podrà disposar de patrimoni cedit per altres administracions públiques per a complir els seus fins.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511968.wav|Es modifica l'anterior article deu punt tres: on diu coordinador ha de dir president.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511971.wav|L'argument mereix una explicació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511985.wav|S'entendrà aprovat definitivament si no hi ha reclamacions en el període d'exposició pública.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511986.wav|Per l'agost trilla el qui és gos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511987.wav|S'acreditarà per mitjà de certificació emesa per la Secretaria de l'administració que corresponga.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511993.wav|Només ha estat creat per un interès purament administratiu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17511995.wav|Llavors li feia una nansa i ja estava a punt.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17512013.wav|El nomenament tindrà una validesa de dos anys, i pot renovar-se successivament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17512014.wav|De llibres i paraigües, no en deixes gaires.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17544165.wav|Més de cinquanta mil editors de tot el món.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17544183.wav|L'oli i l'amic, l'antic.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17544184.wav|Al saber, li diuen sort.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17544195.wav|Permet l'edició ràpida per a usuaris amb teclats portàtils.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17544196.wav|Part de la reserva d'aparcament per a vehicles pesants pot establir-se, justificadament, en parcel·la privada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17544213.wav|Tot això ho fareu coure uns vint minuts més.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17544221.wav|El món polític canvia; d'ara en avant cal cercar nous remeis a mals nous.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17544225.wav|Cosa estranya!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17544234.wav|A música de brams, contrapunt de garrotada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17544238.wav|Diners i fills, com menys n'hi ha, menys perills.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17544249.wav|L'indi era llavors l'amo, i l'home blanc el suplicant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17586258.wav|Disculpeu-me.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17586267.wav|La creació d'una empresa és una decisió complicada que sovint desanima el potencial emprenedor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052074.wav|Venim d'Ullastrell.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052075.wav|Alguns companys passen tot el temps molestant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052104.wav|La mateixa observació és aplicable a una societat de nacions.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052119.wav|Sempre passa el més inesperat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052122.wav|Els resultats del seguiment i, si escau, les propostes de millora, s'inclouran en la memòria anual del centre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052138.wav|El preu de la fracció d'hora és el que correspongui en proporció a l'import establert per hora.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052139.wav|He vist altíssims campanars que recorden als humans la seua condició mortal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052143.wav|La defensa del castellà s'ha de fer en el context de la llengua més amenaçada, que és el català.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052144.wav|Per altra banda, tampoc no tingué els recursos per a oposar-se al rei Jordi.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052146.wav|De com la impremta va irrompre en aquest procés.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052147.wav|Cal que siga un vol lent, assossegat, movent les ales amb elegància.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052451.wav|Tremolava.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052456.wav|Com que l'avi no venia, calia embarcar com més prompte millor; aquells homes tenien raó.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052458.wav|Passeu-les per ou batut, pa ratllat i fregiu-les en una paella amb oli abundant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052470.wav|L'argila atomitzada es rep i emmagatzema directament en sitges ubicades a l'interior de les naus.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19052472.wav|És el costum secular dels llauradors plantar els fruiters per al consum domèstic prop de les séquies i braçals.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19180502.wav|Millores en la connectivitat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19180504.wav|Sangonera tancava la comitiva, carregat amb el bot de vi.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19180506.wav|Jo suggeriria que fos un lleuger toc de marialluïsa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19180508.wav|Jo assenteixo.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19180510.wav|No imitaré la seua humilitat ni pertorbaré la seua devoció.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19180511.wav|L'economia espanyola va tancar l'exercici dos mil tres amb un creixement que supera el registrat durant l'any anterior.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19180512.wav|No; tots eren germans i a tots pertanyia el llac.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19180515.wav|Per Setmana Santa, el cucut canta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19180599.wav|Ho sents?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19180600.wav|Serà causa d'exclusió la presentació d'ofertes a l'alça.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19180601.wav|Quan els pèsols siguin cuits, apagueu el foc i serviu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292907.wav|Anem a Vallfogona de Balaguer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292922.wav|Anem a Porrera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292938.wav|Anem a Simat de la Valldigna.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292941.wav|Anem a Jafre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292944.wav|Anem a Elx.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292946.wav|Anem a Benetússer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292947.wav|Anem a Pinós.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292949.wav|Anem a Xalans.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292950.wav|Anem a Montfort.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292952.wav|Anem a Sóller.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292956.wav|Anem a Pontós.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292959.wav|Anem a Argeleta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292960.wav|Anem a Petrés.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292961.wav|Anem a Vilajuïga.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292967.wav|Anem a Costur.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292970.wav|Anem a Ciutadella de Menorca.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292972.wav|Anem a Millena.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292983.wav|Anem a Abella de la Conca.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19292990.wav|Anem a Roda de Berà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19293012.wav|Anem a Cunit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19293015.wav|Anem a Esterri d'Àneu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19293016.wav|Anem a Encamp.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19293151.wav|Anem a Subirats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19293153.wav|Anem a Palamós.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19293160.wav|Anem a Montbrió del Camp.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19299259.wav|Anem a Benasau.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19299260.wav|Anem a Arsèguel.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19299266.wav|Anem a Vilallonga del Camp.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304532.wav|Anem a Benirredrà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304534.wav|Anem a Gorga.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304535.wav|Anem a Forallac.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304547.wav|Anem a Alp.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304555.wav|Anem a Verdú.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304556.wav|Anem a Maspujols.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304560.wav|Anem a Callosa de Segura.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304581.wav|Anem a Soses.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304584.wav|Anem a Vilamacolum.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304625.wav|Anem a Granollers.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304635.wav|Anem a Castelldans.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304638.wav|Anem a Carcaixent.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304652.wav|Anem a Castellcir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304653.wav|Anem a Prat de Comte.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304654.wav|Anem a Montitxelvo.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304660.wav|Anem a Viladasens.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304690.wav|Anem a Orís.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304698.wav|Anem a la Selva de Mar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304760.wav|Anem a Almassora.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304765.wav|Anem a les Avellanes i Santa Linya.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304770.wav|Anem a Beneixama.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304784.wav|Anem a Benferri.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304787.wav|Anem a Granyanella.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304792.wav|Anem a Benafer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304795.wav|Anem a Monòver.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304806.wav|Anem a Torroella de Montgrí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304807.wav|Anem a Parlavà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304809.wav|Anem a es Migjorn Gran.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304815.wav|Anem a Montgai.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304891.wav|Anem a Puiggròs.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304892.wav|Anem a Barcelona.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304897.wav|Anem a Xèrica.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304899.wav|Anem a Benijòfar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304906.wav|Anem a Meliana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304909.wav|Anem a Balaguer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304918.wav|Anem a Portbou.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304937.wav|Anem a Talavera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304939.wav|Anem a Paterna.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304950.wav|Anem a Anglesola.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19304957.wav|Anem a Bugarra.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19306981.wav|Anem a la Tallada d'Empordà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19306983.wav|Anem a Sils.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19306984.wav|Anem a l'Ametlla del Vallès.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19306987.wav|Anem a Cabrera de Mar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19306998.wav|Anem a Balones.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307001.wav|Anem a Palau-saverdera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307007.wav|Anem a les Coves de Vinromà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307013.wav|Anem a Gaibiel.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307014.wav|Anem a Tortellà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307017.wav|Anem a Prats de Lluçanès.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307021.wav|Anem a Sant Joan d'Alacant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307023.wav|Anem a Riba-roja de Túria.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307137.wav|Anem a l'Armentera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307141.wav|Anem a la Vall d'en Bas.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307145.wav|Anem a Ventalló.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307153.wav|Anem a Gavarda.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19307154.wav|Anem a Silla.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318518.wav|Ja t'ho vaig dir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318519.wav|Qui menja caragols per Sant Joan no arriba a Sant Pere.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318520.wav|Anem a Roses.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318666.wav|A aquestes qualificacions se li sumaran les de la fase de concurs i determinarà l'ordre de prelació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318667.wav|Que bé si cada abella fóra d'un color distint!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318669.wav|D'amors el primer; de llunes, la de gener.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318673.wav|Si passa el termini sense haver-ne fet ús, es dictarà la resolució corresponent.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318674.wav|Eixos són rics, que tenen amics.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318689.wav|Inclou la totalitat de la comarca del Baix Segura.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318690.wav|La barca per al barquer i la terra per al masover.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318714.wav|"Diran que ""la força de les coses vol que els capacitats governin""."
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318717.wav|Com que ets un babau, et penses que tots els joves han de ser iguals que tu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318723.wav|No obstant això, l'aventura va durar sis mesos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318724.wav|M'hi vaig acostar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318727.wav|Correu, correu, minyons, que l'olla cou cigrons.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318734.wav|Anem a Castelló d'Empúries.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318749.wav|Passem a la cinquena votació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318754.wav|La realitat és ben diferent, ja que hi ha tasques molt definides amb els seus respectius responsables.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318765.wav|Germans, ni coques ni pans.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318788.wav|Al jugador que ho faça serà el primer a qui es cobrarà o l'últim a qui es pagarà, segons el cas.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318791.wav|Anem a Potries.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318794.wav|Anem a Fornalutx.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318796.wav|Anem a Vallfogona de Ripollès.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318797.wav|Anem a Onil.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318802.wav|Anem a Cinctorres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318804.wav|No és un expedient harmonitzat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318807.wav|El que menja verdura té la vida segura.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318809.wav|Anem a Benifallim.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318811.wav|Anem a Algaida.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19318813.wav|Copa plena, copa buida.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329236.wav|Any de figaflors, any de plors.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329266.wav|Però el que no té excusa és que t'hages venut, que t'hages lliurat com un parrac del carrer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329292.wav|Aquí és un dinar, què hi farem!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329296.wav|Si hi són, l'empresa té molt a guanyar i molt poc a perdre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329297.wav|Per Sant nin i Sant Non, pebrots i tomàquets.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329632.wav|Els crèdits publicats tenen el caràcter de màxims, no podent concedir-se ajudes una vegada esgotats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329635.wav|Anem a la Morera de Montsant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329640.wav|Vent de garbí? Bufa allà i pega ací.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329641.wav|Peleu els pèsols i separeu-los també.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329642.wav|Que Déu ens conserve a tots la salut, per a veure la processó.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329645.wav|Anem a Sitges.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329646.wav|Amor de senyor, aigua en cistella.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329649.wav|L'absència, encara que fóra momentània de l'ambulància, suposaria la suspensió de l'espectacle o activitat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329654.wav|Just a la sortida del pont ja hi ha el poble.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329660.wav|Vaig respirar a fons.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329661.wav|Pel maig, així com vaig.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329663.wav|La planta noble incloïa una sala de guàrdia voltada i diverses estances.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19329664.wav|Es deia Salamanca i es va prestar a assassinar Fring, el xilè.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368120.wav|Hi ha algunes semblances amb el Contra Corrent Equatorial de l'Oceà Índic i del Pacífic.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368121.wav|Té una única fulla basal que ix directament del rizoma.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368123.wav|Les portes són de coster de fusta i es conserven bé.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368132.wav|No hi ha hagut casos documentats de virus Zika en el subcontinent indi.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368141.wav|Els incidents que hi són relacionats poden no ajustar-se a les definicions esmentades més amunt.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368145.wav|És un conjunt format per l'ermita i la casa de l'ermità.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368149.wav|Va començar aprenent l'alemany i va acabar dominant les llengües eslaves.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368155.wav|Els quàquers van negociar una petita reserva separada en Territori Indi.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368162.wav|Era ben versat en cal·ligrafia, música, matemàtiques i astronomia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368163.wav|Té dues versions, una és un home-llop.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368164.wav|Es troba a Madagascar, Maurici, Moçambic i les Seychelles.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368173.wav|Algunes d'aquestes creacions entren de ple en el món de l'escultura on Boada s'havia format.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368175.wav|Va néixer en la colònia Guerrero de la capital mexicana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368176.wav|La sentència de deportació es podia executar a perpetuïtat o durant un període especificat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368185.wav|Els punts comuns s'identifiquen sobre cada imatge.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368198.wav|Va combinar la recerca i la didàctica.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368199.wav|Es creu que va ser la primera dona que va ensenyar en una universitat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368201.wav|La despulla s'indica normalment per un angle.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368202.wav|És Diplomat d'Estat Major de l'Aire i pilot de transport.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368219.wav|La seva capacitat és de més o menys quinze coques.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368225.wav|Poc després, hagueren de retirar-se, acompanyats de part de la població sèrbia de la ciutat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368227.wav|Són plantes dioiques i pol·linitzades pel vent.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368237.wav|És de marbre policrom, alternant filades de marbre clar i de marbre fosc.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368238.wav|El seu nom es presenta amb diferents variants.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368247.wav|Professor titular de mercats i vendes a l'Escola d'Administració d'Empreses de Barcelona.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368248.wav|Aquest problema fou solucionat amb la instal·lació d'un equip de control atmosfèric.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368261.wav|Va participar en diversos certàmens de poesia, i n'obtingué premis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368262.wav|En la cerca de territoris no exhaurits, els clans es desplaçaven cap a l'oest.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368263.wav|Es troba a Tailàndia, Laos i Cambodja.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368273.wav|El ventre era roig o groc, amb taques negres, blaves o verdes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368285.wav|Interiorment, hi ha una gran sala coberta per una volta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368289.wav|Pertany a Puigpardines, entitat de població del municipi de la Vall d'en Bas.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368309.wav|Encara que l'armada tailandesa va sofrir seriosos danys, els francesos van ser derrotats a terra.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368747.wav|El mantell es fon i forma magma més al fons de la placa predominant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368749.wav|Ermita d'una sola nau amb absis semicircular amb espitlleres al centre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368750.wav|Només amb les dents no es pot saber la seva mida.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368752.wav|Considera que el judaisme s'equivocà en interpretar literalment la Llei.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368762.wav|Després de la filmació va ser traslladat a França per estar al Saló de l'Automòbil.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368767.wav|Aquesta ciutat costanera de la Bretanya està envoltada per un cinturó de muralles.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368769.wav|Finalment, els efectes del canvi climàtic podrien ser una amenaça a llarg termini.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19368772.wav|És l'església troglodítica més gran conservada a Catalunya.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379214.wav|Capelleta votiva dedicada a la Mare de Déu dels Àngels.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379241.wav|L'autonomia en l'alimentació la proporcionen els cultius d'arròs de la part alta i la pesca.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379286.wav|De vegades se'l classifica com un subdialecte del kurd, però això és discutit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379288.wav|Dins seu hi ha el museu parroquial.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379293.wav|Es distribueix a força botigues de productes dietètics d'arreu del país.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379377.wav|Va ser un dels millors generals Tang.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379383.wav|Combes va ordenar utilitzar aquesta via pels avituallaments.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379399.wav|Visualment la ciutat moderna està dominada pels seus temples hindús, mesquites i esglésies.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379401.wav|Amb això es començava a aplanar el camí de l'alliberament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379480.wav|En ell hi desemboca el carrer del Forn i hi trobem La Botera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379491.wav|El Bloc de l'Est sol considerar-se idèntic al Pacte de Varsòvia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379492.wav|En endavant les relacions amb els britànics foren bones.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379547.wav|Això es va deure parcialment a la relativa escassetat d'hafni.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379548.wav|Professora de llengua alemanya en l'Institut Goethe i a l'Escola Oficial d'Idiomes de Barcelona.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379567.wav|És un fosfat hidroxilat i hidratat de ferro i Manganès.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379568.wav|Si el sistema es modifica amb canvis de maquinari importants, Windows requerirà una nova reactivació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379571.wav|Tres anys després viurà a Barcelona.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379643.wav|Del seu escut prové el de Castelló.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379645.wav|És molt resistent a la sequera i té un creixement lent en el cultiu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379652.wav|Els encontorns eren vinya als anys cinquanta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19379657.wav|Abans d'això, Íngria rebia diaris majoritàriament de Viborg.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19477647.wav|El seu finançament anà a càrrec de la Generalitat de Catalunya i l'Ajuntament de Lleida.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19477662.wav|També es fa palès en el topònim.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19477664.wav|Va tenir sempre per president el polític reusenc Bernat Torroja i Ortega.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19477666.wav|El Consell també sol·licitar informes continus sobre la situació a Haití al Secretari General.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19477667.wav|Ingerit en quantitats grans és nociu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19477676.wav|Els principals sectors econòmics de la vila són la pesca i la indústria alimentària.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19477680.wav|Tot canvia quan un dia entra en una botiga on es concedeixen desitjos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19534490.wav|Les rosetes també s'han utilitzat a condecoracions militars.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19534493.wav|Està connectat a Agulló i amb Àger per una pista asfaltada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_19534494.wav|L'interior està arrebossat i pintat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_21922581.wav|no
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_21922583.wav|dos
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_21922592.wav|nou
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_21922594.wav|vuit
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_21922598.wav|cinc
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_21922602.wav|sis
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_21922608.wav|La Companyia de Jesús augmentava quantitativament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_22773646.wav|Un noi és acusat erròniament de robar dins la seva escola.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_22773666.wav|Queda molt a prop, dessota i a llevant de la Pista de Caregue.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_22773682.wav|El seu cabell era de color ros fosc i els seus ulls eren blau cobalt.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_22773686.wav|Després de retirar-se de la natació va treballar com a venedor d'assegurances a Nova York.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_22773687.wav|També participà activament en política.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_22773695.wav|Fou pioner en la implantació de noves tècniques i el desenvolupament de la cirurgia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_22773708.wav|Amb el seu treball es va fer molt ric.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_22773721.wav|Utilitzava harmonies de color fred per crear forma en un estil lluminós de pintura.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_22773723.wav|L'argila també conté certes quantitats d'hidrocarburs sòlids i proporcions de sal bastant importants.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_25969908.wav|Es troba de forma natural com el mineral olivenita.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148272.wav|La meva filla es diu Mariona: ema, a, erra, i, o, ena, a.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148283.wav|el dos de juny he d'anar a Fonollosa amb autobús.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148285.wav|Com ho puc fer per anar al carrer Bosch i Gimpera cantonada Manso?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148287.wav|Va llençar un crit tot joiós
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148315.wav|dimarts hauria d'anar a Olesa de Montserrat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148331.wav|Els aspirants de les oposicions comencen amb una exposició oral.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148356.wav|el cinc d'agost he d'anar a Cambrils amb autobús.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148374.wav|Amb qui està casat el ciutadà romanès?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148376.wav|He d'anar al carrer del Cinca a peu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148421.wav|Quines botigues hi ha a la plaça de Bacardí?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148445.wav|Com ho puc fer per anar a Malgrat de Mar amb tren?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148454.wav|Marca el sis, setanta-tres, cinquanta-cinc, seixanta-cinc, catorze.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148462.wav|Què venen al carrer del Doctor Joaquín Albarrán número quaranta-dos?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148479.wav|El meu fill es diu Christian: ce, hac, erra, i, essa, te, i, a, ena.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30148546.wav|Telefona al sis, deu, vuitanta-nou, cinquanta-dos, vint-i-quatre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150425.wav|Què venen al carrer del Francolí número setanta-quatre?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150451.wav|M'agradaria anar a la Galera sense agafar el metro.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150456.wav|En aquelles valls ombrívoles, perpètuament entelades
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150479.wav|Tens algun estat de salut important?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150481.wav|Telefona a la Nisrin Balsells.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150571.wav|Quina botiga hi ha als jardins de Sofia Barat número trenta-tres?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150599.wav|He d'anar al carrer del General Castaños amb cotxe.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150696.wav|Com ho faig per anar a la carretera de Vallvidrera a Barcelona número trenta-sis?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150719.wav|Com puc anar a Vilanova de la Barca l'onze de juliol a la tarda?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150756.wav|Tenir una filla lesbiana no es garantia per fer-se ric.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150762.wav|Apunta el sis, setanta-vuit, cinquanta-set, seixanta-vuit, trenta-set com a telèfon de l'Albà Becerro.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150804.wav|M'agradaria anar al carrer del Bonaire sense agafar el cotxe.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150832.wav|Qui viu al carrer de l'Atlàntida número vint-i-dos?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150834.wav|La meva mare es diu Aïna Enciso: e, ena, ce, i, essa, o.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150835.wav|Torra ofereix diàleg a Rajoy
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150840.wav|De qui va celebrar la mort el detingut?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150855.wav|Hi ha algun negoci al carrer Bruc cantonada Bruc?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150892.wav|el vint-i-tres de maig hauria d'anar a Colera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150893.wav|Clicar és l'operació més habitual quan s'usa un ordinador.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150913.wav|Com puc anar al carrer de n'Alsina número noranta-nou?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150917.wav|Afegeix a l'agenda el número del Nicolàs Mercado: sis, vuitanta-nou, dinou, setanta-cinc, zero, vuit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150922.wav|Vaig a la plaça de les Corts.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150935.wav|Quines botigues hi ha al carrer de Sant Feliu de Guíxols?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150940.wav|Qui va ser anomenat bisbes de la ciutat?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150941.wav|Hauria d'anar al passatge d'en Sagristà número disset.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150986.wav|A qui han detingut quan ha acabat la concentració?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30150985.wav|Com es fa per anar del carrer de Bellafila al carrer d'Agustí Duran i Sanpere?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30151016.wav|Apunta el sis, quaranta, cinquanta, vint-i-quatre, vint-i-cinc com a telèfon de l'Agnès Doñate.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30151012.wav|Apunta a l'agenda el número de l'Andrés Corchero: sis, trenta-sis, vint-i-vuit, vuitanta-quatre, vint-i-dos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30151068.wav|Què es va desenvolupar sota el regnat de Justinià?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30151069.wav|Vull anar al carrer de Casp sense agafar el metro.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30151105.wav|La indústria té unes dinàmiques complicades.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_30151107.wav|Em dic Muhammad Cardenal: ce, a, erra, de, e, ena, a, ela.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367671.wav|Finalment, l'annex conté una descripció ordenada d'àmbits, subàmbits i objectius d'activitat estadística del Pla.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367674.wav|Igualment fan rotació de manera consecutiva en horari de matí, tarda i nit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367687.wav|Tenia ganes de plorar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367706.wav|Comunicar-ho a l'Ajuntament de Sant Adrià de Besòs, al promotor i, si escau, als propietaris afectats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367707.wav|Els seus efectes deixaran de produir-se una vegada finalitzin les obres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367708.wav|Els elements d'attrezzo i vestuari que afecten la caracterització i la seva presència en el disseny.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367709.wav|Així mateix, s'obre convocatòria de licitació del contracte, condicionada al que resulti de l'aprovació del Plec.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367762.wav|I a tu?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367763.wav|Els centres de nova posada en funcionament amb efectes d'u de setembre de dos mil disset hi consten amb anotació específica.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367765.wav|Em vaig incorporar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367766.wav|La secretària de l'Ajuntament de Cabrils o personal que substitueixi.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367768.wav|Sí i no.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367770.wav|Ho decreta i signa el senyor Alcalde a la vila de Súria, davant meu, el secretari accidental.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367777.wav|Somrigué.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367784.wav|Era allà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367790.wav|No va servir de res.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367792.wav|En cas de pròrroga, les parts podran introduir les modificacions no substancials que considerin oportunes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367811.wav|Encara.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367827.wav|És impressionant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367828.wav|Què van fer?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17367829.wav|El pes per als homes serà de trenta-cinc quilos i vint-i-cinc quilos per a les dones.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368304.wav|No ho crec.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368307.wav|Ben cert.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368404.wav|La fase d'oposició abastarà les proves que tot seguit es detallen.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368406.wav|De què es tracta?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368414.wav|Està entès?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368429.wav|Però res.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368438.wav|Poca broma.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368439.wav|Encarregat d'empreses que fan treballs de lluita contra plagues i malalties forestals.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368459.wav|Cal ser-hi present trenta minuts abans.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368460.wav|Elabora propostes d'accés, avaluació i tria documental dels processos electrònics del Departament.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368471.wav|El coneixia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368476.wav|A tot diu que sí i a vegades té problemes per posar límits.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368483.wav|El caràcter pacífic i integrador que tots ells manifesten ha de continuar sent un model a seguir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368484.wav|Aquesta liquidació no implicarà la liquidació si continua treballant per a l'empresa cessant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368491.wav|La seva composició dependrà de les actuacions que hagi de dur a terme cada treballador.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368499.wav|Contracta i controla l'execució d'obres menors i supervisa el seguiment de contractes d'altres obres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368503.wav|A més, suposaria augmentar molt l'àmbit d'actuació i l'impacte produït.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368504.wav|Res a dir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368509.wav|Fotocòpia del contracte subscrit amb l'empresa que distribuirà la revista fora del domini lingüístic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368517.wav|No podia fer altra cosa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368521.wav|Molt millor.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368535.wav|Tot és possible.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368538.wav|El cor se m'accelera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368542.wav|Elabora les memòries de programes que acompanyen la proposta econòmica del pressupost.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368545.wav|Què tal?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368547.wav|Endavant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368548.wav|Tan segura.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368549.wav|Caldrà fixar una relació amplada alçada de les tribunes, que haurà de ser dos terços.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368554.wav|Deixa'm anar!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368555.wav|El vaig seguir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368559.wav|La setmana en la qual se celebri la Fira de la Candelera no hi haurà Encants.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368562.wav|Dubtava.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368578.wav|Descriu els indicadors que utilitza per avaluar la seva activitat: un punt.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368583.wav|L'entrada d'aigües és subterrània i la sortida bombada per bombes submergides.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368584.wav|La competència per a l'aprovació inicial dels reglaments és de la Junta de Govern.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368585.wav|Fomenta i coordina l'actuació dels diversos òrgans col·legiats dels centres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368587.wav|Oh.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368590.wav|T'escolto.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368600.wav|Va tancar els ulls.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368601.wav|Els drets i obligacions derivades del present Conveni no podran ser cedits.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368605.wav|En cas contrari, el Consell Plenari disposarà del termini d'un mes per resoldre-les.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368606.wav|Què et penses?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368608.wav|Sol.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368609.wav|Es valoraran els mèrits que siguin al·legats i justificats d'acord amb el barem que segueix a continuació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368610.wav|En cap cas podran ser cedides per interessos privats o comercials.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368648.wav|Assumirà la presidència el jutge de pau, i les funcions pròpies de la secretaria, el secretari municipal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368662.wav|El lliurament i la replega l'efectuarà una tercera persona mentre dure la prohibició d'aproximació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368667.wav|Anem al menjador; allí fresqueja.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368671.wav|Moltes miques fan un tros.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368672.wav|A la primera, el rei perdona; a la segona, catxamona.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368673.wav|Prou!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368674.wav|Qui fa el foc paga l'escot.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368678.wav|I també aquest li tapa la vista a les dependències de la seua fundació filantròpica.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368681.wav|Molt soroll i poques nous.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368683.wav|Si no és així, cap intent per canviar-la tindria sentit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368684.wav|L'entorn inclou terrenys incultes ocupats per canyissars i algun antic canalet de drenatge de reduïdes dimensions.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368686.wav|Fa demostracions de venda de serveis i productes d'imatge personal aplicant-hi les tècniques específiques.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368687.wav|No hi ha temps.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368688.wav|Coordina accions promocionals i de difusió dels productes agroalimentaris.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368692.wav|En aplegar el bon temps, sortien dels gerros on vivien les tiges desmaiades de l'agret.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368696.wav|La valoració serà entre zero i cinc punts.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368700.wav|L'òrgan que hagi resolt, estimarà o desestimarà les reclamacions formulades.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368702.wav|En aquest punt, seguirem carrer amunt, en direcció nord, fins a l'avinguda de Roses.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368703.wav|Viure per a veure.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368708.wav|Hem assolit el punt extrem; reculem.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368710.wav|L'àmbit de la modificació afecta sòl urbà del vigent pla general de Castalla.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368711.wav|Cal fer una gran divisió entre els partits.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368714.wav|No t'agradin les dones, que freqüenten aplecs i bodes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368718.wav|Pinetells i rovellons s'amaguen pels racons.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368724.wav|Tornem al nostre exemple.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368731.wav|Al boig i a l'aire, donar-los ample.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17368732.wav|Perdó!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17370189.wav|La proposta de la comissió té caràcter vinculant per a l'òrgan competent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17370194.wav|És clar que no.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17370196.wav|La lluna de gener fa sortir la formiga del formiguer.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17370198.wav|Els serveis fets al públic, siguin els que siguin, es paguen.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17370203.wav|No hi va haver cap resposta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17370205.wav|A l'hora del pati es jugava a futbol, amb les pilotes de drap, tal com us he dit, que era tota una especialitat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371257.wav|Ador: vint d'agost i vint-i-u d'agost, Mare de Déu del Loreto i Santíssim Crist de l'Empar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371260.wav|A continuació, es porta a un alimentador vibrant que descarrega l'argila selectivament en sitges.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371269.wav|Si ho fa, el llançament es considerarà nul, i no es podrà tornar a repetir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371271.wav|Queden exempts de realitzar-la aquells que, en aquest període, l'hagen superat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371283.wav|El conductor de l'animal retirarà els excrements i netejarà la part de la via pública que resulti afectada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371284.wav|I per què.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371296.wav|No sé què dir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371300.wav|Elabora propostes d'assessorament en usos socials adaptant-les a les demandes dels clients.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371303.wav|Per què a mi?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371305.wav|El segon.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371315.wav|Oposar-se a aquells assumptes litigiosos i recursos de qualsevol classe, grau o jurisdicció que sigui demanada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371322.wav|Els pares s'obliguen formalment a lliurar i recollir puntualment els seus fills a la parada que els correspongui.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371331.wav|Aquest nombre serà el que s'indiqui a la resolució d'atorgament.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371335.wav|No hi és.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371371.wav|No, gens.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371374.wav|El segon cop que rebutgi l'oferta en aquestes condicions passarà al darrer lloc de la borsa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371375.wav|Tampoc no cal aportar el volant de convivència de la unitat econòmica familiar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371381.wav|A mala hora, el gos no lladra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371394.wav|El termini de garantia es perllonga fins que l'informe és favorable.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371395.wav|Donar publicitat per mitjans telemàtics de la present resolució, la qual podrà consultar-se a la web municipal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371396.wav|El període d'acollida a Catalunya dels Defensors i Defensores dels Drets Humans serà de sis mesos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371399.wav|Què puc fer?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371400.wav|I és cert.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371402.wav|Cada convocatòria determina el màxim de contractes a subvencionar per a cada tipus d'entitat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371407.wav|Actuarà com a secretari del Tribunal el vicesecretari de l'Ajuntament.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371420.wav|En què el puc ajudar?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371432.wav|Li correspon fer tots els actes d'instrucció necessaris per a la resolució del procediment.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371450.wav|Les cadires seran de tipus individual.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371451.wav|La plaça no ocupada per l'aspirant que no presente la documentació quedarà vacant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371452.wav|La taula adjunta indica ja el resultat d'aquesta multiplicació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371463.wav|L'òrgan instructor és el gerent de l'Institut Ramon Llull.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371471.wav|Així mateix, hi figuraran els no finançats i l'especificació dels motius de l'exclusió.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371477.wav|Em mira fixament.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371487.wav|La fase d'oposició consistirà en exercicis obligatoris i eliminatoris, que seran teòrics i pràctics.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371495.wav|Únicament són objecte de valoració els tres primers autors consignats en la publicació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371500.wav|A Sant Jaume i Santa Anna, raïm en la plana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371502.wav|No vaig saber què dir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371504.wav|Sou: mil sis-cents seixanta-quatre coma vint-i-quatre euros.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371510.wav|Que tres dels membres doctors que componen el grup de recerca sumin un mínim de deu trams de recerca.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371516.wav|Correu!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371522.wav|La magnitud dels efectes positius dependrà de l'adequada aplicació d'aquests.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371527.wav|No s'admetrà l'empresa que presenti un patrimoni net negatiu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371530.wav|Ca!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371533.wav|A bou flac tot són mosques.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371535.wav|Es realitzarà una nova prospecció botànica per a assegurar-se que no hi ha espècies prioritàries.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371536.wav|Contacta amb juntes de col·legis professionals per detectar les problemàtiques que els afecten.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371539.wav|Quan es retiren conjuntament més d'una fracció caldrà detallar les quantitats per cada una d'elles.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371540.wav|La resolució que s'adopti podrà ser recorreguda seguint les previsions d'aquests Estatuts.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371541.wav|El torn C diürn de jornada completa, també gaudirà dels cinc dies més quaranta hores esmentades.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371545.wav|I perquè conste i tinga els efectes oportuns, es lliura el present edicte.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371546.wav|La piscina es troba en un recinte tancat que consta a més d'una zona de gespa i de vestidors.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371547.wav|En el cas que no s'emeta resolució en el termini de quinze dies, el silenci tindrà efecte estimatori.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371561.wav|Les dades es presenten en l'àmbit municipal i sempre que és possible per districte, barri o secció censal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371565.wav|Tot això amb subjecció al que preveu l'ordre mencionada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371569.wav|No hi va haver manera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371571.wav|No poden tindre vinculació de caràcter funcionarial, estatutari o contractual amb l'entitat beneficiària.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371572.wav|Sap una cosa?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371573.wav|A l'olor del dot, acudix el borinot.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17371574.wav|Eviteu doblegar el paper i fer-hi correccions, esmenes o ratllades.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372659.wav|L'abastament d'aigua de l'explotació provindrà de la xarxa de reg del canal d'Urgell.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372660.wav|Es va fer un llarg silenci.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372694.wav|Passi.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372696.wav|I saps què?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372729.wav|I què va passar?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372755.wav|Amics i rellotges de sol, sense núvols sí, amb núvols no.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372756.wav|S'hauran de preveure les connexions d'aquestes canalitzacions amb les instal·lacions existents si és el cas.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372758.wav|Re més.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372777.wav|No pertoca atribuir l'ús del domicili particular.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372812.wav|Boira en la penya, aigua en l'esquena.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372814.wav|Per què…?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372815.wav|Cada criatura que neix es porta un pa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372854.wav|Sí, potser sí.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17372855.wav|On anem?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374589.wav|Bé canta, però mal entona.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374592.wav|La resta de la seva jornada, la persona tècnica la dedicarà a realitzar les actuacions que li exigeix el programa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374613.wav|Et perdono.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374616.wav|Bon dia tingui.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374624.wav|Ja vinc!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374626.wav|Si el projecte genera recursos o materials didàctics se n'haurà d'indicar qui són els autors.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374627.wav|Aquesta resolució es podrà impugnar de la manera que estableix la base deu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374633.wav|Em quedo bocabadada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374637.wav|Beata, si l'amor no ho desbarata.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374641.wav|Això és molt important.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374642.wav|La resolució que resolgui el recurs d'alçada exhaureix la via administrativa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374644.wav|S'hi accedeix per les escales i ascensors de què consta l'edifici.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374652.wav|Estructura organitzativa de l'entitat: nombre de professionals de l'entitat i lloc de treball que ocupen.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374653.wav|És vostè?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374654.wav|El programa oferit consistirà en l'allotjament i la pensió alimentària completa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374657.wav|Potser massa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374659.wav|Quant de temps?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374662.wav|Al bé, buscar-lo; al mal, espantar-lo.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374665.wav|Al setembre, qui tinga blat que sembre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374667.wav|Aneu amb compte!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374677.wav|A nau foradada, tot vent li és contrari.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374679.wav|La composició del tribunal tendirà a la paritat entre dones i hòmens.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374682.wav|Ho comprenc.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374684.wav|Però no ho vaig fer.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374685.wav|Oi que sí?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374688.wav|I què fem?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374692.wav|Depenen orgànicament de la Sotssecretaria, l'Àrea d'Inspecció del Territori i l'Àrea de Planificació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374704.wav|Ho pots fer.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374723.wav|Finalment, l'establiment està a menys de cent metres al nord del Revardit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374735.wav|Ets aquí.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374737.wav|El professorat que no haja assolit l'aptitud podrà obtindre una certificació d'assistència al curs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374739.wav|Ara me'n recordo.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374740.wav|La dosi màxima d'aplicació no superarà els cent setanta quilos de nitrogen per hectàrea i any.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374752.wav|Bona sort.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374754.wav|Es va esgarrifar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374756.wav|Fugiu!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374758.wav|Constituïx la base imposable de la taxa el valor de la primera venda de la pesca fresca subhastada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374767.wav|No tinc gana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374769.wav|L'exposició podrà donar lloc a la petició d'ampliacions, preguntes i comentaris.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374770.wav|Té una superfície construïda de cinc-cents seixanta metres quadrats en cada planta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374774.wav|Un.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374775.wav|Al dit sector li correspon un percentatge de vot ponderat del dèsset coma setanta per cent del total.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374779.wav|Realitza la justificació d'altres pagaments fets amb el fons de maniobra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374782.wav|Si els promotors són persones físiques, han d'adjuntar-hi fotocòpia confrontada del document nacional d'identitat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374783.wav|Pel que fa a la resta de centres es respectarà el que disposi cada Ajuntament.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374785.wav|A menjar curt, vi pur.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17374792.wav|Si s'utilitzen productes vinculats a recursos locals i creen sinergies, vint-i-cinc punts addicionals.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376754.wav|A cada porta, la seva clau.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376761.wav|Es consideraren només projectes la inversió dels quals siga superior a sis mil euros.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376764.wav|No podrà presentar-se més d'una sol·licitud per persona física o jurídica.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376768.wav|Reserveu-los.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376769.wav|Cauen així en la indolència més que en la disbauxa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376774.wav|El que precedeix s'aplica a totes les nacions democràtiques.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376784.wav|Poseu-les en un plat de sopa, poseu-hi sal, un pols de pebre i la copa de conyac.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376785.wav|Ostres, no!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376803.wav|La dita antena té l'origen en la posició tres del gasoducte de transport secundari Marina Alta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376804.wav|Descansa sobre la més elemental norma d'equilibri entre natura i temps equinoccial.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376812.wav|No enveges res de ningú, procura guanyar-ho tu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376814.wav|La constància tot ho venç.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376815.wav|Enganya la medicina en el nom.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376842.wav|El Servei de Recursos Humans gestiona de manera centralitzada les despeses de personal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376856.wav|Per últim, les veus de fra Bernat, fra Rufí i fra Silvestre corresponen totes a la tessitura de baix.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376857.wav|Res d'això trobem en el precepte qüestionat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17376858.wav|Es pot comprovar de la seua lectura, doncs, que l'esperit estatutari és, clarament, molt municipalista.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17377054.wav|El model de sol·licitud d'horari alternatiu d'examen és el model de l'annex quatre d'aquesta resolució.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17377055.wav|Això és el que revela el present.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17377128.wav|A l'estiu, tavernera; a l'hivern, fornera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17377130.wav|Ningú s'alabi del blat, fins que el maig sigui acabat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17377139.wav|No li va fer cas.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17377140.wav|Inclourà mesuraments in situ diferenciats dels principals equips i consums energètics de l'edifici.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17377141.wav|Ho intentaré.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17377142.wav|El procediment selectiu serà el d'oposició per al torn lliure i concurs per al torn de mobilitat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17377144.wav|El que més recordo era el carabassó tallat a rodelles i fregit, que al pare li encantava.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17377147.wav|No et pareix prou?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383543.wav|Considerar les diferents situacions que plantegen les llengües en contacte.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383564.wav|Les construccions són normalment de caràcter agrícola i es troben molt disperses.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383566.wav|Estava bé; cada u a la seua: l'un al llac i l'altre a esclafar terrossos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383572.wav|Almenys no el trobe en l'entorn que m'és més proper i familiar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383588.wav|Llamps a la mar, vent a la terra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383590.wav|A l'escudella i pitança, bufar-la és mala criança.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383591.wav|L'import de l'ajuda anirà destinat a la campanya anomenada «El Nadal és valencià».
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383612.wav|El temps que ens toca viure redueix moltes qüestions a la simplificació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383619.wav|No hi ha cap religió que no llance invectives contra el fast i el luxe.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383620.wav|Ja m'ho ha dit un dels metges, però necessitava veure'l per a convèncer-me.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383630.wav|On hi ha burro mort no faltaran corbs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383631.wav|Provem de rectificar aquesta visió incompleta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383633.wav|Per Santa Llúcia, l'oli torna a l'oliva.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383643.wav|Que lleig seria que, per qualsevol motiu o contrarietat, començàrem a trinar malament dels altres!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383644.wav|Cada part abonarà les costes processals causades a la seua instància i les comunes a mitges.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383646.wav|Besos de minyons, amors de plorons.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383658.wav|Aquests són els esculls naturals de la literatura en les aristocràcies.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383659.wav|Aquí és Francesc qui s'adreça als ocells.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383662.wav|València és més del que sembla en els mitjans de comunicació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383675.wav|Com ha estat?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17383676.wav|Qui espines sembra, descalç no vaja.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394211.wav|Qui no posa el ventre en perill no mor fart.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394222.wav|El confús embull d'arrels donava una aparença de solidesa als massissos de canyes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394225.wav|Una vegada i una altra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394237.wav|Totes les lletges es casen pel maig.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394239.wav|Funció: permet veure a mitjana o llarga distància perquè augmenta la imatge i l'apropa a la vista.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394248.wav|En aquesta escena, ens presenta l'obra poètica de sant Francesc.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394250.wav|Sempre que entrava a l'habitació me'l mirava i em feia pena.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394251.wav|Quimet ha posat l'ordinador en marxa i descobreix les respostes rebudes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394252.wav|Rojor al vespre, el sol a la finestra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394255.wav|«Senyora Lourdes», li deia una pagesa tot ensenyant-li un parell de pollastres, «aquests fan per vostè».
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394264.wav|Es reuniran les vegades que siguen necessàries, com a mínim una per mes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394265.wav|Era tipogràfica, era mecànica i era electrònica.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394277.wav|Bona pregunta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394280.wav|Fer fotocòpies i enviar faxos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394281.wav|Guardeu-vos de la pols de maig i del fang d'agost.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394283.wav|Detectarà les dificultats dels projectes a través del seguiment administratiu i financer.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394291.wav|No poden mentir d'això la potència dels seus cups i els trulls de pedra picada que bullen d'activitat a la tardor.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394295.wav|És per això?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394299.wav|Qualsevol quantitat que el Col·legi percebi pels serveis prestats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394300.wav|No passa igual al Sud.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394312.wav|Per l'avaluació de Pasqua no estaria gens malament, però, per quin motiu?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394313.wav|De bona fusta vénen les castanyetes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394314.wav|Les finestres, que eren reixades, les obrien quan feia bo, i se sentia xivarri de nens que cridaven.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394316.wav|Els candidats poden ser centrals de compres, associacions, federacions i gremis sectorials de comerç i de serveis.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394318.wav|Castiga al bo, i millorarà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394332.wav|El cronòmetre es posarà en marxa quan la persona aspirant iniciï la cursa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394333.wav|Les bogeries que se sembren per Carnestoltes es cullen per Tots Sants.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394334.wav|El valencianisme considera Espanya i l'espanyolitat elements aliens a la societat valenciana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394337.wav|Això és el que l'exemple dels americans finalment demostra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394338.wav|No veig res.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394345.wav|Talleu els pebrots a talls petits.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394347.wav|La part més antiga de l'església és el campanar, amb elements més arcaics que la resta de l'obra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394348.wav|Aquests alumnes tenen la continuïtat garantida, però no l'horari per al nou curs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394354.wav|El que està fart mai se'n recorda del que està en dejú.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394355.wav|I perquè servisca de notificació a la interessada mencionada anteriorment, s'expedeix el present edicte.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394359.wav|Tornem-hi que no ha estat res.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394372.wav|Que la Generalitat Valenciana té prevista la posada en marxa de programes de les característiques apuntades.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394374.wav|L'abundància mata la fam.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17394377.wav|En el cas que quedi vacant el càrrec de degà, l'assumirà interinament el vicedegà o la vicedegana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399497.wav|Representants o apoderats dels col·lectius que sol·liciten subvencions a la DG de la Dona.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399498.wav|Data resolució: quinze de setembre de dos mil sis.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399511.wav|Qui a mon fill moca, a mi em besa en la boca.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399562.wav|Vaig aturar-me.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399565.wav|Per al·lusions.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399566.wav|Eren uns signes totalment desconeguts.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399573.wav|Per la Mare de Déu de setembre, els raïms ja són bons per prendre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399575.wav|Si el període de dedicació abasta més d'un any natural, s'haurà de disposar de totes les nòmines d'aquests anys.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399582.wav|Estava sol al món; no tenia mare.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399584.wav|Però tampoc no cal allunyar-se massa geogràficament per a comprovar-ho de manera alarmant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399586.wav|Inclouen tant personal amb contracte indefinit com becaris.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399591.wav|El nét volia complir la seua paraula?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399603.wav|L'estimava; però la riquesa li donava sobre ell una gran superioritat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399609.wav|Això il·lustra vivament la qüestió que ens ocupa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399611.wav|La música no fa dol.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399618.wav|Serà l'encarregat de desenvolupar la totalitat de la gestió del Programa d'Arranjament d'Habitatges.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399619.wav|Però vull admetre que la subvenció anirà tota a pintors, decoradors, sastres, perruquers, etcètera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399626.wav|Som ateus.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399633.wav|Sovint li manca prudència i previsió, perquè ho pot fer tot.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399642.wav|Han de combatre els elements adversos, tenen caràcter i fan el cor fort.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399647.wav|La inclusió dels camins més pròxims des d'on és possible la contemplació del monument.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17399654.wav|La fàbrica és de tàpia i maçoneria a la manera de les tècniques de construcció àrabs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17400099.wav|Costa més alimentar un vici que criar dos fills.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17400113.wav|Poseu a coure la ceba picada a la mateixa cassola durant uns quinze minuts.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17400115.wav|Els residus que no complisquen aquests requisits hauran de ser gestionats per empreses certificades.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17400117.wav|Viatjar o volar és una forma d'aprendre, d'adquirir coneixements.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17400124.wav|Bé sap el gat la barba que llepa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17400127.wav|Només era qüestió de temps.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17400135.wav|No volia regirar el fang, amb perill de fer pública la deshonra de la família.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17400136.wav|A qui el cap li creix, el cervell se li encongeix.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17430985.wav|La barca lliscava per sequiols tranquils, d'una aigua groguenca, amb els reflexos daurats del te.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17430989.wav|Tal com canta el rector respon l'escolà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17430990.wav|La separació del Consorci d'alguna de les entitats consorciades pot fer-se amb un preavís d'un any.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17430993.wav|Els usuaris avançats les podran personalitzar tant com vulguin, modificant-ne l'estil, les plantilles, etc.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17430997.wav|Atés al que establixen els articles quaranta-cinc i quaranta-sis de la Llei reguladora de l'activitat urbanística.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444743.wav|Per això caldria programar una graella de varietats amb participació de gent diferent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444754.wav|On viu?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444760.wav|La vegetació de l'Albufera ho tapa tot.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444768.wav|A un bon altar no li calen floretes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444770.wav|Així, una consulta rebuda per la ràdio pot ser resposta per la Xarxa i a l'inrevés.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444776.wav|Però que desgraciada era!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444777.wav|Quan Sant Llorenç porta capa, la pluja no s'escapa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444780.wav|Hi ha la unanimitat que neix de la realitat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444785.wav|Això no prova més que una cosa, que en aquest país el legislador és inconseqüent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444791.wav|Aniràs i vindràs i mai arribaràs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444793.wav|Això mereix una atenció molt seriosa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444797.wav|A vegades és molt impulsiu però no és una característica constant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444808.wav|Val més el fum de casa meva que el foc de la teva.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444810.wav|Amb el seu treball i les seues aportacions, el partit podia mantindre's operatiu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444815.wav|No són subvencionables els portals i pàgines web dedicades a la comunicació de projectes literaris específics.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444825.wav|Segons el meu fillol Albert, aquesta truita de farina que fa l'àvia és «la millor del món».
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444827.wav|Durant el període esmentat poden formular-se les al·legacions que estimen convenients els interessats legítims.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444828.wav|Comprendre textos referits a anuncis d'allotjament i les abreviatures que apareguen en l'anunci.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444846.wav|S'ha comprovat que tenir aquests socis a prop dóna un avantatge significatiu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444847.wav|Per Sant Joan les olives són com grans de sal; i, per Sant Pere, com grans de pebre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444850.wav|Tan sols eren uns pams, però com que ell no havia volat mai, allò el va sorprendre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444858.wav|"Per consegüent, en l'annex A caldrà afegir les seues dades i una ""fitxa d'associació""."
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444859.wav|L'avi presenciava immòbil la maniobra, sense ajudar-lo.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444860.wav|Què feien aïllats tots dos homes en la solitud de la vella barraca?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444872.wav|L'arc de Sant Martí al vespre, la pluja està llesta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444873.wav|Així anomenava l'àvia l'ajuntament.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17444888.wav|Comunicar la bibliografia generada pels estudis dels jaciments que puguin ser objecte de la subvenció.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454235.wav|Només interessen els de més a prop.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454238.wav|Millora en el rendiment.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454240.wav|El que no deixa, deixar-ho.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454248.wav|Declarar que coneixen les condicions generals i particulars de la subhasta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454257.wav|De què parlem?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454258.wav|L'home es casa quan vol, i la dona quan pot.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454259.wav|Sens dubte, el cas italià és, per moltes raons, un referent important.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454261.wav|Fes bé i no facis mal, que altra cosa no et cal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454262.wav|La sospita que tant la molestava reapareixia en boca del seu germà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454263.wav|Hi ha dos blocs diferents segons la matèria objecte de debat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454273.wav|I el seu ús és indiscriminadament lliure, per la qual cosa no cal témer les amenaces del Programari Legal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454275.wav|Tanmateix, cal relativitzar l'èxit de Softcatalà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454287.wav|Dins d'aquest cercle, la Unió és sobirana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454293.wav|Les expressions bàsiques, els músculs que hi intervenen, les combinacions i les possibilitats expressives.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17454323.wav|No, no podia ser.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458788.wav|Al Prat de Cabanes-Torreblanca nien diverses espècies d'aus destacables.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458793.wav|Casa que pugues viure, terra que pugues veure.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458794.wav|Es va posar a riure.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458797.wav|També permet aplicar-hi millores.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458798.wav|Softcatalà es pot dir que és un servidor, un ordinador.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458799.wav|Jo estic ací baix i et sostindré.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458800.wav|Si no plora el cel, no riu la terra amb flors.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458802.wav|L'ordre de crida dels aspirants començarà amb la lletra B.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458804.wav|Alguna cosa et porta ací.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458807.wav|Any de bacores, poc de forment.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458808.wav|Qui romp es vidre el paga.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458813.wav|Si canta la granota pel gener, tanca el graner.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458815.wav|Anem tots dos al vagó cafeteria i fem petar la xerrada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458820.wav|Era el recinte secret on jo amagava els regals dels meus germans petits en vigílies de Reis.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458822.wav|Com ara què?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458824.wav|No li agradava.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458831.wav|De la demanda es desprèn que en el matrimoni no existeixen fills, menors o incapacitats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458832.wav|S'estableix així una separació total entre allò que és Espanya i allò que són els valencians.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458835.wav|Amb això n'hi havia prou.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458836.wav|Si l'habitatge és de propietat: nota simple informativa actualitzada del Registre de la Propietat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458840.wav|Qualsevol full de càlcul permet calcular immediatament aquestes equacions.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458841.wav|Això és massa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458842.wav|Els llibres fan molts savis, però pocs rics.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17458843.wav|No et moguis!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478521.wav|Pere ja és vell per a tindre cervell.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478524.wav|Qui té duros fuma puros i qui no en té fuma paper.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478526.wav|Acceptaria un ajuntament valencià un gestor d'arxius amb un missatge com imprimeixi?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478527.wav|Pel març, les xarxes a la mar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478528.wav|L'avar, la mar i la flama, com més té, més brama.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478532.wav|L'eixida de la plaça era lenta, desmaiada, i contrastava amb l'arribada, sorollosa com una invasió.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478535.wav|Hi haurà un mínim de tres exercicis diferents en aquesta part, un dels quals serà d'interpretació instrumental.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478543.wav|On ets?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478558.wav|El seu desig era omplir d'un sol colp aquell racó del llac on son pare cercava la riquesa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478561.wav|El despotisme de les faccions no és menys temible que el d'un home.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478562.wav|En diumenge treballar, més s'hi perd que hi va a guanyar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478563.wav|L'aigua de gener ompli el paller.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478564.wav|Per la tardor, ni fred ni calor.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478567.wav|Ens han donat un vehicle amb l'interruptor de la bomba malament i ho sabien.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478570.wav|Qualsevol altra funció de naturalesa anàloga que se li encarregui.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478574.wav|Nivell de representativitat de l'entitat en relació amb el sector que representa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17478578.wav|Consisteix en una prova per valorar la idoneïtat del candidat al perfil cercat en la provisió d'aquesta plaça.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488680.wav|El seu eix de ferro de forja fa vint-i-huit centímetres de llarg i un centímetre de diàmetre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488723.wav|El porc i el noble, per la classe es coneixen.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488729.wav|Als bons els aparellen.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488733.wav|La regió és concebuda com un objecte sobre el qual la nació com a subjecte actua.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488736.wav|Hem fet una llista de les coses que cal fer, i per damunt de tot, com fer-les.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488740.wav|Els mesos de febrer i març són els més ventosos, amb vents dominants de ponent i garbí.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488741.wav|Així ho disposa i signa l'alcalde, en el dia d'avui, de la qual cosa jo, com a secretària habilitada, en dono fe.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488757.wav|Ací teniu les idees generals que es poden extraure d'aquest examen.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488758.wav|Al maig, el favar, primerenc o tardà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488761.wav|La Secció de Documentació passa a denominar-se Secció d'Informació i Documentació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488764.wav|Ella parlava per ell, aconsellant-li com una mare perquè fera tot el que li manaven aquells senyors.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488765.wav|El meu fill.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488769.wav|Així mateix, han de suportar les molèsties que els siguin produïdes durant la col·locació de les plaques.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17488779.wav|Els concursants seran els responsables de comprovar i verificar l'exactitud de les dades.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17507576.wav|A mi tampoc.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17507577.wav|A casa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17507611.wav|Un desastre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17507617.wav|Al cartell hi ha de constar el text “beques Carnet Jove” i l'any de la convocatòria que pertoqui.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17507619.wav|Tot encaixava.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511928.wav|Coneixent-se millor, les diverses parts de la Unió s'han aproximat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511944.wav|De bon matí vent de terra i cap al vespre vent de mar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511947.wav|Nosaltres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511957.wav|La Universitat podrà disposar de patrimoni cedit per altres administracions públiques per a complir els seus fins.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511963.wav|A la viuda, tot li piula.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511966.wav|Gener fredolic entra bufant els dits.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511967.wav|Aquesta convocatòria, si escau, es publicarà juntament amb els resultats de la primera fase.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511969.wav|I què més!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511971.wav|L'argument mereix una explicació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511972.wav|Cap ni una.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511983.wav|La nostra relació és respectar les nostres diferències i mantenir-nos cadascun en el seu terreny.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511984.wav|Cabra avesada a saltar, fa de mal desvesar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511992.wav|Per menjar massa picant, molts al cementeri van.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17511995.wav|Llavors li feia una nansa i ja estava a punt.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17512013.wav|El nomenament tindrà una validesa de dos anys, i pot renovar-se successivament.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17512014.wav|De llibres i paraigües, no en deixes gaires.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17512015.wav|La comissió de valoració pot determinar la conveniència d'utilitzar altres mitjans només a l'efecte d'informació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544166.wav|Que si no es podia opinar al clar del dia, res no impedia mormolar a la barra catxa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544169.wav|Aigües de juny, mals solen dur.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544181.wav|Quines despeses feia ell, vejam?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544182.wav|L'amplada de banda està en boca de tots com un problema que pot crear la tan temuda fractura digital.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544183.wav|L'oli i l'amic, l'antic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544184.wav|Al saber, li diuen sort.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544196.wav|Part de la reserva d'aparcament per a vehicles pesants pot establir-se, justificadament, en parcel·la privada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544197.wav|Trons de març omplin la barcella i el cabàs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544200.wav|El model dels marcs cognitius, però, ens ensenya que el nostre cervell no funciona així.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544214.wav|El millor pescador mai pot dir sí ni no.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544234.wav|A música de brams, contrapunt de garrotada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544246.wav|És cert, però també els hi cal educació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17544248.wav|Qui li fa por la mar no menja peix.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17586261.wav|Igualment, els acords de la Comissió de Control que aquesta considere d'interès.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17586262.wav|Tasques d'arxiu, registre, càlcul, facturació o similars que requerisquen algun grau d'iniciativa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17586263.wav|La participació en aquesta convocatòria suposa la plena acceptació de les bases.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17586264.wav|Com més aviat millor.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19052104.wav|La mateixa observació és aplicable a una societat de nacions.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19052106.wav|No veu la llum del capvespre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19052121.wav|La relació de persones excloses provisionalment indicarà el motiu d'exclusió.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19052122.wav|Els resultats del seguiment i, si escau, les propostes de millora, s'inclouran en la memòria anual del centre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19052448.wav|Era el resistent testimoni de la mort dels seus germans.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19052451.wav|Tremolava.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19052452.wav|Es permet el seu ús i distribució en qualsevol mitjà sempre que no sigui modificat i s'inclogui aquesta nota.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19052453.wav|El deute d'Espanya amb el País Valencià passa de ser històric a ser acumulat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19052469.wav|Cent anys fa que és mort el ruc i encara el cul li put.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19052471.wav|El personal administratiu i de trànsit descansarà les vesprades dels divendres i el mes d'agost.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19052473.wav|Allà on diu «Barem trenta-sis quaranta-cinc anys» ha de dir «Barem trenta-sis seixanta-cinc anys».
+/home/usuaris/veu/macia.amoros/common_voice_ca_19180501.wav|Pluja de Sant Llorenç, sempre arriba a temps.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19180507.wav|Els aspirants només hi poden participar per un dels sistemes i contingents anteriorment citats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19180510.wav|No imitaré la seua humilitat ni pertorbaré la seua devoció.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19180511.wav|L'economia espanyola va tancar l'exercici dos mil tres amb un creixement que supera el registrat durant l'any anterior.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19180512.wav|No; tots eren germans i a tots pertanyia el llac.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19180599.wav|Ho sents?
+/home/usuaris/veu/macia.amoros/common_voice_ca_19180604.wav|Projecte caseta de bombones per a gas i coberta d'escala exterior.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292909.wav|Anem a Corbera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292920.wav|Anem a la Pobla de Farnals.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292921.wav|Anem a Isòvol.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292924.wav|Anem a Teresa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292933.wav|Anem a Cotes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292934.wav|Anem a Bellmunt del Priorat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292936.wav|Anem a Quart.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292938.wav|Anem a Simat de la Valldigna.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292939.wav|Anem a Matadepera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292942.wav|Anem a Argentona.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292943.wav|Anem a Aielo de Malferit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292951.wav|Anem a Fogars de Montclús.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292954.wav|Anem a Paüls.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292957.wav|Anem a Estamariu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292959.wav|Anem a Argeleta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292960.wav|Anem a Petrés.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292970.wav|Anem a Ciutadella de Menorca.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292971.wav|Anem a Cocentaina.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292972.wav|Anem a Millena.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292982.wav|Anem a Collsuspina.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292984.wav|Anem a Palau-sator.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292991.wav|Anem a Benafigos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292993.wav|Anem a Masarac.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292995.wav|Anem a Massoteres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19292997.wav|Anem a Costitx.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19293014.wav|Anem a Fortaleny.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19293017.wav|Anem a Pradell de la Teixeta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19293154.wav|Anem a l'Alqueria d'Asnar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19293162.wav|Anem a Guadassuar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19299258.wav|Anem a Lloret de Vistalegre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19299261.wav|Anem a Almedíxer.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19299262.wav|Anem a Montroi.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304532.wav|Anem a Benirredrà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304536.wav|Anem a Torrelles de Llobregat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304538.wav|Anem a Malgrat de Mar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304546.wav|Anem a Sineu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304547.wav|Anem a Alp.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304549.wav|Anem a Alpicat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304555.wav|Anem a Verdú.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304556.wav|Anem a Maspujols.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304561.wav|Anem a Lloseta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304562.wav|Anem a Sueca.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304563.wav|Anem a Esterri de Cardós.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304566.wav|Anem a la Pobla de Claramunt.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304568.wav|Anem a Esparreguera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304570.wav|Anem a Ullà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304584.wav|Anem a Vilamacolum.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304635.wav|Anem a Castelldans.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304638.wav|Anem a Carcaixent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304650.wav|Anem a Besalú.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304651.wav|Anem a les Preses.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304654.wav|Anem a Montitxelvo.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304663.wav|Anem a Cervià de les Garrigues.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304691.wav|Anem a Xert.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304694.wav|Anem a Vilademuls.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304698.wav|Anem a la Selva de Mar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304760.wav|Anem a Almassora.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304762.wav|Anem a Santa Pau.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304765.wav|Anem a les Avellanes i Santa Linya.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304769.wav|Anem al Pinós.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304770.wav|Anem a Beneixama.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304772.wav|Anem a Gisclareny.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304778.wav|Anem a Molins de Rei.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304785.wav|Anem a Llíber.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304786.wav|Anem a Ullastret.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304792.wav|Anem a Benafer.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304793.wav|Anem a Avinyonet del Penedès.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304794.wav|Anem a Barberà de la Conca.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304795.wav|Anem a Monòver.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304807.wav|Anem a Parlavà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304808.wav|Anem a Campins.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304816.wav|Anem a Cornellà de Llobregat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304891.wav|Anem a Puiggròs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304894.wav|Anem a Ascó.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304907.wav|Anem a Campanet.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304908.wav|Anem a Fondarella.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304916.wav|Anem a Vimbodí i Poblet.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304925.wav|Anem a Castell de l'Areny.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304927.wav|Anem a Xella.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304935.wav|Anem a Mollet de Peralada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304937.wav|Anem a Talavera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304938.wav|Anem a Benissanó.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19304955.wav|Anem a Alpont.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19306978.wav|Anem a Sidamon.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19306988.wav|Anem a Búger.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19306989.wav|Anem a Rafal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19306998.wav|Anem a Balones.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307002.wav|Anem a Massanassa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307011.wav|Anem a Vinalesa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307013.wav|Anem a Gaibiel.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307016.wav|Anem a Capolat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307020.wav|Anem a Iàtova.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307027.wav|Anem a Odèn.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307029.wav|Anem a Faura.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307126.wav|Anem a Mancor de la Vall.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307127.wav|Anem a Creixell.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307137.wav|Anem a l'Armentera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307145.wav|Anem a Ventalló.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307151.wav|Anem a Sant Esteve Sesrovires.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19307152.wav|Anem a Calles.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318519.wav|Qui menja caragols per Sant Joan no arriba a Sant Pere.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318520.wav|Anem a Roses.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318667.wav|Que bé si cada abella fóra d'un color distint!
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318670.wav|I per què?
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318671.wav|Aquests sistemes són fonamentals per al desenvolupament del català a les noves tecnologies.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318672.wav|Si en algun punt té alguna llacuna de coneixement, només cal que no n'escrigui res: algú altre ja ho completarà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318686.wav|És curiós conèixer-la, i pot ser necessari mostrar-la.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318690.wav|La barca per al barquer i la terra per al masover.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318716.wav|Anem a les Fonts d'Aiòder.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318717.wav|Com que ets un babau, et penses que tots els joves han de ser iguals que tu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318718.wav|Ja solament faltaria que a banda d'estar coixa també fores cega.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318722.wav|Anem a Vilar de Canes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318723.wav|No obstant això, l'aventura va durar sis mesos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318726.wav|Anem a Terrassa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318727.wav|Correu, correu, minyons, que l'olla cou cigrons.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318733.wav|Ha demostrat ser un sector resistent a la crisi.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318734.wav|Anem a Castelló d'Empúries.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318742.wav|Però ¿i si els ciutadans no veuen les eleccions com un moment per a jutjar els seus polítics?
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318747.wav|Anem a Alfafara.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318753.wav|Anem a Guardiola de Berguedà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318771.wav|Aquestes especificacions s'utilitzen llavors com a base per a la planificació de la versió nova de l'Ubuntu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318793.wav|Si per l'abril el cucut no ha vingut, o és mort o s'ha perdut.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318794.wav|Anem a Fornalutx.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318798.wav|Hi ha primer de tot, podria dir-se, una qüestió de justícia distributiva.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318799.wav|Les seves relacions no es basen en la igualtat; però no són forçades.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318809.wav|Anem a Benifallim.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318810.wav|Anem a Cornudella de Montsant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318812.wav|No pense el lector que aquesta és una idea original.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318814.wav|Anem al Masroig.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318816.wav|Mira quin color tan lleig que té!
+/home/usuaris/veu/macia.amoros/common_voice_ca_19318820.wav|Anem a Picanya.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329233.wav|Animalet de Déu, qui t'ha vist i qui et veu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329237.wav|L'omnipotència em sembla en si una cosa dolenta i perillosa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329238.wav|Des d'eixe punt, girarà cap al nord per la carretera, fins a arribar al punt de partida.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329263.wav|Com a conseqüència, és exigible el consentiment de tots els copropietaris per aprovar l'acord.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329274.wav|La lluna de gener la reina del cel és.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329277.wav|Si és feble, hom el menysprea; hom l'odia si és fort.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329292.wav|Aquí és un dinar, què hi farem!
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329630.wav|Els menors privilegis repugnen, doncs, a la seva raó.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329637.wav|Resulta difícil parlar de programari en català sense parlar de Softcatalà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329639.wav|Que s'acredite que el visat és el mitjà de control més proporcionat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329641.wav|Peleu els pèsols i separeu-los també.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329643.wav|Hi estic d'acord.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329646.wav|Amor de senyor, aigua en cistella.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329651.wav|Vaig mirar el rellotge.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329652.wav|Les que li atribueixin les lleis del Parlament.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329653.wav|Però el jutge americà entra en el terreny de la política a contracor.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19329662.wav|De Sant Martí a Sant Andreu, setmanes tres; de Sant Andreu a Nadal, gairebé un mes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368122.wav|Tanmateix, no va arribar a partir, a causa de la seva mala salut.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368132.wav|No hi ha hagut casos documentats de virus Zika en el subcontinent indi.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368133.wav|En l'actualitat les poblacions semblen ser relativament estables.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368135.wav|El conjunt es completa amb la xemeneia de l'antic vapor i diverses dependències auxiliars.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368141.wav|Els incidents que hi són relacionats poden no ajustar-se a les definicions esmentades més amunt.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368145.wav|És un conjunt format per l'ermita i la casa de l'ermità.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368149.wav|Va començar aprenent l'alemany i va acabar dominant les llengües eslaves.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368155.wav|Els quàquers van negociar una petita reserva separada en Territori Indi.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368156.wav|Cada edició conté entrevistes originals, àlbums i partitures de guitarra i baix.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368159.wav|Aquesta tasca responia plenament a la meva vocació, i em vaig lliurar completament a ella.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368160.wav|El codi deontològic és l'aplicació de la deontologia a un camp concret.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368163.wav|Té dues versions, una és un home-llop.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368174.wav|El cos i les seves ales anteriors són de color gris.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368177.wav|Les violacions són el menyspreu de les normes i procediments.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368189.wav|És comestible però els seus sabor i olor són desagradables.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368203.wav|La casa se situa a la cantonada entre els carrers Sant Benet i Sant Josep.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368204.wav|La seu és a Cookstown.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368215.wav|L'explicació sobre la utilització d'aquest terme és molt senzilla.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368217.wav|A més hi ha una espècie extinta en època històrica.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368218.wav|Existeix indústria del moble i un polígon industrial de recent creació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368225.wav|Poc després, hagueren de retirar-se, acompanyats de part de la població sèrbia de la ciutat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368226.wav|Les fulles són de forma oval i regular amb marges finament dentats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368235.wav|Un altre problema era que la gent no era més tota grega.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368260.wav|Aquesta decisió l'havia pres en preferir prioritzar altres competicions en els anys anteriors.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368261.wav|Va participar en diversos certàmens de poesia, i n'obtingué premis.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368272.wav|Els romans transformaren l'assentament en una fortalesa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368274.wav|L'origen de les preposicions de lloc de la llengua accàdia està sense esclarir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368287.wav|L'edifici queda rematat per un caneló de ceràmica.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368305.wav|Després li explica el seu pla per introduir-se dins el castell disfressat de pelegrina.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368306.wav|El fong es reprodueix per ascòspores.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368309.wav|Encara que l'armada tailandesa va sofrir seriosos danys, els francesos van ser derrotats a terra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368316.wav|La seva administració es va caracteritzar per desenvolupar polítiques en el camp social.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368747.wav|El mantell es fon i forma magma més al fons de la placa predominant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368750.wav|Només amb les dents no es pot saber la seva mida.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368752.wav|Considera que el judaisme s'equivocà en interpretar literalment la Llei.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368761.wav|Fou un opositor a la dinastia manxú.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368769.wav|Finalment, els efectes del canvi climàtic podrien ser una amenaça a llarg termini.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368779.wav|És considerada una de les pitjors pel·lícules de la història del cinema.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19368793.wav|L'endemà el Tribunal Constitucional la suspengué cautelarment.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379238.wav|El reixat és de gran complexitat en el dibuix de motius geomètrics vegetals.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379240.wav|L’escriptori és el punt d’inici, aquí hi ha una llista de tots els teus blogs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379286.wav|De vegades se'l classifica com un subdialecte del kurd, però això és discutit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379295.wav|Va ser el primer llargmetratge angolès dirigit per una dona.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379298.wav|Però l'ofici esdevé cada cop menys interessant i sense futur.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379299.wav|El seu pare, director de la banda local, va encoratjar la vocació de la nena.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379300.wav|La cruïlla amb aquesta carretera ha esdevingut l'actual centre comercial de la ciutat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379377.wav|Va ser un dels millors generals Tang.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379398.wav|Es basa en el conte homònim dels germans Grimm.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379400.wav|La consulta directa d’alguns documents hauria de facilitar la comprensió del tema.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379401.wav|Amb això es començava a aplanar el camí de l'alliberament.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379442.wav|Menja gambes i peixets.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379482.wav|Aquest embassament pertany a la Confederació Hidrogràfica del Xúquer.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379489.wav|Els murs de llevant i tramuntana són cecs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379642.wav|A l'interior, l'embigat de fusta original ha estat substituït per un de nou.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379645.wav|És molt resistent a la sequera i té un creixement lent en el cultiu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379653.wav|Pel que fa al flamenc, Catalunya va veure com naixien les primeres penyes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19379657.wav|Abans d'això, Íngria rebia diaris majoritàriament de Viborg.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477645.wav|També fou autor dels brolladors d'aigua de l'avinguda de la Reina Maria Cristina.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477646.wav|És un afluent de la riba dreta de Roine.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477649.wav|Guanajuato es va consolidar com a estat industrial durant la seva gestió.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477653.wav|Durant aquest temps va tenir diverses ocupacions parcials venent instruments musicals i ordinadors.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477654.wav|Ha participat en diverses trobades de Músics per la Llengua a les Illes Balears.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477667.wav|Ingerit en quantitats grans és nociu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477669.wav|Estams amb filaments lliures i anteres linears o oblongues unides a la base.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477673.wav|Són nombroses les possessions i els oratoris o capelles en l'àrea de Son Macià.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477674.wav|Continuà llavors la seva carrera en concerts i amb nombroses gravacions.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477675.wav|Actualment ja no és una masia pròpiament dita, sinó que és un restaurant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477676.wav|Els principals sectors econòmics de la vila són la pesca i la indústria alimentària.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477679.wav|Abans de l'operació, la còrnia del pacient s'examina per determinar el gruix i el contorn.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19477681.wav|Cinc anys més tard va morir a Madrid.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19534490.wav|Les rosetes també s'han utilitzat a condecoracions militars.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19534492.wav|Va intermediar per a l'admissió d'estats no constitucionals, com Rússia, a la Unió Interparlamentària.
+/home/usuaris/veu/macia.amoros/common_voice_ca_19534494.wav|L'interior està arrebossat i pintat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_21922583.wav|dos
+/home/usuaris/veu/macia.amoros/common_voice_ca_21922584.wav|zero
+/home/usuaris/veu/macia.amoros/common_voice_ca_21922586.wav|tres
+/home/usuaris/veu/macia.amoros/common_voice_ca_21922592.wav|nou
+/home/usuaris/veu/macia.amoros/common_voice_ca_21922607.wav|En tornar a Barcelona va començar a dissenyar les seves pròpies samarretes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_21922608.wav|La Companyia de Jesús augmentava quantitativament.
+/home/usuaris/veu/macia.amoros/common_voice_ca_21922616.wav|En aquestes obres es va eixamplar l'hostal, sent el mestre d'obres Maure Carbonell.
+/home/usuaris/veu/macia.amoros/common_voice_ca_21922619.wav|Tant la seva dona com la seva filla són també membres d'Alba Daurada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_21922620.wav|La capital és Baia Mare.
+/home/usuaris/veu/macia.amoros/common_voice_ca_22773639.wav|És un jugador defensiu que fa pocs punts però molts taps i rebots.
+/home/usuaris/veu/macia.amoros/common_voice_ca_22773645.wav|És, també, membre del Ball de Diables de Torredembarra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_22773661.wav|Això va fer que les restriccions en els submarins fossin efectivament inútils.
+/home/usuaris/veu/macia.amoros/common_voice_ca_22773666.wav|Queda molt a prop, dessota i a llevant de la Pista de Caregue.
+/home/usuaris/veu/macia.amoros/common_voice_ca_22773678.wav|A diversos observadors llurs respostes els semblaren propaganda molt ben estudiada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_22773683.wav|Les aigües van emportar-se una desena de cotxes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_22773686.wav|Després de retirar-se de la natació va treballar com a venedor d'assegurances a Nova York.
+/home/usuaris/veu/macia.amoros/common_voice_ca_22773703.wav|L'Església etíop té també un cànon extens, que inclou més llibres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_22773706.wav|Per aquesta labor va ser molt ben considerat en la zona republicana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_22773708.wav|Amb el seu treball es va fer molt ric.
+/home/usuaris/veu/macia.amoros/common_voice_ca_22773722.wav|Aquest show es va cancel·lar quan estava representant-se a Denver, Colorado.
+/home/usuaris/veu/macia.amoros/common_voice_ca_25969908.wav|Es troba de forma natural com el mineral olivenita.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148268.wav|Com puc anar al carrer de Joan Miró número setanta-vuit?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148272.wav|La meva filla es diu Mariona: ema, a, erra, i, o, ena, a.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148310.wav|Truca al sis, trenta-quatre, cinquanta-tres, vuitanta, quaranta-quatre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148314.wav|Hi ha algun negoci al carrer Parsifal cantonada Parsifal?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148331.wav|Els aspirants de les oposicions comencen amb una exposició oral.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148363.wav|divendres he d'anar a Casserres amb autobús.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148372.wav|Ara està de tornada el senderisme.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148374.wav|Amb qui està casat el ciutadà romanès?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148376.wav|He d'anar al carrer del Cinca a peu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148396.wav|Quina és la millor manera d'anar a Navès sense agafar el metro?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148409.wav|He d'anar del pla de Nicolás Salmerón al passatge de l'Ordi.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148432.wav|Apunta a l'agenda el número de l'Emília Ferrero: sis, vuitanta-dos, deu, seixanta-sis, trenta-u.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148443.wav|Quantes parades té el trajecte en autobús fins a la Vall de Boí?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148488.wav|El cognom és Tovar: te, o, ve baixa, a, erra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148505.wav|Què venen al carrer de Manzanares número noranta-sis?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30148509.wav|On es deixen les peces perquè s'assequin?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150416.wav|Afegeix a l'agenda el número de la Cira Vaño: sis, trenta-u, vint-i-tres, seixanta-set, setanta-dos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150420.wav|Què hi ha al carrer de la Riera Baixa número disset?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150482.wav|Quina és la millor manera d'arribar al carrer d'Amsterdam?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150567.wav|Però que em truquin aviat, si et plau!
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150573.wav|Marca el sis, quaranta-dos, zero, quatre, trenta-cinc, catorze.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150629.wav|Com ho puc fer per anar a Bordils amb tren?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150692.wav|La meva mare em va ensenyar a fer la millor confitura.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150727.wav|demà hauria d'anar a Jorba.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150762.wav|Apunta el sis, setanta-vuit, cinquanta-set, seixanta-vuit, trenta-set com a telèfon de l'Albà Becerro.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150765.wav|Quan passa l'autobús pel carrer Pedrell?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150800.wav|Guarda el sis, quaranta-tres, vuitanta-sis, quaranta-vuit, quaranta-tres com a telèfon de l'Inés Vigil.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150803.wav|Guarda el sis, quaranta-quatre, trenta-vuit, trenta-set, cinquanta-nou com a telèfon del Marcèl Cea.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150832.wav|Qui viu al carrer de l'Atlàntida número vint-i-dos?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150835.wav|Torra ofereix diàleg a Rajoy
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150862.wav|El meu nom és Pere: pe, e, erra, e.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150894.wav|Qui viu al carrer de l'Agregació número vint-i-u?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150921.wav|Quan passa l'autobús pel carrer Aragó?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150940.wav|Qui va ser anomenat bisbes de la ciutat?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150941.wav|Hauria d'anar al passatge d'en Sagristà número disset.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150962.wav|Qui viu al carrer de Rosario Pi número setanta?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30150986.wav|A qui han detingut quan ha acabat la concentració?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30151012.wav|Apunta a l'agenda el número de l'Andrés Corchero: sis, trenta-sis, vint-i-vuit, vuitanta-quatre, vint-i-dos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30151034.wav|Quant dura el trajecte en autobús fins a Colomers?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30151036.wav|diumenge hauria d'anar a Matadepera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30151038.wav|Catalunya està patint repressió.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30151037.wav|He d'anar de la plaça de Manuel Corachan al carrer de Villar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30151041.wav|El meu nom és Avril: a, ve baixa, erra, i, ela.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30151057.wav|Qui era el governador d'Àustria?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30151070.wav|Com ho puc fer per anar a Torrelavit amb moto?
+/home/usuaris/veu/macia.amoros/common_voice_ca_30151058.wav|Vull anar al carrer de Martin Luther King amb trasport públic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_30151113.wav|Com ho puc fer per anar a Peralada dimecres?

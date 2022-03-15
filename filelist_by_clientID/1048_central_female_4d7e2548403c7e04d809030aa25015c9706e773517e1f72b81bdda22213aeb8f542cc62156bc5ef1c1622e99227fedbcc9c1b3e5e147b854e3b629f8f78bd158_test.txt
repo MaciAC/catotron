@@ -1,327 +1,336 @@
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809642.wav|Existeix, però no la veu.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809667.wav|Venim d'Espadella.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809668.wav|Quin mal de cap que tinc!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809836.wav|Venim de les Preses.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809839.wav|Venim de la Pobla de Benifassà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809841.wav|Venim de Vilanant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809844.wav|Quines experiències personals valores més?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809849.wav|L'origen d'aquestes croquetes és una recepta de l'àvia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809850.wav|Poseu-los en un pot de vidre hermètic, a capes, empolsegant de pebre cada capa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809851.wav|Entra a la terra conreada el dia de les Ànimes, en la tardor acabada de començar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809852.wav|Març marceja... i la gent bogeja.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809853.wav|Peleu també les gambes i passeu-les per la paella amb un pols de sal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809871.wav|Va llegir un manual de MySQL.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809872.wav|Venim de Santa Coloma de Farners.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809876.wav|Venim de Castellnou de Seana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809877.wav|Venim de Benimodo.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809878.wav|Venim de Peramola.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809883.wav|La Mar es va comprar una Rumba per a l'apartament.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809888.wav|Venim de Carlet.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809890.wav|Vet-ho aquí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809895.wav|La comarca de les Garrigues té un enclavament al Vallès.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809896.wav|I tu, d'on ets?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809899.wav|Heretat per heretat, una filla en la velledat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809910.wav|Demano hora a la perruqueria.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809921.wav|Venim de Borrassà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809924.wav|La parcel·la ocupa una superfície total de vint-i-tres mil huit-cents tretze coma quinze metres quadrats amb una superfície edificada de set mil set-cents seixanta-sis metres quadrats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809931.wav|Venim de l'Espluga de Francolí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809936.wav|Qui va per l'interés, li ixen els comptes a l'inrevés.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809938.wav|Aquesta setmana entraré mitja hora abans cada dia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809939.wav|Venim de Coll de Nargó.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17809940.wav|No s'ha trobat bé i no ha pogut anar a l'hort.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17811904.wav|Hi ha una correlació directa entre el nombre d'usuaris que té una aplicació lliure i la comunitat que li dóna suport.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17811906.wav|Venim de Sant Cugat del Vallès.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17811910.wav|Venim de Veciana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17811911.wav|En l'esmentat anunci s'ha detectat un error de fet pel que fa al redactat de la base quarta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17812105.wav|Fa trenta anys que vivim junts i encara em sorprèn.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17812114.wav|Venim del Palomar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17812117.wav|He perdut el comandament de la pe essa quatre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17812118.wav|Venim de Castellbell i el Vilar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17812122.wav|Els estrats més difícils són els externs.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17812758.wav|Han arribat a Roma amb tres hores de retard.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17812761.wav|Venim de Museros.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17812762.wav|Venim de Vidreres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17812763.wav|Venim del Camp de Mirra.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17812766.wav|La Lurdes treballa a l'INEM.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821844.wav|Els Xiquets de Valls fan unes actuacions molt llargues.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821847.wav|Venim de Simat de la Valldigna.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821848.wav|Tinc una mica d'insomni, em penso.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821854.wav|Totes les responsabilitats aplicables als ordinadors de sobretaula són aplicables als equips portàtils.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821855.wav|Venim de Sella.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821859.wav|El govern també té la responsabilitat de garantir la privadesa de les dades dels usuaris.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821863.wav|Nen, ja has munyit la cabra?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821870.wav|Davant dels objectius a assolir, estableix suficientment les prioritats a considerar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821872.wav|Anirà de colònies a la Cerdanya.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821878.wav|La jornada d'avui ha estat tranquil·la.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821887.wav|Venim de les Planes d'Hostoles.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821902.wav|Venim d'Alcanó.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17821909.wav|Gemma, tens un clínex?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17825729.wav|Venim d'Emperador.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17825731.wav|Venim de Bellmunt del Priorat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17825733.wav|Tampoc queden clars els orígens del mateix terme llatina i s'especula sobre diverses possibilitats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826034.wav|Venim de Montornès de Segarra.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826035.wav|Venim de Vilafant.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826042.wav|Afanya't!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826043.wav|Venim de Garcia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826047.wav|Això els dóna algun respir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826052.wav|Venim de Sueca.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826056.wav|Llavors afegiu-hi la tomata ratllada amb un pols de sucre i feu-la coure vint minuts més.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826058.wav|Alguna pregunta més?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826065.wav|Una quantia fixa per a cada emissora de ràdio que compleixi les bases.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826066.wav|Venim de Domenyo.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826069.wav|Venim de Moià.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17826070.wav|Venim de Bellpuig.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828077.wav|Venim de Xelva.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828096.wav|Podem afirmar que pràcticament cap mena de programari, sigui lliure o de propietat, inclou garantia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828101.wav|Animeu-vos doncs a col·laborar en el projecte de la Viquipèdia catalana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828117.wav|Venim de Cassà de la Selva.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828120.wav|No vindré d'hora perquè m'agrada dormir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828122.wav|Si plou per la Puríssima Concepció, plou per Carnaval, Setmana Santa i Resurrecció.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828125.wav|Què fan al cine?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828135.wav|Gestiona les incidències de cobertura i de la xarxa i marca les prioritzacions d'intervenció.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828138.wav|Venim d'Aielo de Rugat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828152.wav|Venim de la Torre d'en Doménec.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828154.wav|Recordava les notícies que li havien donat aquella vesprada a la Borsa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828161.wav|Les lectures eren cada vegada més espaiades.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828175.wav|Venim de Toses.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828184.wav|Cada dia els posen més deures.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828201.wav|Venim de Vinaixa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828202.wav|Com a mínim em podries haver deixat la galeta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828220.wav|Venim de Llardecans.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828224.wav|Gràcies, Pere.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828226.wav|S'ha begut un Red Bull barrejat amb ginebra.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828265.wav|Venim de Granollers.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828266.wav|Venim del Milà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828268.wav|Venim d'Ondara.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828269.wav|El que és mal guanyat el diable s'ho emporta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828279.wav|Venim de Godella.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828290.wav|Venim de Vallgorguina.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828305.wav|Jo vull crispetes i una ampolla d'aigua!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828319.wav|Venim de València.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828321.wav|El premi que va rebre és una copa daurada amb incrustacions argentades.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17828322.wav|A veure si quedem un dia per dinar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17829313.wav|Venim de Tous.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17829321.wav|Venim de Bàscara.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17829326.wav|S'ha de mantenir l'agrupació dels alumnes per classes durant la prova, sempre que sigui possible.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17829329.wav|Quin dilluns més llarg!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17829330.wav|Els taxistes mantenen la vaga indefinida.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17834507.wav|Venim de Massalfassar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17834510.wav|Fa massa temps que no anem al teatre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842197.wav|Venim d'Atzeneta del Maestrat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842198.wav|Venim de la Fatarella.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842199.wav|Practicava la narrativa a hores perdudes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842200.wav|Venim de Biar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842210.wav|El juvenil del Barça no guanya res.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842212.wav|Venim del Pilar de la Foradada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842214.wav|Treball dóna llibertat; sempre que puguis ser amo, no vulguis mai ser criat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842225.wav|La loteria ha tocat a La bruixa d'or?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842232.wav|El sistema estructural dels annexos és l'existent de murs de seixanta centímetres de pedra i forjats unidireccionals.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842234.wav|Més informació a la pàgina web del congrés.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842235.wav|Venim de Sant Joanet.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17842236.wav|Què penses?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17845759.wav|La manifestació ha acabat sense incidents.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17845760.wav|La Júlia vol estudiar enginyeria.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17845763.wav|Venim d'Onil.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17849909.wav|Ens llevarem ben d'hora per anar d'excursió.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17849910.wav|Ha quedat segona en el campionat de natació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17850431.wav|Volem divulgar al màxim aquesta feina perquè serveixi per a algú.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17858932.wav|Si sou capaços de tenir la mà sota la font dos minuts, us faré un petó.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17861103.wav|Fins a quinze punts: mèrits cientificotècnics de la persona que avala la sol·licitud en el centre de destinació.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17861113.wav|Si la situació de recessió és prolongada, els serveis solen ser l'única forma d'ingressos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17861114.wav|Una conversa agradable sempre t'escurça l'espera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17861137.wav|Això no ho resisteixo ni un dia més.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17861138.wav|A veure, tu m'escoltes, quan parlo?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17861139.wav|Venim de Mont-roig del Camp.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17867755.wav|Venim de Garriguella.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17867759.wav|La cadena embragava amb el plat mitjà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17867762.wav|Venim d'Alcanar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17867763.wav|Nova interfície.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17867767.wav|Aquesta pizza fa molt bona pinta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872240.wav|No sabem què regalar-li.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872243.wav|Venim del Lloar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872244.wav|Venim de la Nou de Gaià.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872252.wav|Vine amb nosaltres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872254.wav|Així és.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872264.wav|Després del meló, vi en porró, i si és d'Alger, en pitxer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872267.wav|Algun voluntari per rentar els plats?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872277.wav|Ferits de guerra, eren, Josep!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872278.wav|La nena diu que de gran vol ser taxidermista.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872280.wav|Venim de la Massana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872289.wav|Dijous se'n va a Londres i no torna fins Nadal.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872294.wav|Hi va haver una pausa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872296.wav|Venim de l'Arboç.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872297.wav|Quin cotxet més modern, oi?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872298.wav|Quan faci vacances aniré cada dia a la platja.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872301.wav|Són interessants aquestes pintures!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872305.wav|A cosa donada no li cerquis taps.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872306.wav|Venim de Sellent.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872307.wav|Venim d'Alguaire.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872309.wav|El ritme del swing enganxa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872310.wav|Totes les xerrades tindran un espai de preguntes i respostes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872311.wav|Venim de Sant Pere de Vilamajor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872317.wav|Venim de Baix Pallars.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872318.wav|Venim de Catarroja.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872320.wav|L'estudi no tenia finestres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872321.wav|Venim d'Alboraig.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872328.wav|Podeu posar-hi més menta o menys al gust de cadascú, i com més la deixeu bullir millor serà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872330.wav|Venim de Móra la Nova.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872331.wav|Ja cal que t'espavilis si no vols arribar tard.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872336.wav|Venim de Monòver.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872337.wav|Una pantalla de marca bona no falla mai.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872340.wav|Venim de Fulleda.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872342.wav|Els mossos són alts i ferms.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872344.wav|Joc de foc és joc de boig.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872346.wav|Li agrada la noia de la faldilla de quadres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872348.wav|Les males notícies volen.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872349.wav|Venim de Fígols i Alinyà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872361.wav|Aquesta prestació requereix un elevat coneixement de la millor i més recent evidència científica en aquest àmbit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872362.wav|Venim d'Almussafes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872363.wav|Dilluns.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872366.wav|Jo vaig quedar molt parat de com era de gran; encara s'estava pintant, i vam entrar trepitjant uns taulons.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872370.wav|No hi ha mal que per bé no vinga.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17872371.wav|Venim d'Alpens.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874754.wav|Venim de Puigpunyent.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874757.wav|Venim de Jafre.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874760.wav|Si triga gaire ja no hi serem a temps.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874765.wav|No és feta la mel per a la boca de l'ase.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874772.wav|En Pere ha muntat la tarima verda.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874774.wav|Venim de Santa Coloma de Queralt.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874787.wav|M'enviaràs aquell llibre que vaig deixar-me a casa teva?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874789.wav|La Concepció té angines.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874790.wav|La seva mirada és fi xa, i les seves mans, els peus i el trau del pit mostren els signes clars dels estigmes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874798.wav|Venim de Manises.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874812.wav|I ho farem en termes de població i sobre els seus ingressos corrents.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874815.wav|Els artistes de la plaça es van manifestar nus.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874821.wav|Venim de Nules.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874826.wav|Venim de Vinyols i els Arcs.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874829.wav|Venim d'Alòs de Balaguer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874873.wav|Cal vigilar molt perquè hi ha risc d'esllavissades.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874874.wav|Venim d'Albons.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874881.wav|És imprescindible un cop de timó a l'empresa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874894.wav|Els comentaris instrumentals també fan un paper destacat en el pla de l'orquestració.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874905.wav|Venim de Vilaür.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874948.wav|Primera reflexió.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874949.wav|Ador: vint d'agost i vint-i-u d'agost, Mare de Déu del Loreto i Santíssim Crist de l'Empar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874964.wav|Venim de Bolvir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874965.wav|Tu i jo no ballarem mai swing, però ens farem petons cada deu minuts.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874976.wav|Venim de Vilanova i la Geltrú.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874980.wav|Venim de Peníscola.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874986.wav|No havia passat mai tanta calor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874996.wav|Venim de Renau.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874998.wav|Doncs, a mi, el futbol no m'agrada; em sembla avorrit, i no entenc com pot moure tants de diners.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17874999.wav|Venim de Riudarenes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875052.wav|Venim d'Orpí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875069.wav|Venim de Vilabertran.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875086.wav|Al pagès, deu-li cols.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875087.wav|Venim de Mollerussa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875099.wav|Els dibuixos que els presos feien a les parets del castell es conserven tots.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875102.wav|Quantes persones han col·laborat en aquestes traduccions?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875103.wav|Venim de Lloret de Mar.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875110.wav|Venim de Coix.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875112.wav|Venim de Benaixeve.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875113.wav|Venim d'Alella.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875120.wav|Són influències culturals que cal tenir en compte.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875123.wav|Venim de Juià.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875138.wav|Ahir vaig conèixer l'alcalde de Ripoll.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875155.wav|Diu l'alcalde que som uns contestataris.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875169.wav|Recordeu?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875170.wav|El mínim que puc fer per tu és donar-te tres euros.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875171.wav|Gràcies a la disponibilitat del codi font, el programari lliure garanteix una independència respecte al proveïdor.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17875173.wav|Venim de Porqueres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17884565.wav|Venim de Pontons.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17884568.wav|Venim de Sarral.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17884569.wav|No vaig veure mai ningú que deixés de tirar en una de les tres.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17884574.wav|En Pau i la Maria anaven de bracet.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17884578.wav|Venim de Sant Julià de Ramis.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17884579.wav|Fot-te, capsigrany!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17884588.wav|Em sembla que amb el carnet de família nombrosa ens faran descompte.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17885896.wav|Està obsessionat amb l'esport: és addicte a exercici físic.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17885897.wav|Venim de Felanitx.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17885906.wav|Durant les proves d'accés tots els aspirants tindran accés als vestuaris.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17885907.wav|Porteu crema protectora?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17885911.wav|A Sant Martí, mata el porc i enceta el vi.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888278.wav|Fa tres dies que són fora i encara no han trucat.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888279.wav|L'aspecte de tot el país sencer hi testimonia el treball de les aigües.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888282.wav|La Mercè és molt simpàtica i agradable.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888291.wav|Venim de Canet d'Adri.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888292.wav|Venim de Benejússer.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888296.wav|Venim de Gata de Gorgos.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888316.wav|Venim de Constantí.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888317.wav|Començarem esmentant-ne els principals avantatges i després n'analitzarem els falsos mites.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888325.wav|Pa que sobre, carn que abaste i vi que no falte.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888327.wav|El mercat treballa la innovació i els nostres familiars jardins rurals han guanyat en la barata.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888329.wav|No he menjat gens de peix blau i ja se n'acaba la temporada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888332.wav|Venim d'Alboraia.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888339.wav|Venim del Far d'Empordà.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888347.wav|Venim de Sacanyet.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888348.wav|Venim de Sant Guim de la Plana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888353.wav|Venim de Zarra.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888354.wav|Venim de Talavera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888360.wav|Fa nou anys d'aquella nit.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888361.wav|El nebot sempre pagava les Fantes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888366.wav|Venim de Sant Pere de Ribes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888374.wav|És un estudiant en pràctiques.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888380.wav|Atendrem els ferits al porxo.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888386.wav|Les aigües pluvials es recolliran i conduiran directament cap a la llera de la riera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888387.wav|Ho sap.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888392.wav|Venim d'Alcover.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888396.wav|Venim de Paiporta.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888407.wav|Ell va assentir.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888408.wav|Fan una tripa molt ben adobada.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888413.wav|Venim de Salt.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888415.wav|Venim d'Oliana.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888418.wav|Venim d'Arsèguel.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888419.wav|Venim d'Oliva.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888420.wav|Que no és un xiprer, que és una tuia!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888426.wav|Qualsevol pot col·laborar en el projecte, bé escrivint articles nous, o bé corregint i ampliant els que ja hi ha.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888433.wav|Venim de Riudecols.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888435.wav|Les persones seleccionades seran les responsables de mantenir actualitzades les seves dades de contacte.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888436.wav|De fills i roba blanca, mai no n'hi ha prou en una casa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888437.wav|El sistema operatiu és el programa que interacciona entre el maquinari, l'usuari i les aplicacions.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888438.wav|Venim de Belianes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888441.wav|Tot depèn de la decisió del jutge.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888442.wav|Venim de l'Escala.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888447.wav|El xai ha de ser molt tendre perquè el plat resulti.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888450.wav|Martínez, no m'expliquis històries!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888452.wav|Dissabte vaig anar al Sweet Pachá.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888453.wav|A més maror, més vela.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888455.wav|Venim de Sant Vicent del Raspeig.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888456.wav|S'ha de reconéixer, però, que és poca cosa.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888457.wav|Ai mare, i jo que em pensava que ens sobraria temps.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888463.wav|Per tant, és procedent despatxar l'execució en els termes sol·licitats.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888465.wav|Venim de Vilanova de la Reina.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888466.wav|És la millor truita de patates que he tastat mai.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888472.wav|Els actes del mandatari, en l'àmbit del mandat, vinculen el mandant com si els hagués fet ell mateix.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888474.wav|Venim de Sant Martí d'Albars.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888475.wav|El càmera va rebre un cop de puny.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888477.wav|Venim de Bordils.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888478.wav|Venim de Senan.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888479.wav|Venim d'Arbeca.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888485.wav|Venim de Farrera.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888488.wav|Venim de Vinaròs.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888490.wav|No xategis amb ton cosí, que ja ens coneixem!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888492.wav|Venim de Prats de Lluçanès.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888498.wav|Els voltants de l'Ebre són fantàstics!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888500.wav|Venim de Beniparrell.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888502.wav|Un fracàs tan gran poc que ens l'imaginàvem.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888505.wav|Au, vés a mirar si les tovalloles de la platja ja estan eixutes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888507.wav|I no els fem cas.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888512.wav|Venim de Cervià de les Garrigues.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888517.wav|Venim de Sinarques.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888544.wav|Quina pista m'has deixat?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888548.wav|Venim de Roquetes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17888574.wav|El viatge a la Xina el deixarem per passat festes.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17893925.wav|Cada vegada que usa la càmera se li descarrega la bateria.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17893926.wav|Els sindicats han guanyat afiliats?
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17893931.wav|M'han mangat la tauleta digital!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17893935.wav|Era esquifit i sord.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17893945.wav|Avui es poden triar moltes banderes, molts ciutadans troben a mancar-ne algunes de molt populars.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17893947.wav|Neus, salta!
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17893955.wav|Venim de Picanya.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17893957.wav|El president o la presidenta de l'Acadèmia Valenciana de la Llengua o persona en qui delegue.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17897079.wav|Si plou per la lluna nova d'agost, plourà nou llunes seguides.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17897790.wav|Venim de Calles.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17897791.wav|El cantant dels Pets es diu Lluís.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17901123.wav|Venim de la Secuita.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17901124.wav|Venim de Moixent.
-/veu/ignasi/veussd/DATABASES/Common_Voice/cv8.0/clips.wav/common_voice_ca_17901125.wav|Una altra tendència de Microsoft és utilitzar el sistema operatiu com a plataforma per integrar-hi aplicacions i imposar la seva tecnologia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809640.wav|Venim de Borriol.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809641.wav|Quins títols acredita el candidat?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809667.wav|Venim d'Espadella.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809831.wav|Lluna nova de febrer, primer diumenge de quaresma.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809832.wav|Venim de la Font d'en Carròs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809833.wav|Venim de Forès.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809834.wav|Funció: permet amplificar i articular les paraules mitjançant vibracions.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809838.wav|Venim de Torres de Segre.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809842.wav|Venim d'Ares dels Oms.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809845.wav|Quan va arribar la veïna, ja feia temps que m'esperava a la porta: m'havia tornat a deixar les claus.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809856.wav|Venim d'Algar de Palància.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809857.wav|Venim de Sort.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809858.wav|Venim de Sant Jaume de Frontanyà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809861.wav|Venim d'Asp.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809864.wav|Venim de Bonrepòs i Mirambell.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809865.wav|Venim de Pratdip.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809867.wav|Venim de Ger.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809868.wav|Fa dies que dormo amb la finestra oberta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809873.wav|La Raquel porta una brusa de niló.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809878.wav|Venim de Peramola.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809879.wav|Venim de Lleida.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809885.wav|Venim d'Algímia d'Alfara.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809888.wav|Venim de Carlet.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809892.wav|Venim de Sant Joan de Moró.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809896.wav|I tu, d'on ets?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809900.wav|No obstant això, les facilitats de la tecnologia contrasten amb la rigidesa del sistema jurídic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809903.wav|Venim de Rossell.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809904.wav|Venim d'Oriola.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809905.wav|S'estan obrint nous espais d'acollida, però no són suficients.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809923.wav|Venim de Pradell de la Teixeta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17809930.wav|Venim de Ginestar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17811904.wav|Hi ha una correlació directa entre el nombre d'usuaris que té una aplicació lliure i la comunitat que li dóna suport.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17811910.wav|Venim de Veciana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812081.wav|Venim de Cruïlles, Monells i Sant Sadurní de l'Heura.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812092.wav|El dissabte aniré a Valls!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812100.wav|Venim de Sant Feliu Sasserra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812104.wav|Venim de Vilallonga de Ter.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812106.wav|Venim de Castelló de la Plana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812113.wav|Alguna altra votació separada?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812116.wav|Venim d'Altafulla.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812118.wav|Venim de Castellbell i el Vilar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812119.wav|Venim de Sant Fulgenci.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812760.wav|Passi.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812763.wav|Venim del Camp de Mirra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812764.wav|Vull cantar un madrigal.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812765.wav|Venim d'Ariany.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17812766.wav|La Lurdes treballa a l'INEM.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17813231.wav|Avui és l'aniversari de la meva germana petita.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17813232.wav|Venim d'Olocau del Rei.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821844.wav|Els Xiquets de Valls fan unes actuacions molt llargues.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821845.wav|Venim de Cabrils.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821851.wav|Venim de Favara.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821853.wav|Venim de Vallfogona de Riucorb.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821856.wav|Venim d'Almacelles.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821857.wav|Venim de Colera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821859.wav|El govern també té la responsabilitat de garantir la privadesa de les dades dels usuaris.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821860.wav|Quan veges la gavina per l'horta, entra la llenya, fes foc i tanca la porta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821861.wav|Quan rebis la notificació, pensa a trucar a l'ajuntament per poder iniciar tots els tràmits.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821862.wav|Venim de Sentmenat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821871.wav|Igualment, els llibres editats pels autors i els que no siguen vendibles.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821872.wav|Anirà de colònies a la Cerdanya.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821887.wav|Venim de les Planes d'Hostoles.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821888.wav|Ningú podria descobrir-lo.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821899.wav|Ah, gener, gener, no m'has mort cap ovella ni l'esqueller.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821901.wav|Venim d'Alfarb.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821909.wav|Gemma, tens un clínex?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821910.wav|Hi ha prop de cent mil cadenes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17821911.wav|El castellà vindrà amb nosaltres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17825729.wav|Venim d'Emperador.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826032.wav|Venim de Famorca.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826033.wav|Pots recuperar els estalvis invertits?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826035.wav|Venim de Vilafant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826037.wav|Venim de Llimiana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826039.wav|No remis, mariner.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826041.wav|No sabia què dir-li.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826042.wav|Afanya't!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826044.wav|La resposta era sempre la mateixa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826047.wav|Això els dóna algun respir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826048.wav|Cada cop que agafa la moto em faig un tip de patir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826056.wav|Llavors afegiu-hi la tomata ratllada amb un pols de sucre i feu-la coure vint minuts més.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826059.wav|Venim de Ciutadilla.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826067.wav|Venim de la Vall de Gallinera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826068.wav|De les virtuts del romer es pot escriure un llibre sencer.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17826069.wav|Venim de Moià.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828082.wav|El pa de figues té una flonjor extraordinària.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828085.wav|Venim d'Alfarràs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828096.wav|Podem afirmar que pràcticament cap mena de programari, sigui lliure o de propietat, inclou garantia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828101.wav|Animeu-vos doncs a col·laborar en el projecte de la Viquipèdia catalana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828116.wav|El llibre era en format EPUB o PDF?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828120.wav|No vindré d'hora perquè m'agrada dormir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828125.wav|Què fan al cine?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828136.wav|Venim de Benigànim.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828154.wav|Recordava les notícies que li havien donat aquella vesprada a la Borsa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828172.wav|Venim de Massalavés.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828175.wav|Venim de Toses.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828176.wav|Quina tos, ja et prens el xarop?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828186.wav|Venim de Sant Pau de Segúries.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828198.wav|Venim de Benirredrà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828200.wav|La serra de Pàndols fou testimoni de batalles sanguinàries.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828201.wav|Venim de Vinaixa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828222.wav|Venim de Corbera de Llobregat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828236.wav|En Windows la principal novetat és la compatibilitat amb Windows deu i la possibilitat de catalanitzar-ho.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828266.wav|Venim del Milà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828278.wav|Antoni, vine, corre!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828286.wav|Venim de la Figuera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828289.wav|La veïna del quart és un cas com un cabàs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828291.wav|Venim de Vilamaniscle.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828303.wav|Té molta cura d'amagar a totes les mirades el lloc on s'uneixen.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17828304.wav|Quina sortida que té aquesta marca de cerveses!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17829309.wav|Quan al març trona, l'ametla és bona.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17829316.wav|La major part d'aquestes obres han estat escrites a Europa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17829319.wav|Venim de Vimbodí i Poblet.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17829321.wav|Venim de Bàscara.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17829327.wav|Diu que estudia a la Universitat Autònoma de Barcelona.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17829329.wav|Quin dilluns més llarg!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17829333.wav|Un candidat massa jove no ens convé.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17830237.wav|Urbanísticament es fa allò que l'inversor de torn desitja per al seu interés mercantil particular.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17834508.wav|La qual cosa, en el fons, és un problema polític, i aquí també entra en joc la tecnologia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17834509.wav|En el llac mateix creixia per moments el perill.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17835705.wav|Endreça'ls per ordre alfabètic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842192.wav|La manca d'informació no justifica res.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842193.wav|Venim de Benicolet.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842194.wav|Al so que toquen, balla.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842197.wav|Venim d'Atzeneta del Maestrat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842202.wav|Venim de Santa Bàrbara.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842206.wav|Aquesta calipàndria és per culpa de l'aire condicionat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842207.wav|Sorgeix un fet nou que em lleva tots els dubtes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842208.wav|Hem de sortir del port de seguida.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842210.wav|El juvenil del Barça no guanya res.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842212.wav|Venim del Pilar de la Foradada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842213.wav|Els humans són mamífers.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842216.wav|Per la Mare de Déu d'agost, tornen els frares al rebost.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842224.wav|És millor deixar el cotxe a l'estació i anar-hi a peu, són cinc minuts.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842228.wav|El gos dels veïns ha bordat tota la nit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842229.wav|Venim de Benifairó de les Valls.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842230.wav|Llarg mal cansa el metge i el malalt.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842232.wav|El sistema estructural dels annexos és l'existent de murs de seixanta centímetres de pedra i forjats unidireccionals.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17842235.wav|Venim de Sant Joanet.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17845759.wav|La manifestació ha acabat sense incidents.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17845761.wav|Venim de Planes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17845762.wav|La Tita Cervera és l'hereva moral dels Medici.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17849910.wav|Ha quedat segona en el campionat de natació.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17858931.wav|No sé si els xiclets de Coca-cola porten Coca-cola o un producte químic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17861114.wav|Una conversa agradable sempre t'escurça l'espera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17861115.wav|Venim de Segart.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17861116.wav|Des d'ahir que la tia no s'acaba de trobar bé.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17861132.wav|Provava de recollir fems del carrer i vendre'ls, però no se'n sortia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17861134.wav|Venim de Quart de les Valls.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17861138.wav|A veure, tu m'escoltes, quan parlo?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17861144.wav|Es veu que es van conèixer a l'institut.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17861147.wav|Quin dia és el teu aniversari?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17867757.wav|Venim de Torrelles de Foix.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17867759.wav|La cadena embragava amb el plat mitjà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17867760.wav|Venim de Cerdà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17867765.wav|Venim d'Orpesa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17867766.wav|Aquesta emissora cada vegada té més oients.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17867769.wav|Venim de Campelles.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872239.wav|Mal de ronyons, cataplasmes de fonoll.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872244.wav|Venim de la Nou de Gaià.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872265.wav|Se'ns ofereix un món ple de possibilitats; aprofitar-lo depèn de nosaltres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872280.wav|Venim de la Massana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872281.wav|Encarreguem una pizza?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872291.wav|M'agrades amb aquest eslip tan lluent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872292.wav|La ràdio del mòbil només agafa emissores evangelistes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872293.wav|Venim de Càlig.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872294.wav|Hi va haver una pausa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872296.wav|Venim de l'Arboç.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872298.wav|Quan faci vacances aniré cada dia a la platja.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872299.wav|Venim de Villena.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872300.wav|La longitud de la traça pel carrer de La Rioja és de seixanta-tres metres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872303.wav|Vull ser mariner!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872306.wav|Venim de Sellent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872309.wav|El ritme del swing enganxa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872311.wav|Venim de Sant Pere de Vilamajor.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872318.wav|Venim de Catarroja.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872319.wav|Platja o muntanya?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872324.wav|Venim de Viver i Serrateix.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872329.wav|Hi hauria demanda i oferta, però no hi ha canal que les comuniqui.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872333.wav|Venim de Castalla.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872340.wav|Venim de Fulleda.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872346.wav|Li agrada la noia de la faldilla de quadres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872347.wav|Demà, llegum cuit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872352.wav|Venim de la Llosa del Bisbe.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872356.wav|Quan torneu de vacances?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872365.wav|Venim de Crevillent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872367.wav|Aquests fideus a la cassola són deliciosos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872368.wav|Compartir els paquets de llengua és molt fàcil amb el robot.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17872371.wav|Venim d'Alpens.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874752.wav|Venim de Gurb.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874754.wav|Venim de Puigpunyent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874756.wav|La màxima velocitat és aquesta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874759.wav|Venim de Cirat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874762.wav|Aigua i pa, sopa farà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874763.wav|Venim de Benetússer.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874764.wav|Els projectes lliures tendeixen a crear documentació amb manuals d'ús i instal·lació o recopilatoris de preguntes i respostes més freqüents.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874773.wav|Cada núvol tenia una forma diferent, no determinada, que, a poc a poc, anava canviant.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874788.wav|En tota la vida només he llegit un llibre, en concret una història del Futbol Club Barcelona.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874789.wav|La Concepció té angines.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874790.wav|La seva mirada és fi xa, i les seves mans, els peus i el trau del pit mostren els signes clars dels estigmes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874812.wav|I ho farem en termes de població i sobre els seus ingressos corrents.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874813.wav|Venim de Bolulla.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874814.wav|La resta de sectors perden ocupació en aquest període.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874822.wav|Venim de Herbers.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874824.wav|Venim de Figueres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874830.wav|Venim de Sant Llorenç d'Hortons.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874860.wav|El capellà es diu Miquel i té les galtes vermelles.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874872.wav|Venim de la Coma i la Pedra.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874874.wav|Venim d'Albons.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874883.wav|Venim de Planoles.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874887.wav|Sortirem amb barca, Eduard.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874894.wav|Els comentaris instrumentals també fan un paper destacat en el pla de l'orquestració.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874911.wav|Venim de Mollet de Peralada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874927.wav|Venim de Vallirana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874929.wav|Venim de Rajadell.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874947.wav|El web dels filatèlics té un botó per sucar-hi el dit.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874961.wav|Venim de les Fonts d'Aiòder.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874963.wav|Venim de Masarac.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17874964.wav|Venim de Bolvir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875039.wav|Denota una visió clarament androcèntrica i paternalista profundament arrelada en la societat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875041.wav|Venim de Nulles.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875044.wav|De Tots Sants a Sant Andreu, aigua ens doni Déu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875069.wav|Venim de Vilabertran.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875070.wav|Venim de Sora.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875071.wav|Panteó número dotze: el preu mínim serà de setanta mil set-cents vuitanta-quatre coma vint-i-cinc euros, que podrà ser millorat a l'alça.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875087.wav|Venim de Mollerussa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875102.wav|Quantes persones han col·laborat en aquestes traduccions?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875121.wav|Tinc devoció per les prunes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875149.wav|El meu assistent virtual és millor que el teu.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875152.wav|Venim de Vallbona d'Anoia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875154.wav|Venim d'Aspa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875155.wav|Diu l'alcalde que som uns contestataris.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875169.wav|Recordeu?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875172.wav|Era una concentració de trinxeraires.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17875173.wav|Venim de Porqueres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17884563.wav|Venim de Llutxent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17884569.wav|No vaig veure mai ningú que deixés de tirar en una de les tres.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17884571.wav|Venim de Beniarbeig.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17884572.wav|Venim de Torelló.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17884578.wav|Venim de Sant Julià de Ramis.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17884588.wav|Em sembla que amb el carnet de família nombrosa ens faran descompte.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17884590.wav|Ara ja no m'interesses.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17885896.wav|Està obsessionat amb l'esport: és addicte a exercici físic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17885897.wav|Venim de Felanitx.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17885899.wav|El programa ha d'incloure el seu codi font i no se'n pot restringir la distribució.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17885903.wav|Venim de Puigcerdà.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17885907.wav|Porteu crema protectora?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17885910.wav|Els sectors revolucionaris estaven cada dia més motivats.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17885913.wav|S'havia fotut dos gintònics i ja li patinava la neurona; no sap beure.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17885914.wav|Durant els anys seixanta i part dels setanta era habitual distribuir les aplicacions juntament amb el seu codi font.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888279.wav|L'aspecte de tot el país sencer hi testimonia el treball de les aigües.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888288.wav|Algun suggeriment?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888290.wav|Tinc cent quaranta-vuit missatges de correu per obrir.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888292.wav|Venim de Benejússer.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888294.wav|Barregen Fanta i Eristoff en una cassola.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888297.wav|Venim de Sempere.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888303.wav|Què voleu per berenar?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888304.wav|És l'hora d'esmorzar?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888307.wav|Nen, vés a córrer una estona, a veure si et relaxes.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888316.wav|Venim de Constantí.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888323.wav|Es relaxa pintant mandales.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888324.wav|Venim d'Otos.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888325.wav|Pa que sobre, carn que abaste i vi que no falte.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888329.wav|No he menjat gens de peix blau i ja se n'acaba la temporada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888336.wav|El joc que practicarem té un component didàctic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888337.wav|A continuació enumerarem alguns dels mites i errors més comuns sobre el programari lliure i donarem la visió que se n'hi té.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888340.wav|Venim de Tírvia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888343.wav|Fa molta estona que us esperem.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888348.wav|Venim de Sant Guim de la Plana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888351.wav|En Josep va arribar a la Formentera hippy dels setanta i s'hi va quedar.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888356.wav|Venim de Torrebesses.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888357.wav|Ara ja no sé si tinc gana o no en tinc.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888362.wav|Al bon vi, cuitar-hi.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888363.wav|Venim de Barxeta.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888364.wav|Ell s'entén i balla sol.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888365.wav|Venim de Gualba.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888367.wav|Consistirà en la realització d'una prova pràctica relacionada amb l'escala corresponent.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888369.wav|Sóc fill d'un temps de venda ambulant, de carros lluents i ben tirats per una poderosa haca llustrosa.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888373.wav|Venim de Foradada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888375.wav|Venim d'Alfés.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888378.wav|Això pel que respecta a l'afecció cap a Espanya.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888379.wav|Venim de Cervera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888382.wav|La civilització naixia sota la cabanya i anava a morir en els boscs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888383.wav|Venim de Castellfabib.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888385.wav|Venim de la Mata.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888393.wav|Venim de Molló.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888394.wav|Venim de Balones.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888400.wav|Farem un brindis per celebrar els seus èxits.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888401.wav|Té tres gossos i una gata.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888410.wav|De rics es dóna consells i de vells remei.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888413.wav|Venim de Salt.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888415.wav|Venim d'Oliana.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888420.wav|Que no és un xiprer, que és una tuia!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888426.wav|Qualsevol pot col·laborar en el projecte, bé escrivint articles nous, o bé corregint i ampliant els que ja hi ha.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888428.wav|Cal potenciar la lectura en valencià i la presència del valencià escrit en l'espai públic.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888435.wav|Les persones seleccionades seran les responsables de mantenir actualitzades les seves dades de contacte.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888442.wav|Venim de l'Escala.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888447.wav|El xai ha de ser molt tendre perquè el plat resulti.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888454.wav|Un homenatge a en Cabré era més que necessari.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888455.wav|Venim de Sant Vicent del Raspeig.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888457.wav|Ai mare, i jo que em pensava que ens sobraria temps.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888462.wav|Venim de Gelida.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888464.wav|Venim de Santa Cristina d'Aro.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888468.wav|Cada dia hi ha més zones blaves.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888471.wav|Venim de Vilamacolum.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888473.wav|Al que li regalen, no tria.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888474.wav|Venim de Sant Martí d'Albars.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888475.wav|El càmera va rebre un cop de puny.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888477.wav|Venim de Bordils.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888478.wav|Venim de Senan.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888485.wav|Venim de Farrera.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888488.wav|Venim de Vinaròs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888501.wav|Venim d'Estaràs.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888503.wav|Venim de Benillup.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888510.wav|És l'editorial dels comunistes i els ateus.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888515.wav|Indicis i característiques que determinen la idoneïtat.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888516.wav|Així calia educar els xics.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888538.wav|L'abastament d'aigua de l'explotació provindrà de la xarxa de reg del canal d'Urgell.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888540.wav|No m'atreu tant el seu físic, que està molt bé, com la seva traça amb el futbolí.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888544.wav|Quina pista m'has deixat?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888545.wav|Venim de Callús.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888547.wav|Venim de Sant Salvador de Guardiola.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888549.wav|Les fulles seques dansen amb les bosses de plàstic i els mocadors de paper.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17888560.wav|Tant una àvia com l'altra anaven a plaça cada dia.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17893924.wav|Venim de Sant Pere de Riudebitlles.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17893927.wav|El programari és un programa o un conjunt de programes informàtics que fan una tasca determinada.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17893928.wav|Venim de Culla.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17893931.wav|M'han mangat la tauleta digital!
+/home/usuaris/veu/macia.amoros/common_voice_ca_17893935.wav|Era esquifit i sord.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17893939.wav|A partir de demà a la tarda baixaran les temperatures.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17893944.wav|Era una app molt útil per als turistes alemanys.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17893946.wav|Març ventós i abril plujós fan el maig florit i formós.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17893948.wav|Venim de Búger.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17893955.wav|Venim de Picanya.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17897079.wav|Si plou per la lluna nova d'agost, plourà nou llunes seguides.
+/home/usuaris/veu/macia.amoros/common_voice_ca_17897792.wav|Saps algun remei casolà per a les picades de medusa?
+/home/usuaris/veu/macia.amoros/common_voice_ca_17901127.wav|Venim de Montclar.
